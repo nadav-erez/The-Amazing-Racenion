@@ -1,0 +1,8 @@
+addTeam 1
+addTeam 2
+addContestant 11 1 2 0 0 1 50 0
+addContestant 21 2 1 0 0 1 20 0
+recruit 2 1
+recruit 1 2
+getIthCollectiveMotivationTeam 1
+getTeamExperience 1

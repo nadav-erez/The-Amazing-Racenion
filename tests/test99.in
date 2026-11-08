@@ -1,0 +1,17 @@
+addTeam 1
+addTeam 2
+addContestant 10 1 1 0 0 1 100 5
+addContestant 20 2 2 0 0 2 50 2
+recruit 1 2
+getPartialTeamSkill 20
+getContestantMissionsNumber 20
+duel 1 1
+addTeam 3
+addContestant 30 3 3 0 0 3 150 0
+duel 1 3
+getContestantMissionsNumber 20
+getTeamExperience 3
+getIthCollectiveMotivationTeam 1
+getIthCollectiveMotivationTeam 2
+removeTeam 3
+getIthCollectiveMotivationTeam 2

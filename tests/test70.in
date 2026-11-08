@@ -1,0 +1,15 @@
+addTeam 1
+addTeam 2
+addContestant 101 1 1 0 0 1 10 0
+addContestant 102 1 1 0 0 1 10 0
+addContestant 103 1 1 0 0 1 10 0
+addContestant 201 2 1 0 0 1 10 0
+addContestant 202 2 1 0 0 1 10 0
+duel 1 2
+duel 1 2
+removeTeam 1
+getContestantMissionsNumber 103
+getPartialTeamSkill 103
+recruit 2 1
+addContestant 104 1 1 0 0 1 10 0
+getContestantMissionsNumber 101

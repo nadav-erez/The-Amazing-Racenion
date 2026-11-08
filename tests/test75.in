@@ -1,0 +1,21 @@
+addTeam 1
+addTeam 2
+addTeam 3
+addTeam 4
+addTeam 5
+getIthCollectiveMotivationTeam 1
+getIthCollectiveMotivationTeam 3
+addContestant 11 1 1 0 0 1 10 0
+getIthCollectiveMotivationTeam 1
+getIthCollectiveMotivationTeam 4
+getIthCollectiveMotivationTeam 5
+removeTeam 3
+getIthCollectiveMotivationTeam 2
+getIthCollectiveMotivationTeam 4
+addContestant 55 5 1 0 0 1 20 0
+getIthCollectiveMotivationTeam 1
+getIthCollectiveMotivationTeam 2
+getIthCollectiveMotivationTeam 3
+getIthCollectiveMotivationTeam 4
+getIthCollectiveMotivationTeam 5
+getTeamExperience 5

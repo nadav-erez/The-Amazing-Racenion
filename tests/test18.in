@@ -1,0 +1,6000 @@
+addTeam 1
+addTeam 2
+addTeam 3
+addTeam 4
+addTeam 5
+addTeam 6
+addTeam 7
+addTeam 8
+addTeam 9
+addTeam 10
+addContestant 1 9 1 0 0 3 12 1
+addContestant 2 1 1 0 0 3 28 3
+addContestant 3 7 1 0 0 3 111 0
+addContestant 1 3 4 1 1 2 44 3
+addContestant 4 1 3 0 0 1 13 1
+addContestant 5 7 3 0 0 1 50 1
+addContestant 6 10 2 0 1 1 2 0
+addContestant 7 9 3 0 0 1 254 0
+addContestant 8 7 3 0 0 1 79 1
+addContestant 9 2 1 0 0 3 44 1
+addContestant 10 10 1 0 1 2 27 2
+addContestant 11 7 1 0 1 2 1 3
+addContestant 6 7 3 0 0 1 27 1
+addContestant 12 2 2 0 1 1 71 3
+addContestant 13 7 1 0 1 2 379 1
+addContestant 14 1 1 0 1 2 141 0
+addContestant 15 10 2 1 0 1 39 2
+addContestant 16 5 4 1 1 2 55 3
+addContestant 17 3 3 0 0 1 258 1
+addContestant 18 8 1 0 1 2 42 3
+addContestant 19 4 2 1 0 1 118 0
+addContestant 20 5 1 0 0 3 44 3
+addContestant 21 9 1 0 1 2 4 2
+addContestant 22 5 2 1 0 1 8 1
+addContestant 23 8 2 0 1 1 40 0
+addContestant 24 5 2 0 1 1 146 0
+getIthCollectiveMotivationTeam 1
+addContestant 25 1064 1 0 0 3 73 9
+getIthCollectiveMotivationTeam 9
+addContestant 26 9 2 0 1 1 38 3
+duel 6 7
+getPartialTeamSkill 12
+addContestant 27 6 1 0 1 2 114 3
+addTeam 195
+addContestant 0 505 2 1 0 1 5 0
+getPartialTeamSkill 2122
+addTeam 993
+duel 2 8
+addTeam 190
+duel 3 993
+addContestant 28 195 1 0 0 3 32 7
+addContestant 29 4 2 0 1 1 132 9
+getContestantMissionsNumber 28
+getIthCollectiveMotivationTeam 13
+recruit 190 9
+getPartialTeamSkill 0
+addContestant 30 7 1 0 1 2 13 10
+removeTeam 487
+addTeam 725
+getPartialTeamSkill 26
+getContestantMissionsNumber 16
+recruit 5 190
+addTeam 487
+getPartialTeamSkill 20
+getPartialTeamSkill 2217
+addContestant 31 8 1 0 0 3 34 6
+removeTeam 10
+duel 8 195
+recruit 993 487
+removeTeam 7
+duel 9 1
+addContestant 32 1 1 0 0 3 15 9
+addContestant 33 993 2 1 0 1 17 8
+getPartialTeamSkill 24
+getContestantMissionsNumber 2
+addTeam 31
+recruit 5 10
+getIthCollectiveMotivationTeam 7
+removeTeam 2
+recruit 725 190
+addContestant 34 4 1 0 0 3 11 6
+addContestant 35 7 2 0 1 1 61 3
+addContestant 36 1 2 1 0 1 25 4
+addContestant 37 7 3 0 0 1 28 3
+addContestant 38 1198 1 0 1 2 29 7
+getPartialTeamSkill 0
+addContestant 9 9 1 0 1 2 36 6
+getIthCollectiveMotivationTeam 4
+getContestantMissionsNumber 19
+recruit 31 5
+addTeam 127
+addContestant 39 7 1 0 0 3 29 4
+removeTeam 1345
+duel 190 993
+getPartialTeamSkill 33
+addTeam -1055
+duel 127 195
+getIthCollectiveMotivationTeam 3
+removeTeam 127
+duel 1280 1280
+getIthCollectiveMotivationTeam 6
+getContestantMissionsNumber 2188
+removeTeam 1
+removeTeam 9
+addContestant 40 8 4 1 1 2 146 9
+getPartialTeamSkill 31
+addTeam 1248
+removeTeam 8
+duel 190 6
+duel 1248 5
+getIthCollectiveMotivationTeam 10
+duel 1248 993
+addContestant 41 1370 2 1 0 1 10 0
+getPartialTeamSkill 35
+addContestant 41 190 2 1 0 1 121 2
+getIthCollectiveMotivationTeam 11
+duel 725 1248
+getIthCollectiveMotivationTeam 9
+addTeam 602
+duel 5 3
+getPartialTeamSkill 41
+getContestantMissionsNumber 537
+removeTeam 602
+recruit 725 1333
+addContestant 42 6 2 1 0 1 6 3
+getPartialTeamSkill 16
+getPartialTeamSkill 20
+getPartialTeamSkill 17
+duel 487 31
+addTeam 602
+addContestant 37 602 1 0 0 3 327 4
+addTeam 10
+getPartialTeamSkill 4
+getIthCollectiveMotivationTeam 8
+getContestantMissionsNumber 3
+duel 3 6
+getIthCollectiveMotivationTeam 19
+recruit 4 1248
+addTeam 1234
+addContestant 38 1234 2 0 1 1 49 8
+recruit 6 1248
+duel 190 5
+getPartialTeamSkill 35
+removeTeam 487
+getPartialTeamSkill 34
+duel 725 602
+duel 3 993
+addContestant 43 993 2 1 0 1 16 6
+getContestantMissionsNumber 26
+getContestantMissionsNumber 36
+getContestantMissionsNumber 21
+getContestantMissionsNumber 39
+recruit 6 10
+recruit 4 1365
+addContestant 44 4 4 1 1 2 92 6
+removeTeam 1234
+addContestant 45 190 1 0 1 2 60 0
+duel 1248 1352
+getPartialTeamSkill 2290
+addTeam 1204
+addTeam 35
+addContestant 46 35 2 1 0 1 2 0
+removeTeam 1324
+addTeam 387
+addContestant 47 5 2 1 0 1 108 7
+getPartialTeamSkill 24
+addTeam 991
+addContestant 48 602 1 0 1 2 156 3
+duel 31 1248
+getPartialTeamSkill 28
+addContestant 49 3 2 1 0 1 56 0
+duel 387 602
+getContestantMissionsNumber 49
+getPartialTeamSkill 27
+removeTeam 387
+getContestantMissionsNumber 41
+duel 993 3
+getPartialTeamSkill 16
+addTeam 535
+duel 1204 31
+removeTeam 1248
+addContestant 50 195 3 0 0 1 12 3
+addContestant 39 535 1 0 1 2 19 6
+duel 5 195
+recruit 602 1369
+getIthCollectiveMotivationTeam 15
+recruit 190 3
+duel 602 991
+addContestant 51 993 4 1 1 2 4 0
+duel 195 993
+duel 602 3
+duel 190 10
+getPartialTeamSkill 33
+addContestant 0 414 2 1 0 1 5 0
+addTeam 871
+getIthCollectiveMotivationTeam 2
+getIthCollectiveMotivationTeam 21
+addContestant 52 1323 2 1 0 1 10 0
+removeTeam 1335
+getIthCollectiveMotivationTeam 2
+duel 6 35
+recruit 871 602
+addContestant 52 871 2 0 1 1 56 2
+addTeam 264
+addContestant 53 1339 2 1 0 1 10 0
+duel 195 535
+getPartialTeamSkill 19
+duel 3 725
+getIthCollectiveMotivationTeam 9
+getIthCollectiveMotivationTeam 14
+addContestant 0 1115 2 1 0 1 5 0
+getContestantMissionsNumber -1
+recruit 6 10
+addContestant 53 10 1 0 1 2 10 6
+duel 871 1204
+addTeam 914
+addTeam 105
+addContestant 54 6 4 1 1 2 37 4
+removeTeam 991
+duel 871 725
+removeTeam 914
+getPartialTeamSkill 22
+getIthCollectiveMotivationTeam 1
+getPartialTeamSkill 49
+getContestantMissionsNumber 1443
+addContestant 55 535 2 0 1 1 2 7
+addContestant 56 535 2 0 1 1 184 5
+duel 447 447
+removeTeam 105
+duel 5 602
+getPartialTeamSkill 2124
+addContestant 57 367 2 1 0 1 37 4
+recruit 4 487
+getContestantMissionsNumber 7
+getPartialTeamSkill 1
+recruit 871 1248
+getContestantMissionsNumber 45
+recruit 5 127
+addContestant 58 35 3 0 0 1 15 8
+getIthCollectiveMotivationTeam 12
+getPartialTeamSkill 2133
+addContestant 59 871 2 0 1 1 18 1
+addContestant 60 535 1 0 1 2 155 2
+addTeam 1044
+addContestant 61 31 1 0 1 2 22 8
+duel 602 31
+duel 871 1362
+addContestant 62 31 2 0 1 1 3 9
+getIthCollectiveMotivationTeam 10
+addTeam 380
+addContestant 63 31 3 0 0 1 39 10
+getContestantMissionsNumber 13
+duel 871 10
+addContestant 64 535 2 1 0 1 270 1
+getPartialTeamSkill 45
+getPartialTeamSkill 44
+duel 3 1333
+getIthCollectiveMotivationTeam 16
+addTeam 52
+addTeam 339
+addContestant 65 3 1 0 1 2 30 9
+addContestant 66 535 2 0 1 1 6 3
+addTeam 553
+addContestant 67 3 1 0 0 3 64 3
+getContestantMissionsNumber 33
+addContestant 68 190 2 0 1 1 13 10
+addContestant 69 6 3 0 0 1 26 0
+recruit 1044 1356
+addTeam 9
+recruit 195 31
+duel 10 4
+getPartialTeamSkill 25
+getContestantMissionsNumber 40
+removeTeam 35
+getContestantMissionsNumber 2244
+recruit 1204 9
+addContestant 70 871 2 1 0 1 57 2
+getPartialTeamSkill 41
+getIthCollectiveMotivationTeam 31
+removeTeam 264
+getPartialTeamSkill 56
+addTeam 126
+addTeam -1218
+addTeam 1234
+getPartialTeamSkill 47
+getPartialTeamSkill 34
+addContestant 71 10 2 1 0 1 181 5
+addContestant 0 1034 2 1 0 1 5 0
+addTeam 1078
+getPartialTeamSkill 71
+removeTeam 126
+removeTeam 0
+addTeam 4
+getPartialTeamSkill 24
+getIthCollectiveMotivationTeam 16
+recruit 339 3
+getContestantMissionsNumber 16
+getContestantMissionsNumber 39
+getContestantMissionsNumber 54
+getIthCollectiveMotivationTeam 10
+addContestant 72 535 2 1 0 1 25 2
+removeTeam 380
+getContestantMissionsNumber 2294
+addTeam 1
+getIthCollectiveMotivationTeam 19
+addContestant 73 725 4 1 1 2 85 0
+getContestantMissionsNumber 37
+addContestant 74 602 2 0 1 1 115 2
+addContestant 75 52 1 0 1 2 109 0
+getPartialTeamSkill 25
+addTeam 1142
+addContestant 76 991 3 0 0 1 28 8
+duel 1234 52
+getIthCollectiveMotivationTeam 6
+getContestantMissionsNumber 37
+getPartialTeamSkill 0
+getPartialTeamSkill 29
+removeTeam 1340
+duel 725 10
+duel 190 9
+recruit 1234 1354
+duel 1078 602
+getIthCollectiveMotivationTeam 22
+addContestant 77 993 2 1 0 1 7 1
+getContestantMissionsNumber 69
+recruit 190 993
+addTeam 1204
+addContestant 26 10 1 0 0 3 5 0
+addTeam 1078
+recruit 1078 725
+addTeam 1039
+addContestant 0 655 2 1 0 1 5 0
+removeTeam 190
+getPartialTeamSkill 10
+getIthCollectiveMotivationTeam 21
+getPartialTeamSkill 65
+addContestant 0 934 2 1 0 1 5 0
+getContestantMissionsNumber -1
+recruit 3 1360
+addContestant 78 993 1 0 1 2 34 7
+addContestant 79 31 3 0 0 1 88 1
+getContestantMissionsNumber -1
+addContestant 80 1142 1 0 0 3 41 6
+addContestant 81 10 2 0 1 1 15 5
+duel 725 1340
+addContestant 82 1204 3 0 0 1 70 8
+getContestantMissionsNumber 43
+getPartialTeamSkill 0
+removeTeam 993
+recruit 535 52
+duel 1142 3
+recruit 9 1142
+duel 195 1039
+duel 1044 1078
+removeTeam 535
+getContestantMissionsNumber 52
+duel 1044 3
+duel 725 1142
+addContestant 83 31 2 0 1 1 61 10
+getPartialTeamSkill 54
+addContestant 84 10 3 0 0 1 61 7
+removeTeam 3
+getIthCollectiveMotivationTeam 26
+recruit 602 1044
+getContestantMissionsNumber -1
+getPartialTeamSkill 22
+recruit 31 1
+getPartialTeamSkill 34
+addContestant 85 35 1 0 0 3 163 9
+duel 5 1039
+addContestant 86 1039 3 0 0 1 36 9
+recruit 31 3
+addTeam 1134
+addContestant 87 1363 2 1 0 1 10 0
+addContestant 87 195 1 0 0 3 15 10
+addTeam 429
+getIthCollectiveMotivationTeam 1
+removeTeam 1134
+addContestant 88 1204 2 0 1 1 67 10
+getContestantMissionsNumber 47
+getPartialTeamSkill 85
+getPartialTeamSkill 80
+addContestant 89 4 2 0 1 1 65 4
+getPartialTeamSkill 71
+getIthCollectiveMotivationTeam 19
+addContestant 90 1234 4 1 1 2 150 7
+addContestant 91 1310 3 0 0 1 62 3
+getContestantMissionsNumber 88
+addTeam 1257
+addContestant 92 725 1 0 1 2 11 3
+duel 1078 602
+getContestantMissionsNumber 82
+getIthCollectiveMotivationTeam 9
+removeTeam 429
+removeTeam 458
+removeTeam 1321
+duel 1204 871
+duel 9 10
+getContestantMissionsNumber 632
+addContestant 93 9 1 0 0 3 48 0
+addTeam 66
+addContestant 94 1039 1 0 1 2 29 5
+addContestant 95 1 4 1 1 2 87 3
+recruit 4 6
+getContestantMissionsNumber 1985
+duel 1039 871
+addContestant 0 5 2 1 0 1 5 0
+duel 101 101
+duel 602 871
+getContestantMissionsNumber 7
+duel 602 1336
+removeTeam 1142
+getPartialTeamSkill 31
+addContestant 96 195 1 0 0 3 47 2
+duel 1078 10
+duel 4 339
+getPartialTeamSkill 83
+getContestantMissionsNumber 41
+getContestantMissionsNumber 88
+duel 9 66
+addContestant 97 10 2 0 1 1 10 7
+addContestant 98 4 2 0 1 1 18 2
+getPartialTeamSkill 44
+getIthCollectiveMotivationTeam 3
+addTeam 1044
+getContestantMissionsNumber 28
+getIthCollectiveMotivationTeam 9
+getIthCollectiveMotivationTeam 10
+addContestant 99 190 3 0 0 1 42 0
+addTeam 1108
+getIthCollectiveMotivationTeam 8
+getContestantMissionsNumber 8
+getIthCollectiveMotivationTeam 19
+getIthCollectiveMotivationTeam 15
+addTeam 1128
+addTeam 148
+addContestant 100 1 4 1 1 2 76 0
+getIthCollectiveMotivationTeam 25
+addContestant 98 602 2 1 0 1 58 0
+getPartialTeamSkill 86
+getContestantMissionsNumber 44
+addContestant 101 195 3 0 0 1 52 0
+addContestant 102 1039 4 1 1 2 89 7
+duel 66 9
+getPartialTeamSkill 101
+duel 602 9
+addTeam 659
+addContestant 103 553 3 0 0 1 75 9
+getIthCollectiveMotivationTeam 25
+duel 1 1367
+addContestant 104 5 1 0 0 3 41 10
+addContestant 105 1 4 1 1 2 14 5
+duel 6 4
+addContestant 106 148 1 0 1 2 262 7
+recruit 553 1322
+duel 553 148
+duel 553 148
+addContestant 107 2 2 1 0 1 57 1
+addContestant 108 339 2 0 1 1 74 2
+getContestantMissionsNumber 2239
+duel 148 725
+addContestant 109 339 4 1 1 2 137 2
+getContestantMissionsNumber 33
+duel 148 553
+getContestantMissionsNumber -1
+getContestantMissionsNumber 54
+recruit 52 602
+addContestant 110 10 1 0 1 2 23 6
+addContestant 111 1108 3 0 0 1 120 3
+addContestant 112 1257 4 1 1 2 37 10
+addTeam 3
+recruit 1039 1234
+recruit 52 659
+duel 5 1039
+removeTeam 4
+recruit 339 195
+addContestant 113 52 1 0 0 3 25 2
+getContestantMissionsNumber 105
+addContestant 114 9 4 1 1 2 83 6
+addContestant 115 1078 2 1 0 1 5 10
+getIthCollectiveMotivationTeam 26
+getIthCollectiveMotivationTeam 21
+duel 725 1204
+getPartialTeamSkill 2250
+recruit 339 659
+removeTeam 0
+addContestant 116 10 1 0 0 3 2 5
+duel 339 1234
+addTeam 107
+removeTeam 1204
+removeTeam 195
+removeTeam 0
+recruit 1108 1044
+recruit 1128 1
+getContestantMissionsNumber 39
+getIthCollectiveMotivationTeam 6
+duel 339 3
+addContestant 117 6 3 0 0 1 177 0
+getContestantMissionsNumber 2103
+addContestant 118 602 2 1 0 1 24 10
+getContestantMissionsNumber 67
+addContestant 119 2 1 0 1 2 87 9
+addContestant 120 1128 1 0 1 2 20 2
+getPartialTeamSkill 2155
+addTeam -528
+addTeam 543
+addContestant 121 1039 2 1 0 1 55 1
+addTeam 8
+duel 543 1044
+addContestant 122 1078 1 0 0 3 75 7
+getContestantMissionsNumber 36
+getIthCollectiveMotivationTeam 21
+getContestantMissionsNumber 73
+addContestant 123 6 1 0 0 3 51 0
+duel 725 1108
+addContestant 124 210 3 0 0 1 48 2
+duel 3 1108
+recruit 1108 52
+getContestantMissionsNumber 83
+addContestant 125 107 3 0 0 1 39 2
+duel 10 1078
+getPartialTeamSkill 85
+getPartialTeamSkill 115
+addContestant 29 5 2 0 1 1 5 7
+duel 553 9
+addContestant 126 31 1 0 0 3 80 0
+removeTeam 1348
+getContestantMissionsNumber -1
+addContestant 127 345 2 1 0 1 22 1
+getPartialTeamSkill 93
+addTeam 269
+addContestant 128 602 2 0 1 1 67 8
+duel 1257 66
+getContestantMissionsNumber 2270
+recruit 1 543
+addContestant 129 148 3 0 0 1 11 2
+addContestant 130 5 3 0 0 1 30 7
+recruit 3 8
+addContestant 131 8 1 0 1 2 142 2
+addContestant 132 1 2 0 1 1 3 2
+addTeam 851
+getPartialTeamSkill 126
+getContestantMissionsNumber 28
+recruit 851 1108
+getIthCollectiveMotivationTeam 26
+addTeam 1274
+addContestant 133 1128 3 0 0 1 17 1
+addContestant 134 553 4 1 1 2 55 6
+addContestant 135 851 2 0 1 1 144 9
+recruit 553 3
+getIthCollectiveMotivationTeam 15
+getIthCollectiveMotivationTeam 3
+duel 107 553
+removeTeam 0
+duel 10 66
+getContestantMissionsNumber -1
+recruit 269 1327
+duel 1078 553
+addContestant 136 1274 2 1 0 1 28 4
+addContestant 137 1234 1 0 1 2 137 5
+addContestant 138 1274 2 0 1 1 4 10
+removeTeam 553
+getContestantMissionsNumber 55
+duel 52 9
+addTeam 1022
+addContestant 139 52 4 1 1 2 132 9
+duel 9 31
+recruit 1128 66
+addContestant 140 1 2 1 0 1 9 2
+getIthCollectiveMotivationTeam 38
+getIthCollectiveMotivationTeam 13
+addContestant 141 31 1 0 0 3 70 4
+removeTeam 107
+duel 5 52
+duel 1108 3
+addContestant 142 602 3 0 0 1 32 4
+duel 1022 3
+addContestant 143 1335 2 1 0 1 10 0
+getContestantMissionsNumber -1
+getContestantMissionsNumber 88
+addContestant 143 10 3 0 0 1 37 1
+addContestant 144 5 1 0 1 2 105 10
+removeTeam 1
+recruit 5 1274
+getIthCollectiveMotivationTeam 34
+removeTeam 1366
+duel 66 9
+duel 1039 10
+getIthCollectiveMotivationTeam 27
+recruit 1044 871
+addTeam -443
+addContestant 145 148 3 0 0 1 13 1
+getIthCollectiveMotivationTeam 23
+addContestant 146 10 2 1 0 1 53 6
+removeTeam 3
+recruit 335 335
+duel 573 573
+duel 1039 1341
+removeTeam 1078
+getContestantMissionsNumber 96
+getPartialTeamSkill 42
+getContestantMissionsNumber 135
+addContestant 147 725 2 0 1 1 8 10
+getPartialTeamSkill 114
+getPartialTeamSkill 26
+addContestant 148 5 4 1 1 2 12 3
+addContestant 149 543 3 0 0 1 134 4
+addContestant 150 6 1 0 1 2 144 5
+addContestant 151 659 3 0 0 1 13 9
+getPartialTeamSkill 148
+addContestant 152 1128 2 1 0 1 2 2
+getContestantMissionsNumber 131
+getContestantMissionsNumber 119
+duel 400 400
+addTeam 366
+duel 366 871
+addTeam 634
+duel 8 269
+getPartialTeamSkill 61
+addContestant 153 1234 2 1 0 1 56 7
+recruit 66 1332
+recruit 1274 31
+duel 725 1044
+addContestant 154 269 2 1 0 1 93 10
+addContestant 48 6 3 0 0 1 110 7
+addContestant 155 9 1 0 0 3 85 8
+getContestantMissionsNumber 62
+getPartialTeamSkill 98
+duel 659 66
+getContestantMissionsNumber 14
+recruit 725 1330
+getIthCollectiveMotivationTeam 30
+getPartialTeamSkill 129
+addContestant 156 66 1 0 0 3 113 3
+recruit 5 1142
+duel 31 1370
+addContestant 157 1108 2 1 0 1 40 6
+getContestantMissionsNumber 113
+addContestant 149 1044 1 0 0 3 55 3
+duel 66 725
+removeTeam 1334
+addContestant 158 52 1 0 0 3 171 8
+addContestant 159 1342 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 17
+getPartialTeamSkill 107
+getIthCollectiveMotivationTeam 1
+duel 1274 6
+addContestant 159 1128 1 0 0 3 13 7
+duel 31 1337
+getPartialTeamSkill 62
+addContestant 160 1257 1 0 0 3 13 7
+duel 269 1234
+addTeam 993
+getContestantMissionsNumber 18
+recruit 1128 1369
+addContestant 161 1044 4 1 1 2 43 7
+duel 148 6
+addContestant 0 127 2 1 0 1 5 0
+duel 269 1367
+recruit 9 190
+duel 674 674
+addTeam 543
+getPartialTeamSkill 71
+getIthCollectiveMotivationTeam 8
+recruit 1039 1108
+recruit 1128 1108
+addContestant 162 851 4 1 1 2 82 3
+addContestant 163 264 3 0 0 1 114 6
+addContestant 164 269 1 0 0 3 10 1
+recruit 245 245
+recruit 269 1234
+removeTeam 1339
+getIthCollectiveMotivationTeam 2
+duel 52 1022
+getIthCollectiveMotivationTeam 23
+getPartialTeamSkill 150
+addContestant 165 1128 2 0 1 1 54 10
+removeTeam 52
+getContestantMissionsNumber 95
+getIthCollectiveMotivationTeam 15
+recruit 543 5
+addContestant 166 1364 2 1 0 1 10 0
+duel 6 366
+removeTeam 0
+getIthCollectiveMotivationTeam 7
+getIthCollectiveMotivationTeam 37
+recruit 634 105
+duel 5 1274
+getPartialTeamSkill 86
+getPartialTeamSkill 16
+addContestant 166 1128 2 1 0 1 135 3
+duel 1274 659
+addContestant 167 1324 2 1 0 1 10 0
+addContestant 167 5 3 0 0 1 286 1
+addTeam 694
+addTeam -28
+recruit 66 339
+addTeam 1131
+addContestant 168 66 1 0 1 2 22 10
+getContestantMissionsNumber 2210
+getPartialTeamSkill 2246
+addContestant 169 1108 2 0 1 1 83 3
+getContestantMissionsNumber 159
+removeTeam 871
+getIthCollectiveMotivationTeam 6
+addContestant 170 1267 2 0 1 1 64 0
+getContestantMissionsNumber 72
+getPartialTeamSkill 94
+getContestantMissionsNumber 55
+duel 10 1022
+getIthCollectiveMotivationTeam 2
+removeTeam 0
+recruit 1108 659
+getPartialTeamSkill 166
+recruit 8 725
+getContestantMissionsNumber 50
+getIthCollectiveMotivationTeam 14
+removeTeam 1352
+getIthCollectiveMotivationTeam 34
+duel 9 366
+recruit 851 1128
+addTeam 831
+duel 1169 1169
+addContestant 171 1234 2 1 0 1 160 2
+getContestantMissionsNumber 66
+duel 1234 1274
+duel 1022 831
+duel 66 1339
+getPartialTeamSkill 117
+addContestant 172 1274 2 0 1 1 21 3
+getIthCollectiveMotivationTeam 7
+getPartialTeamSkill 94
+recruit 1039 1234
+removeTeam 634
+addTeam 716
+duel 148 339
+getIthCollectiveMotivationTeam 26
+addContestant 173 9 1 0 0 3 140 10
+removeTeam 6
+duel 1128 1039
+addTeam 302
+addTeam 169
+addTeam 327
+getIthCollectiveMotivationTeam 26
+getPartialTeamSkill 141
+getIthCollectiveMotivationTeam 4
+getPartialTeamSkill 15
+duel 1274 8
+removeTeam 1367
+addContestant 174 1044 4 1 1 2 10 1
+duel 8 725
+recruit 1044 716
+recruit 851 694
+addContestant 175 831 2 1 0 1 52 4
+duel 851 66
+addTeam 1022
+addTeam 605
+recruit 366 5
+duel 1234 993
+removeTeam 302
+getIthCollectiveMotivationTeam 13
+recruit 366 1323
+recruit 169 269
+getContestantMissionsNumber 10
+getContestantMissionsNumber 43
+addContestant 176 387 1 0 0 3 147 9
+addContestant 177 169 2 1 0 1 147 0
+getIthCollectiveMotivationTeam 26
+getContestantMissionsNumber 2161
+getIthCollectiveMotivationTeam 41
+getPartialTeamSkill 2115
+addContestant 178 716 3 0 0 1 13 2
+recruit 851 659
+addContestant 179 1348 2 1 0 1 10 0
+duel 851 543
+duel 66 605
+getPartialTeamSkill 128
+duel 543 31
+addTeam 526
+getPartialTeamSkill 0
+removeTeam 1349
+duel 31 526
+getPartialTeamSkill 79
+getContestantMissionsNumber 139
+getIthCollectiveMotivationTeam 7
+getPartialTeamSkill 110
+duel 9 1044
+getPartialTeamSkill 0
+addContestant 179 1131 2 0 1 1 10 4
+getIthCollectiveMotivationTeam 16
+addContestant 180 1128 2 0 1 1 31 0
+getContestantMissionsNumber 86
+addContestant 181 1039 2 1 0 1 12 7
+recruit 605 107
+getIthCollectiveMotivationTeam 42
+addTeam 387
+getPartialTeamSkill 140
+addContestant 182 526 1 0 1 2 40 3
+getPartialTeamSkill 147
+getContestantMissionsNumber 2117
+duel 543 1044
+duel 66 526
+getPartialTeamSkill 143
+recruit 1128 1348
+getContestantMissionsNumber 27
+getContestantMissionsNumber 1191
+getPartialTeamSkill 138
+duel 694 659
+addContestant 183 886 1 0 0 3 199 9
+addContestant 184 602 2 0 1 1 36 10
+addContestant 185 1234 1 0 1 2 175 0
+addTeam 1003
+removeTeam 1334
+addContestant 186 602 1 0 1 2 5 8
+addContestant 187 1131 2 0 1 1 4 4
+addContestant 188 366 3 0 0 1 68 1
+duel 366 9
+addContestant 189 10 2 0 1 1 26 7
+addTeam 320
+getPartialTeamSkill 165
+duel 725 1022
+addContestant 190 602 2 0 1 1 134 1
+duel 10 269
+addTeam 1078
+addContestant 191 148 4 1 1 2 6 3
+getIthCollectiveMotivationTeam 28
+duel 1022 1128
+recruit 831 1003
+duel 1022 1003
+recruit 269 366
+getIthCollectiveMotivationTeam 8
+removeTeam 1347
+recruit 1108 694
+addContestant 192 1108 1 0 0 3 11 10
+getPartialTeamSkill 2278
+addContestant 193 1234 4 1 1 2 12 4
+duel 10 831
+removeTeam 1022
+addContestant 194 5 3 0 0 1 217 10
+getContestantMissionsNumber 34
+addContestant 195 716 2 1 0 1 18 2
+recruit 1003 1321
+removeTeam 851
+getPartialTeamSkill 143
+addContestant 196 1131 2 0 1 1 121 4
+duel 5 1044
+removeTeam 602
+addContestant 197 725 2 1 0 1 65 5
+duel 1044 169
+getContestantMissionsNumber 142
+duel 66 1337
+addContestant 198 716 2 1 0 1 48 7
+getPartialTeamSkill 120
+getPartialTeamSkill 73
+recruit 339 320
+addContestant 199 543 2 1 0 1 239 5
+getContestantMissionsNumber 174
+duel 1044 169
+addTeam 1127
+getContestantMissionsNumber 76
+addContestant 200 543 1 0 0 3 47 4
+getPartialTeamSkill 175
+recruit 1078 526
+getPartialTeamSkill 143
+removeTeam 1003
+addContestant 201 725 2 1 0 1 9 4
+addTeam 649
+removeTeam 1330
+getContestantMissionsNumber 136
+addContestant 202 725 1 0 1 2 170 10
+getContestantMissionsNumber 155
+recruit 1257 339
+addContestant 203 10 2 0 1 1 12 1
+duel 526 1352
+addContestant 204 526 2 0 1 1 93 2
+getPartialTeamSkill 16
+removeTeam 387
+removeTeam 1332
+removeTeam 9
+duel 605 5
+addTeam 1168
+recruit 169 716
+getPartialTeamSkill 0
+addContestant 205 327 2 1 0 1 88 7
+removeTeam 5
+getPartialTeamSkill 83
+recruit 831 320
+getContestantMissionsNumber 95
+duel 339 10
+duel 1078 1342
+recruit 1274 1168
+getContestantMissionsNumber 1083
+getContestantMissionsNumber 2153
+getContestantMissionsNumber 123
+duel 8 725
+getPartialTeamSkill 178
+addContestant 206 1341 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 19
+duel 521 521
+getIthCollectiveMotivationTeam 13
+getIthCollectiveMotivationTeam 29
+addTeam 1039
+addContestant 206 1336 2 1 0 1 10 0
+addTeam 823
+getIthCollectiveMotivationTeam 10
+addContestant 206 8 1 0 0 3 17 0
+duel 1274 605
+duel 716 1128
+getIthCollectiveMotivationTeam 24
+getPartialTeamSkill 168
+removeTeam 1234
+getPartialTeamSkill 107
+getIthCollectiveMotivationTeam 4
+removeTeam 716
+duel 1274 1039
+removeTeam 148
+getPartialTeamSkill 2236
+recruit 543 1358
+recruit 993 1363
+duel 659 1131
+getContestantMissionsNumber 204
+removeTeam 1355
+duel 659 1108
+addTeam 778
+duel 1127 605
+addContestant 207 1257 2 0 1 1 82 0
+addContestant 208 1128 1 0 1 2 285 4
+getContestantMissionsNumber 105
+getIthCollectiveMotivationTeam 5
+addTeam 748
+getContestantMissionsNumber -1
+addTeam 1265
+getPartialTeamSkill 146
+removeTeam 0
+addContestant 209 993 4 1 1 2 87 8
+getContestantMissionsNumber 72
+addTeam 301
+removeTeam 31
+addTeam 1265
+getPartialTeamSkill 157
+duel 66 301
+getContestantMissionsNumber 145
+getPartialTeamSkill 0
+duel 1044 1257
+getIthCollectiveMotivationTeam 32
+duel 605 66
+duel 1127 1356
+addTeam 490
+getPartialTeamSkill 111
+addTeam 590
+duel 490 320
+duel 320 1168
+getPartialTeamSkill 35
+addTeam 302
+getPartialTeamSkill 155
+addTeam 520
+addTeam 558
+duel 44 44
+addContestant 210 1128 2 1 0 1 34 6
+recruit 1265 339
+getPartialTeamSkill 107
+getContestantMissionsNumber 93
+addContestant 211 694 2 1 0 1 209 10
+duel 1078 649
+addTeam 35
+addContestant 212 526 4 1 1 2 163 3
+removeTeam 1348
+addContestant 213 605 2 0 1 1 30 8
+removeTeam 0
+getContestantMissionsNumber 2
+addContestant 214 659 2 0 1 1 14 7
+addContestant 215 1108 2 0 1 1 26 3
+addTeam 939
+getContestantMissionsNumber 2122
+removeTeam 1131
+removeTeam 526
+addContestant 216 649 1 0 0 3 22 6
+removeTeam 748
+duel 543 823
+duel 366 605
+addContestant 217 520 1 0 0 3 21 2
+getPartialTeamSkill 109
+getPartialTeamSkill 9
+addContestant 218 301 1 0 1 2 38 4
+recruit 543 939
+addTeam -718
+recruit 520 10
+getIthCollectiveMotivationTeam 45
+removeTeam 1359
+addContestant 219 387 3 0 0 1 71 2
+recruit 773 773
+getContestantMissionsNumber -1
+addContestant 220 1108 3 0 0 1 2 9
+getPartialTeamSkill 120
+duel 939 694
+removeTeam 649
+duel 269 694
+recruit 590 1039
+addTeam 982
+addContestant 221 725 1 0 1 2 172 4
+recruit 1274 269
+addContestant 222 5 1 0 1 2 222 0
+getPartialTeamSkill 211
+getContestantMissionsNumber 1332
+duel 993 490
+getIthCollectiveMotivationTeam 38
+duel 590 10
+addContestant 223 558 1 0 0 3 307 5
+removeTeam 1339
+addContestant 224 339 4 1 1 2 44 5
+getContestantMissionsNumber 169
+duel 320 520
+duel 590 694
+addContestant 225 605 2 0 1 1 84 9
+addContestant 226 993 4 1 1 2 173 0
+recruit 1044 327
+duel 66 320
+getPartialTeamSkill 29
+getPartialTeamSkill 14
+addContestant 227 1044 1 0 0 3 13 8
+addContestant 154 526 1 0 0 3 4 10
+removeTeam 1168
+getContestantMissionsNumber 144
+addContestant 228 558 2 1 0 1 181 6
+recruit 302 1039
+getPartialTeamSkill 116
+addContestant 229 66 2 1 0 1 104 5
+getPartialTeamSkill 183
+addContestant 230 320 3 0 0 1 128 0
+addContestant 231 66 1 0 0 3 91 6
+getIthCollectiveMotivationTeam 37
+getIthCollectiveMotivationTeam 23
+addContestant 232 320 4 1 1 2 132 7
+recruit 35 520
+getIthCollectiveMotivationTeam 35
+addTeam 884
+duel 543 269
+addContestant 233 35 3 0 0 1 18 8
+addContestant 234 1039 1 0 0 3 172 5
+getContestantMissionsNumber 78
+addContestant 235 487 3 0 0 1 36 2
+getIthCollectiveMotivationTeam 26
+addContestant 236 320 2 0 1 1 13 4
+recruit 302 387
+addContestant 216 590 1 0 1 2 199 6
+getContestantMissionsNumber 863
+getPartialTeamSkill 224
+addContestant 237 302 2 1 0 1 81 6
+addTeam 225
+addContestant 238 1257 3 0 0 1 28 0
+getIthCollectiveMotivationTeam 37
+addContestant 239 1357 2 1 0 1 10 0
+getPartialTeamSkill 2266
+getIthCollectiveMotivationTeam 31
+addTeam 59
+addTeam 236
+addTeam -293
+addContestant 239 1078 1 0 1 2 17 4
+addTeam 1234
+addTeam -409
+recruit 831 939
+addTeam 1168
+addContestant 240 982 1 0 1 2 55 10
+addContestant 241 1044 2 1 0 1 3 0
+duel 366 327
+removeTeam 398
+duel 302 366
+addContestant 242 339 1 0 0 3 42 2
+getPartialTeamSkill 2216
+addTeam -925
+addContestant 243 520 3 0 0 1 10 10
+getPartialTeamSkill 71
+getContestantMissionsNumber 75
+recruit 1044 66
+addContestant 0 196 2 1 0 1 5 0
+duel 169 1234
+removeTeam 1108
+addTeam 659
+recruit 1274 236
+duel 939 10
+addContestant 244 1044 4 1 1 2 91 5
+addContestant 245 1127 1 0 0 3 45 8
+duel 1274 520
+addContestant 0 407 2 1 0 1 5 0
+getContestantMissionsNumber -1
+addContestant 246 1168 2 0 1 1 62 7
+addContestant 247 59 1 0 0 3 139 0
+addContestant 248 366 2 0 1 1 12 4
+duel 236 823
+addContestant 249 939 2 1 0 1 131 9
+duel 520 1265
+duel 327 1257
+getContestantMissionsNumber 230
+recruit 778 327
+getContestantMissionsNumber 855
+addTeam 554
+getPartialTeamSkill 209
+duel 554 590
+duel 301 1348
+removeTeam 320
+addContestant 0 1041 2 1 0 1 5 0
+removeTeam 1357
+addTeam 150
+addTeam 470
+addContestant 250 236 2 1 0 1 68 8
+addTeam 535
+getIthCollectiveMotivationTeam 15
+recruit 884 659
+addTeam 368
+removeTeam 558
+addTeam 569
+getContestantMissionsNumber 133
+recruit 605 470
+getContestantMissionsNumber 2290
+getPartialTeamSkill 225
+addTeam 43
+addContestant 251 778 4 1 1 2 2 2
+removeTeam 8
+recruit 939 339
+addContestant 252 590 1 0 1 2 69 0
+duel 59 1078
+duel 939 1369
+duel 1128 327
+getContestantMissionsNumber 113
+getContestantMissionsNumber 135
+recruit 1274 302
+getIthCollectiveMotivationTeam 41
+getIthCollectiveMotivationTeam 30
+getIthCollectiveMotivationTeam 20
+addTeam 1287
+getIthCollectiveMotivationTeam 39
+addContestant 253 66 2 0 1 1 78 5
+getIthCollectiveMotivationTeam 12
+removeTeam 1275
+addContestant 254 150 2 1 0 1 60 7
+getContestantMissionsNumber 145
+addContestant 255 236 1 0 1 2 4 3
+addTeam 320
+duel 590 831
+recruit 302 327
+addContestant 218 543 1 0 1 2 24 2
+addContestant 256 169 1 0 0 3 37 9
+addTeam 344
+duel 301 993
+addTeam 794
+getContestantMissionsNumber 122
+removeTeam 1044
+recruit 320 169
+getPartialTeamSkill 151
+addTeam -603
+getIthCollectiveMotivationTeam 41
+addContestant 257 225 1 0 1 2 24 10
+duel 302 982
+addTeam 398
+removeTeam 1364
+getContestantMissionsNumber -1
+getContestantMissionsNumber -1
+addTeam 645
+addContestant 0 1313 2 1 0 1 5 0
+addTeam 719
+getIthCollectiveMotivationTeam 41
+addContestant 258 1257 2 0 1 1 1 7
+addContestant 259 725 3 0 0 1 171 4
+getContestantMissionsNumber 186
+duel 366 327
+removeTeam 490
+duel 778 1128
+addTeam 974
+recruit 269 59
+addContestant 260 344 2 1 0 1 12 6
+addTeam 25
+addContestant 261 1168 2 1 0 1 27 5
+addTeam 3
+recruit 778 327
+getContestantMissionsNumber 43
+getPartialTeamSkill 109
+addContestant 262 1078 4 1 1 2 45 3
+recruit 35 344
+getIthCollectiveMotivationTeam 35
+addTeam 858
+getIthCollectiveMotivationTeam 12
+addTeam 36
+getIthCollectiveMotivationTeam 12
+addTeam 823
+getPartialTeamSkill 175
+getPartialTeamSkill 147
+addContestant 263 35 2 1 0 1 130 5
+addContestant 264 327 2 0 1 1 2 8
+duel 590 1321
+removeTeam 1094
+getContestantMissionsNumber 2117
+getIthCollectiveMotivationTeam 4
+getIthCollectiveMotivationTeam 18
+duel 1128 1356
+addTeam 537
+removeTeam 645
+recruit 605 236
+getContestantMissionsNumber 143
+addContestant 265 1369 2 1 0 1 10 0
+addContestant 265 59 3 0 0 1 148 2
+addContestant 266 974 1 0 0 3 16 9
+addContestant 267 36 2 1 0 1 211 2
+addContestant 268 302 1 0 0 3 103 1
+getPartialTeamSkill 2220
+addTeam 159
+addContestant 269 236 2 0 1 1 8 2
+getContestantMissionsNumber 17
+removeTeam 1128
+addContestant 34 320 1 0 0 3 35 8
+addTeam 380
+duel 823 1331
+addContestant 270 159 1 0 1 2 41 2
+recruit 1274 3
+getContestantMissionsNumber 2173
+addContestant 271 605 3 0 0 1 101 9
+getPartialTeamSkill 203
+getIthCollectiveMotivationTeam 9
+getIthCollectiveMotivationTeam 60
+removeTeam 554
+addContestant 272 820 2 1 0 1 77 2
+getIthCollectiveMotivationTeam 60
+getIthCollectiveMotivationTeam 42
+removeTeam 1127
+duel 1168 1274
+removeTeam 884
+getPartialTeamSkill 0
+addTeam 1269
+removeTeam 66
+getIthCollectiveMotivationTeam 6
+recruit 1274 25
+addContestant 273 9 2 0 1 1 3 5
+getContestantMissionsNumber 58
+addTeam 875
+addContestant 274 875 1 0 1 2 63 3
+removeTeam 1365
+addContestant 275 320 2 1 0 1 84 10
+getIthCollectiveMotivationTeam 17
+addContestant 276 993 1 0 1 2 33 9
+duel 43 225
+recruit 1039 1257
+getContestantMissionsNumber 274
+addContestant 277 236 2 1 0 1 70 2
+addContestant 278 1346 2 1 0 1 10 0
+addContestant 278 520 2 0 1 1 93 6
+addTeam -313
+duel 694 269
+getIthCollectiveMotivationTeam 52
+addContestant 279 974 2 1 0 1 174 6
+getPartialTeamSkill 2221
+addContestant 172 159 2 1 0 1 14 9
+addContestant 280 366 3 0 0 1 98 4
+addContestant 281 3 2 0 1 1 123 8
+getPartialTeamSkill 183
+getContestantMissionsNumber 2278
+addTeam -1105
+getContestantMissionsNumber 126
+addContestant 282 939 2 1 0 1 86 3
+removeTeam 1133
+removeTeam 569
+recruit 659 993
+addContestant 0 503 2 1 0 1 5 0
+addContestant 283 659 2 0 1 1 46 9
+removeTeam 344
+addContestant 284 1168 2 0 1 1 6 1
+addTeam 911
+recruit 1269 320
+getPartialTeamSkill 92
+recruit 831 301
+removeTeam 590
+addContestant 285 3 3 0 0 1 95 1
+removeTeam 302
+getIthCollectiveMotivationTeam 17
+addTeam 158
+getContestantMissionsNumber 61
+recruit 339 725
+addTeam 236
+getIthCollectiveMotivationTeam 54
+addTeam -715
+recruit 150 1331
+addContestant 286 43 2 0 1 1 28 5
+addContestant 287 1257 2 0 1 1 10 0
+addContestant 288 159 1 0 1 2 108 7
+getIthCollectiveMotivationTeam 43
+getContestantMissionsNumber 36
+addContestant 289 794 1 0 0 3 11 6
+getContestantMissionsNumber 176
+getPartialTeamSkill 281
+duel 823 974
+addContestant 290 719 1 0 0 3 65 6
+getContestantMissionsNumber -1
+getPartialTeamSkill 156
+getContestantMissionsNumber 87
+recruit 25 269
+getContestantMissionsNumber 290
+duel 59 1269
+getContestantMissionsNumber 2148
+getPartialTeamSkill 86
+recruit 778 368
+addContestant 291 1203 2 1 0 1 48 10
+getIthCollectiveMotivationTeam 37
+addContestant 292 911 2 1 0 1 8 9
+addContestant 293 3 1 0 1 2 105 8
+duel 236 10
+getContestantMissionsNumber 17
+addTeam 373
+recruit 1168 605
+addContestant 294 480 3 0 0 1 3 7
+getContestantMissionsNumber -1
+addContestant 295 982 3 0 0 1 215 7
+getPartialTeamSkill 107
+duel 858 366
+recruit 373 380
+duel 1274 25
+recruit 320 1039
+getContestantMissionsNumber 2291
+addContestant 296 725 1 0 1 2 74 2
+duel 1168 320
+getIthCollectiveMotivationTeam 12
+addContestant 297 794 1 0 0 3 19 7
+getContestantMissionsNumber 163
+recruit 25 398
+recruit 43 974
+getIthCollectiveMotivationTeam 5
+addContestant 298 236 3 0 0 1 15 7
+getIthCollectiveMotivationTeam 9
+duel 858 1039
+recruit 1078 520
+getIthCollectiveMotivationTeam 32
+getPartialTeamSkill 235
+addTeam 1282
+getPartialTeamSkill 34
+addContestant 0 941 2 1 0 1 5 0
+duel 398 1331
+addContestant 299 911 1 0 1 2 105 2
+recruit 911 554
+getContestantMissionsNumber 2159
+recruit 320 380
+recruit 974 366
+addContestant 300 1274 3 0 0 1 4 10
+getPartialTeamSkill 266
+duel 725 368
+duel 537 1078
+getContestantMissionsNumber 1233
+getContestantMissionsNumber -1
+recruit 169 1344
+addContestant 301 535 1 0 0 3 67 6
+addContestant 290 470 1 0 1 2 111 5
+addContestant 302 939 1 0 0 3 29 1
+addContestant 303 1078 1 0 0 3 29 7
+duel 1274 778
+getPartialTeamSkill 276
+removeTeam 1357
+addContestant 304 10 1 0 0 3 118 3
+recruit 1257 645
+removeTeam 301
+addContestant 305 373 4 1 1 2 60 9
+addContestant 306 1234 1 0 1 2 12 1
+recruit 327 320
+addContestant 307 1282 1 0 1 2 70 2
+addContestant 308 366 2 1 0 1 6 7
+getPartialTeamSkill 224
+getContestantMissionsNumber 125
+getContestantMissionsNumber 255
+removeTeam 659
+addTeam 1096
+getPartialTeamSkill 271
+removeTeam 10
+recruit 694 520
+addTeam 665
+addContestant 309 1223 2 1 0 1 167 8
+addContestant 310 48 1 0 1 2 78 0
+getContestantMissionsNumber 2158
+getIthCollectiveMotivationTeam 57
+getPartialTeamSkill 218
+recruit 778 1340
+addContestant 311 112 2 0 1 1 37 1
+addContestant 38 914 3 0 0 1 24 5
+getPartialTeamSkill 2115
+addContestant 312 823 1 0 0 3 278 7
+getIthCollectiveMotivationTeam 2
+duel 974 380
+duel 993 1343
+addContestant 313 520 3 0 0 1 67 3
+removeTeam 200
+addContestant 314 470 4 1 1 2 31 1
+getPartialTeamSkill 239
+addTeam 3
+addTeam 1044
+getPartialTeamSkill 67
+addTeam 620
+duel 823 1331
+removeTeam 651
+getContestantMissionsNumber 129
+duel 35 1365
+addTeam 490
+addTeam 9
+getContestantMissionsNumber 2109
+addTeam 1188
+removeTeam 0
+addTeam 725
+getContestantMissionsNumber 207
+recruit 25 543
+addContestant 315 1039 2 1 0 1 159 7
+recruit 236 537
+removeTeam 35
+getContestantMissionsNumber 292
+duel 373 3
+getPartialTeamSkill 128
+getIthCollectiveMotivationTeam 9
+recruit 719 5
+getPartialTeamSkill 300
+getPartialTeamSkill 2252
+recruit 939 993
+getIthCollectiveMotivationTeam 19
+getPartialTeamSkill 127
+addContestant 316 150 2 0 1 1 20 8
+addContestant 317 158 1 0 1 2 95 10
+addContestant 318 1096 3 0 0 1 27 10
+getContestantMissionsNumber 193
+duel 159 320
+getPartialTeamSkill 314
+addContestant 319 1287 3 0 0 1 57 1
+recruit 3 1354
+addContestant 320 778 2 0 1 1 37 10
+duel 225 3
+duel 150 1358
+duel 665 911
+recruit 339 158
+addContestant 321 320 2 0 1 1 10 3
+getPartialTeamSkill 289
+addContestant 322 225 4 1 1 2 110 6
+addContestant 323 719 3 0 0 1 68 1
+addContestant 324 543 1 0 1 2 2 4
+getPartialTeamSkill 2190
+addTeam 648
+addContestant 325 537 1 0 1 2 220 9
+addContestant 326 665 2 0 1 1 72 0
+getContestantMissionsNumber 247
+addContestant 327 59 1 0 0 3 264 5
+addTeam 267
+recruit 327 831
+removeTeam 1274
+addTeam 656
+addContestant 328 398 2 0 1 1 13 3
+addTeam 1276
+removeTeam 236
+addContestant 145 159 3 0 0 1 19 8
+getContestantMissionsNumber 106
+getContestantMissionsNumber -1
+duel 719 656
+getIthCollectiveMotivationTeam 7
+addContestant 329 1168 1 0 0 3 50 3
+addContestant 330 875 2 1 0 1 104 6
+addContestant 0 793 2 1 0 1 5 0
+duel 349 349
+recruit 1276 520
+removeTeam 778
+recruit 1269 105
+getIthCollectiveMotivationTeam 61
+removeTeam 794
+addContestant 331 939 3 0 0 1 238 2
+getPartialTeamSkill 322
+getContestantMissionsNumber 2295
+getIthCollectiveMotivationTeam 47
+addContestant 332 911 1 0 1 2 164 2
+addContestant 333 1269 2 0 1 1 56 2
+removeTeam 0
+addContestant 334 470 4 1 1 2 18 1
+addTeam 366
+recruit 911 158
+addTeam 712
+addTeam 553
+duel 196 196
+duel 1234 875
+removeTeam 0
+getIthCollectiveMotivationTeam 64
+getIthCollectiveMotivationTeam 62
+removeTeam 690
+duel 225 712
+removeTeam 605
+getContestantMissionsNumber 60
+addContestant 335 1044 2 0 1 1 18 8
+getPartialTeamSkill 2239
+getPartialTeamSkill 217
+addContestant 336 1168 2 1 0 1 27 7
+duel 982 1368
+duel 158 725
+recruit 911 993
+getPartialTeamSkill 139
+addContestant 337 1326 2 1 0 1 10 0
+duel 1282 36
+duel 656 339
+getIthCollectiveMotivationTeam 15
+getPartialTeamSkill 25
+addContestant 337 911 1 0 1 2 58 0
+getPartialTeamSkill 323
+addTeam 619
+getContestantMissionsNumber 32
+addContestant 265 1234 1 0 0 3 68 0
+addContestant 338 232 1 0 1 2 246 6
+duel 993 1188
+removeTeam 0
+addContestant 9 225 1 0 1 2 5 4
+recruit 1078 619
+addContestant 339 1044 2 1 0 1 51 6
+removeTeam 858
+addContestant 340 620 3 0 0 1 107 4
+getPartialTeamSkill 234
+addTeam 147
+duel 320 147
+getContestantMissionsNumber 233
+getIthCollectiveMotivationTeam 30
+addContestant 246 169 2 1 0 1 19 4
+addContestant 32 490 2 1 0 1 55 6
+addTeam 553
+getIthCollectiveMotivationTeam 40
+addContestant 341 1356 2 1 0 1 10 0
+getPartialTeamSkill 305
+getContestantMissionsNumber 125
+addContestant 239 620 2 0 1 1 166 3
+removeTeam 59
+getContestantMissionsNumber 2205
+addContestant 341 520 1 0 0 3 114 9
+duel 159 1265
+getPartialTeamSkill 239
+getPartialTeamSkill 238
+duel 1039 1343
+removeTeam 1345
+addContestant 342 373 1 0 1 2 24 8
+getContestantMissionsNumber 151
+getIthCollectiveMotivationTeam 47
+getIthCollectiveMotivationTeam 37
+addContestant 343 1044 1 0 0 3 82 8
+duel 645 645
+addContestant 344 665 1 0 1 2 44 8
+addContestant 345 366 1 0 1 2 13 5
+addTeam 748
+addTeam 999
+recruit 380 1134
+getContestantMissionsNumber 71
+recruit 470 694
+addContestant 346 158 2 1 0 1 72 2
+removeTeam 369
+duel 1276 982
+recruit 150 1348
+getIthCollectiveMotivationTeam 70
+addContestant 347 914 3 0 0 1 16 8
+addContestant 2 327 2 0 1 1 182 10
+addContestant 348 339 3 0 0 1 17 7
+recruit 665 794
+getIthCollectiveMotivationTeam 46
+getPartialTeamSkill 317
+getContestantMissionsNumber 2
+getContestantMissionsNumber 257
+removeTeam 520
+addContestant 349 225 2 0 1 1 98 7
+getPartialTeamSkill 224
+addTeam 584
+getContestantMissionsNumber 203
+getPartialTeamSkill 290
+getContestantMissionsNumber 2163
+addContestant 350 1122 4 1 1 2 238 2
+addTeam 498
+addContestant 351 368 2 1 0 1 71 8
+duel 694 719
+recruit 159 105
+getContestantMissionsNumber 144
+getContestantMissionsNumber 270
+addContestant 352 553 1 0 0 3 279 9
+duel 373 158
+removeTeam 665
+duel 543 620
+addContestant 353 1341 2 1 0 1 10 0
+addTeam 52
+addContestant 353 1269 1 0 0 3 48 10
+duel 43 543
+recruit 619 373
+getIthCollectiveMotivationTeam 70
+recruit 1282 366
+duel 620 1337
+addContestant 354 712 3 0 0 1 7 1
+recruit 368 999
+duel 158 748
+getContestantMissionsNumber 36
+addContestant 355 694 1 0 1 2 63 3
+getPartialTeamSkill 92
+addTeam 313
+getContestantMissionsNumber 279
+addContestant 356 169 4 1 1 2 233 7
+getContestantMissionsNumber 260
+getContestantMissionsNumber 52
+duel 1039 1341
+getPartialTeamSkill 2268
+duel 1096 36
+addTeam 46
+addContestant 357 339 2 1 0 1 53 8
+recruit 1234 584
+getIthCollectiveMotivationTeam 38
+getPartialTeamSkill 315
+duel 719 320
+duel 620 398
+getContestantMissionsNumber 167
+addTeam 200
+addTeam 1207
+addContestant 0 1104 2 1 0 1 5 0
+addContestant 0 1105 2 1 0 1 5 0
+duel 875 320
+recruit 1039 1269
+addContestant 358 169 2 0 1 1 60 2
+recruit 339 498
+removeTeam 694
+addContestant 359 748 2 1 0 1 135 0
+getPartialTeamSkill 338
+addContestant 360 387 1 0 1 2 137 1
+addTeam -17
+addContestant 361 993 3 0 0 1 251 6
+getPartialTeamSkill 221
+addContestant 55 553 2 1 0 1 4 0
+addContestant 343 719 1 0 0 3 89 8
+getIthCollectiveMotivationTeam 6
+duel 150 875
+addTeam 175
+addTeam 313
+duel 158 1096
+recruit 147 1265
+duel 719 267
+getPartialTeamSkill 349
+addContestant 135 911 1 0 0 3 4 8
+getContestantMissionsNumber 2175
+removeTeam 366
+duel 52 823
+removeTeam 327
+addContestant 362 1327 2 1 0 1 10 0
+duel 1039 1044
+getPartialTeamSkill 336
+removeTeam 748
+duel 712 43
+getIthCollectiveMotivationTeam 13
+duel 3 1078
+getPartialTeamSkill 259
+getContestantMissionsNumber 2206
+addContestant 362 159 1 0 1 2 12 9
+addTeam 420
+recruit 974 3
+getContestantMissionsNumber 187
+recruit 734 734
+addContestant 363 1343 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 3
+getIthCollectiveMotivationTeam 2
+removeTeam 147
+getContestantMissionsNumber 2244
+removeTeam 490
+addTeam -790
+getPartialTeamSkill 330
+addContestant 363 3 1 0 0 3 46 6
+getIthCollectiveMotivationTeam 34
+addTeam 1171
+addContestant 364 993 2 1 0 1 13 10
+duel 267 9
+addTeam 133
+getPartialTeamSkill 339
+addContestant 52 648 3 0 0 1 55 10
+addTeam 695
+duel 1269 712
+getPartialTeamSkill 363
+getContestantMissionsNumber 120
+duel 939 656
+getPartialTeamSkill 2163
+getContestantMissionsNumber 249
+getPartialTeamSkill 328
+addTeam -74
+duel 1096 225
+addTeam 957
+getPartialTeamSkill 287
+removeTeam 253
+addContestant 365 1340 2 1 0 1 10 0
+getPartialTeamSkill 264
+addContestant 365 1276 3 0 0 1 128 10
+getIthCollectiveMotivationTeam 22
+duel 939 169
+duel 339 150
+addContestant 366 1257 2 1 0 1 12 1
+duel 974 1039
+getContestantMissionsNumber 1572
+addTeam 150
+getPartialTeamSkill 2284
+getIthCollectiveMotivationTeam 67
+removeTeam 225
+recruit 537 46
+addContestant 367 1282 2 1 0 1 231 9
+getContestantMissionsNumber 210
+addTeam 958
+addTeam 588
+addContestant 368 695 1 0 0 3 69 0
+getIthCollectiveMotivationTeam 37
+removeTeam 0
+duel 543 200
+removeTeam 52
+removeTeam 1287
+getPartialTeamSkill 249
+addContestant 369 1039 1 0 0 3 13 7
+addTeam 818
+duel 1276 43
+getPartialTeamSkill 346
+getContestantMissionsNumber 105
+addContestant 293 36 4 1 1 2 46 7
+getIthCollectiveMotivationTeam 60
+duel 588 320
+addContestant 370 150 4 1 1 2 102 4
+recruit 1234 1368
+addContestant 0 182 2 1 0 1 5 0
+getContestantMissionsNumber 158
+addContestant 278 719 4 1 1 2 9 2
+getPartialTeamSkill 147
+removeTeam 553
+getContestantMissionsNumber 2136
+addTeam 558
+recruit 1044 313
+addContestant 371 648 2 0 1 1 115 5
+duel 373 1340
+addContestant 193 3 2 0 1 1 9 2
+addTeam 191
+addContestant 372 267 1 0 1 2 134 2
+addContestant 373 1044 1 0 1 2 112 7
+addContestant 374 1276 1 0 0 3 178 8
+addContestant 375 725 2 1 0 1 17 9
+getPartialTeamSkill 52
+getPartialTeamSkill 325
+recruit 558 958
+recruit 313 1044
+getIthCollectiveMotivationTeam 40
+duel 200 398
+getContestantMissionsNumber 118
+getIthCollectiveMotivationTeam 7
+addContestant 120 420 4 1 1 2 14 9
+addContestant 376 169 1 0 0 3 115 0
+getContestantMissionsNumber 36
+getContestantMissionsNumber 532
+getPartialTeamSkill 175
+removeTeam 380
+getIthCollectiveMotivationTeam 65
+getPartialTeamSkill 2253
+duel 9 588
+duel 1234 159
+removeTeam 200
+getIthCollectiveMotivationTeam 65
+getPartialTeamSkill 2240
+duel 648 1265
+removeTeam 150
+addTeam 832
+getIthCollectiveMotivationTeam 50
+addContestant 377 267 2 1 0 1 11 3
+addContestant 378 656 1 0 0 3 94 8
+getIthCollectiveMotivationTeam 55
+getIthCollectiveMotivationTeam 30
+getContestantMissionsNumber 2192
+removeTeam 1342
+addContestant 379 695 2 0 1 1 1 7
+addTeam 469
+addTeam 794
+addContestant 380 159 2 1 0 1 72 7
+duel 1044 832
+getContestantMissionsNumber 178
+getIthCollectiveMotivationTeam 57
+getContestantMissionsNumber 147
+getContestantMissionsNumber 2187
+getPartialTeamSkill 274
+getPartialTeamSkill 224
+getContestantMissionsNumber 10
+addContestant 381 9 1 0 1 2 33 2
+addContestant 382 1188 2 1 0 1 289 6
+addContestant 383 957 1 0 1 2 16 4
+getPartialTeamSkill 52
+getPartialTeamSkill 201
+getPartialTeamSkill 2272
+removeTeam 1171
+getIthCollectiveMotivationTeam 21
+getPartialTeamSkill 96
+addContestant 384 526 2 1 0 1 145 2
+getPartialTeamSkill 373
+getContestantMissionsNumber 102
+addContestant 385 1096 3 0 0 1 67 2
+getContestantMissionsNumber 2207
+getIthCollectiveMotivationTeam 37
+getPartialTeamSkill 0
+getIthCollectiveMotivationTeam 73
+addContestant 386 1234 2 0 1 1 17 1
+removeTeam 875
+getContestantMissionsNumber 1808
+getPartialTeamSkill 258
+removeTeam 1039
+duel 1290 1290
+duel 619 939
+addContestant 387 339 2 0 1 1 51 1
+addContestant 388 558 1 0 1 2 115 3
+addContestant 285 620 2 0 1 1 8 9
+getPartialTeamSkill 285
+addTeam 1133
+recruit 470 999
+getContestantMissionsNumber 156
+recruit 313 991
+removeTeam 993
+addTeam 656
+addContestant 389 1096 2 0 1 1 5 5
+duel 420 588
+removeTeam 1353
+recruit 1257 1127
+duel 958 719
+addContestant 390 1044 2 0 1 1 47 1
+removeTeam 535
+duel 831 999
+getPartialTeamSkill 342
+addContestant 391 719 3 0 0 1 65 2
+getContestantMissionsNumber 291
+getContestantMissionsNumber 1910
+getContestantMissionsNumber 462
+getPartialTeamSkill 323
+removeTeam 1330
+duel 9 958
+addContestant 392 25 3 0 0 1 76 9
+addContestant 393 725 1 0 1 2 233 5
+addContestant 394 159 1 0 0 3 66 0
+recruit 409 409
+duel 420 911
+duel 584 420
+addContestant 395 537 1 0 1 2 2 8
+addContestant 396 1326 2 1 0 1 10 0
+addTeam 641
+getContestantMissionsNumber 64
+getIthCollectiveMotivationTeam 50
+recruit 712 832
+addContestant 396 999 1 0 1 2 23 5
+addTeam 1177
+addContestant 0 420 2 1 0 1 5 0
+removeTeam 881
+recruit 45 45
+addContestant 397 712 1 0 1 2 33 8
+getPartialTeamSkill 336
+addTeam 1044
+addContestant 398 1331 2 1 0 1 10 0
+getContestantMissionsNumber 2163
+getIthCollectiveMotivationTeam 21
+getIthCollectiveMotivationTeam 66
+addContestant 398 958 2 0 1 1 78 10
+addTeam 1218
+addTeam 973
+getPartialTeamSkill 102
+getPartialTeamSkill 193
+getContestantMissionsNumber 2196
+addContestant 399 267 2 0 1 1 44 8
+duel 982 1044
+duel 588 725
+getPartialTeamSkill 2227
+addContestant 400 148 2 1 0 1 68 1
+addTeam 1131
+removeTeam 1078
+duel 558 939
+addContestant 401 267 3 0 0 1 122 6
+duel 719 1329
+addContestant 402 368 3 0 0 1 1 5
+addContestant 403 1207 2 0 1 1 84 4
+getContestantMissionsNumber 262
+getIthCollectiveMotivationTeam 10
+addTeam 991
+getIthCollectiveMotivationTeam 71
+addTeam 719
+getPartialTeamSkill 47
+getContestantMissionsNumber 2173
+addContestant 404 339 1 0 0 3 57 9
+recruit 1096 725
+duel 43 1353
+addTeam 35
+addContestant 405 498 3 0 0 1 426 0
+addContestant 406 46 2 0 1 1 139 5
+removeTeam 641
+getContestantMissionsNumber -1
+addContestant 407 973 2 0 1 1 230 8
+getContestantMissionsNumber 206
+getIthCollectiveMotivationTeam 30
+addTeam 344
+duel 588 498
+getIthCollectiveMotivationTeam 47
+getPartialTeamSkill 346
+getIthCollectiveMotivationTeam 74
+recruit 1276 25
+addContestant 100 1188 1 0 1 2 43 1
+getPartialTeamSkill 119
+getPartialTeamSkill 384
+addContestant 408 35 2 1 0 1 125 4
+duel 831 269
+recruit 818 1257
+removeTeam 648
+getContestantMissionsNumber 2296
+addContestant 409 818 3 0 0 1 33 4
+getIthCollectiveMotivationTeam 59
+getPartialTeamSkill 402
+addTeam 831
+recruit 470 25
+getIthCollectiveMotivationTeam 76
+addTeam 762
+addContestant 410 558 2 0 1 1 93 2
+addContestant 411 1131 1 0 1 2 176 7
+getContestantMissionsNumber 44
+recruit 939 344
+getPartialTeamSkill 279
+removeTeam 1096
+duel 584 537
+duel 982 43
+getPartialTeamSkill 6
+addTeam 791
+addTeam 1221
+duel 911 191
+removeTeam 269
+getContestantMissionsNumber 79
+addContestant 412 794 2 0 1 1 44 0
+addContestant 413 175 3 0 0 1 60 0
+recruit 1131 159
+getIthCollectiveMotivationTeam 51
+getIthCollectiveMotivationTeam 28
+addContestant 414 133 3 0 0 1 22 5
+getIthCollectiveMotivationTeam 64
+getPartialTeamSkill 0
+duel 537 695
+removeTeam 922
+getIthCollectiveMotivationTeam 47
+recruit 373 1324
+duel 961 961
+duel 320 818
+addTeam -1152
+getPartialTeamSkill 362
+addTeam 25
+duel 3 469
+getContestantMissionsNumber 389
+getIthCollectiveMotivationTeam 74
+getIthCollectiveMotivationTeam 49
+duel 158 1168
+addTeam 354
+duel 1207 1234
+getContestantMissionsNumber 217
+addContestant 381 791 1 0 1 2 3 0
+removeTeam 958
+getIthCollectiveMotivationTeam 13
+addTeam 1239
+removeTeam 1243
+getPartialTeamSkill 282
+addContestant 415 420 1 0 1 2 2 0
+recruit 159 1239
+recruit 973 794
+addContestant 416 584 4 1 1 2 31 1
+getIthCollectiveMotivationTeam 31
+addContestant 417 794 1 0 1 2 10 9
+getPartialTeamSkill 278
+getContestantMissionsNumber 339
+getIthCollectiveMotivationTeam 20
+addContestant 418 794 3 0 0 1 32 7
+addContestant 419 939 1 0 1 2 9 8
+getPartialTeamSkill 266
+addContestant 420 588 1 0 1 2 138 1
+addContestant 381 762 2 0 1 1 31 1
+getPartialTeamSkill 343
+addContestant 421 46 1 0 1 2 104 6
+getIthCollectiveMotivationTeam 46
+recruit 1188 1282
+addContestant 422 1367 2 1 0 1 10 0
+getPartialTeamSkill 419
+addContestant 422 420 1 0 0 3 19 4
+addContestant 423 420 2 0 1 1 186 6
+getPartialTeamSkill 365
+addContestant 0 624 2 1 0 1 5 0
+duel 999 133
+getPartialTeamSkill 287
+recruit 762 911
+addTeam 630
+addContestant 424 25 3 0 0 1 136 4
+addContestant 425 620 1 0 0 3 216 4
+addContestant 426 982 2 1 0 1 45 5
+recruit 794 1207
+getPartialTeamSkill 396
+getPartialTeamSkill 393
+addContestant 427 959 1 0 1 2 106 4
+duel 805 805
+removeTeam 1332
+addContestant 428 832 2 1 0 1 64 4
+addContestant 429 1131 1 0 1 2 104 0
+addContestant 430 725 2 1 0 1 40 8
+getContestantMissionsNumber 245
+getIthCollectiveMotivationTeam 65
+duel 957 398
+addContestant 431 344 1 0 1 2 31 4
+addContestant 432 35 4 1 1 2 188 6
+getPartialTeamSkill 386
+duel 911 1323
+getPartialTeamSkill 336
+getPartialTeamSkill 160
+recruit 832 543
+addContestant 433 169 2 1 0 1 8 2
+getPartialTeamSkill 402
+duel 1188 725
+recruit 320 1366
+duel 656 36
+removeTeam 470
+addTeam 1202
+addTeam 55
+duel 1091 1091
+duel 832 630
+addContestant 434 1269 1 0 0 3 33 9
+removeTeam 1221
+addContestant 435 158 2 1 0 1 50 8
+getIthCollectiveMotivationTeam 72
+recruit 712 999
+addContestant 436 832 2 1 0 1 74 9
+addTeam 289
+addContestant 437 794 1 0 0 3 73 6
+addContestant 438 191 2 0 1 1 219 3
+addContestant 439 537 4 1 1 2 182 0
+addContestant 440 169 3 0 0 1 52 5
+duel 159 498
+getIthCollectiveMotivationTeam 1
+duel 55 911
+addContestant 441 28 4 1 1 2 23 8
+getIthCollectiveMotivationTeam 31
+recruit 1131 35
+addTeam 634
+addContestant 442 1218 2 1 0 1 28 6
+addContestant 443 1239 3 0 0 1 34 7
+getPartialTeamSkill 366
+duel 1276 543
+getIthCollectiveMotivationTeam 36
+recruit 1202 875
+duel 398 191
+addContestant 102 630 1 0 0 3 24 8
+addTeam 351
+getIthCollectiveMotivationTeam 58
+addContestant 0 868 2 1 0 1 5 0
+addContestant 440 695 1 0 1 2 47 10
+duel 982 313
+getIthCollectiveMotivationTeam 21
+getContestantMissionsNumber 288
+getContestantMissionsNumber 134
+addContestant 444 991 4 1 1 2 125 9
+duel 1257 543
+getPartialTeamSkill 2205
+addTeam 1100
+addTeam 39
+duel 191 1218
+duel 36 957
+addTeam 957
+addContestant 445 107 2 1 0 1 41 1
+addContestant 446 1239 2 1 0 1 25 8
+getIthCollectiveMotivationTeam 78
+getIthCollectiveMotivationTeam 10
+recruit 1131 1365
+getContestantMissionsNumber 372
+getIthCollectiveMotivationTeam 2
+getContestantMissionsNumber 327
+getPartialTeamSkill 340
+removeTeam 76
+addTeam 763
+getIthCollectiveMotivationTeam 74
+addContestant 447 469 4 1 1 2 33 6
+addContestant 448 973 1 0 0 3 35 4
+getIthCollectiveMotivationTeam 68
+duel 558 588
+getIthCollectiveMotivationTeam 84
+addContestant 449 43 2 0 1 1 14 4
+removeTeam 957
+recruit 794 150
+getIthCollectiveMotivationTeam 65
+duel 175 39
+getIthCollectiveMotivationTeam 27
+removeTeam 1188
+addContestant 450 1343 2 1 0 1 10 0
+recruit 794 159
+duel 1218 39
+addTeam 4
+getPartialTeamSkill 428
+addContestant 450 169 3 0 0 1 54 0
+getPartialTeamSkill 2234
+getIthCollectiveMotivationTeam 15
+addContestant 296 588 4 1 1 2 57 2
+duel 1282 1234
+recruit 537 619
+addTeam 659
+addContestant 451 313 2 0 1 1 54 3
+getPartialTeamSkill 419
+getIthCollectiveMotivationTeam 81
+getContestantMissionsNumber 118
+getIthCollectiveMotivationTeam 15
+addContestant 452 656 1 0 1 2 100 0
+addContestant 453 159 3 0 0 1 31 5
+getContestantMissionsNumber 57
+addTeam 500
+duel 314 314
+addContestant 454 725 4 1 1 2 100 8
+addTeam 623
+removeTeam 1359
+addTeam 274
+addContestant 455 25 1 0 0 3 340 6
+getIthCollectiveMotivationTeam 70
+addContestant 456 267 2 1 0 1 82 5
+getContestantMissionsNumber 109
+recruit 1218 588
+removeTeam 4
+addTeam 1294
+getPartialTeamSkill 2273
+addTeam 1199
+getContestantMissionsNumber 220
+addContestant 457 420 1 0 0 3 144 7
+getIthCollectiveMotivationTeam 29
+getPartialTeamSkill 286
+duel 289 763
+addContestant 458 1276 3 0 0 1 2 3
+getIthCollectiveMotivationTeam 53
+addTeam -1168
+getPartialTeamSkill 2111
+getPartialTeamSkill 446
+getContestantMissionsNumber 249
+getIthCollectiveMotivationTeam 6
+removeTeam 1323
+addContestant 459 1294 1 0 1 2 28 1
+addContestant 460 584 4 1 1 2 4 9
+getPartialTeamSkill 2246
+addTeam 700
+addContestant 461 659 3 0 0 1 48 5
+getIthCollectiveMotivationTeam 35
+addContestant 462 228 1 0 0 3 50 4
+duel 630 133
+addTeam 1009
+duel 368 9
+recruit 267 641
+addContestant 463 267 3 0 0 1 103 6
+recruit 35 1218
+removeTeam 373
+addTeam 45
+duel 55 354
+recruit 973 982
+addContestant 464 45 2 1 0 1 95 10
+getPartialTeamSkill 2137
+addContestant 465 843 3 0 0 1 2 3
+addTeam 183
+duel 537 1282
+getPartialTeamSkill 210
+getContestantMissionsNumber 410
+removeTeam 588
+addContestant 466 584 1 0 0 3 136 0
+getContestantMissionsNumber 71
+removeTeam 543
+getPartialTeamSkill 2221
+getContestantMissionsNumber 312
+duel 700 1265
+getContestantMissionsNumber -1
+removeTeam 368
+getIthCollectiveMotivationTeam 75
+getPartialTeamSkill 2134
+addContestant 467 398 2 1 0 1 44 4
+addContestant 468 623 1 0 0 3 9 4
+addContestant 469 973 2 0 1 1 33 10
+recruit 39 169
+addTeam 7
+addTeam 1161
+recruit 725 3
+addContestant 470 762 4 1 1 2 143 10
+getPartialTeamSkill 2207
+duel 619 169
+getContestantMissionsNumber 152
+getContestantMissionsNumber -1
+getIthCollectiveMotivationTeam 15
+getPartialTeamSkill 2281
+recruit 39 46
+getPartialTeamSkill 127
+getContestantMissionsNumber 250
+getIthCollectiveMotivationTeam 82
+getPartialTeamSkill 346
+addTeam 708
+getContestantMissionsNumber 158
+addContestant 471 1294 1 0 1 2 51 8
+getContestantMissionsNumber 2240
+addContestant 472 9 2 0 1 1 29 8
+getIthCollectiveMotivationTeam 64
+recruit 708 656
+addTeam 487
+addContestant 473 690 3 0 0 1 141 10
+recruit 274 191
+getPartialTeamSkill 238
+addContestant 474 1294 1 0 0 3 127 0
+recruit 1161 831
+getContestantMissionsNumber 289
+getContestantMissionsNumber 32
+getPartialTeamSkill 267
+recruit 354 498
+getPartialTeamSkill 282
+getContestantMissionsNumber 366
+getContestantMissionsNumber 2234
+removeTeam 1366
+getContestantMissionsNumber 68
+recruit 1234 39
+getIthCollectiveMotivationTeam 33
+getPartialTeamSkill 160
+getIthCollectiveMotivationTeam 94
+duel 623 999
+getIthCollectiveMotivationTeam 38
+recruit 1276 55
+getPartialTeamSkill 160
+recruit 1131 973
+duel 46 1336
+getPartialTeamSkill 112
+addContestant 475 1168 3 0 0 1 9 3
+getIthCollectiveMotivationTeam 66
+duel 1100 973
+addTeam 1168
+addContestant 476 656 1 0 1 2 2 10
+getContestantMissionsNumber 2160
+getContestantMissionsNumber 450
+addContestant 477 289 2 0 1 1 279 0
+addTeam -1078
+addContestant 478 1349 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 20
+addTeam 322
+removeTeam 0
+recruit 584 763
+recruit 39 344
+recruit 267 991
+getIthCollectiveMotivationTeam 34
+removeTeam 1350
+getPartialTeamSkill 2213
+addContestant 478 267 2 1 0 1 51 5
+addContestant 479 1257 3 0 0 1 249 0
+getContestantMissionsNumber 90
+getContestantMissionsNumber 415
+addTeam 1243
+getPartialTeamSkill 477
+getIthCollectiveMotivationTeam 29
+duel 974 35
+getContestantMissionsNumber 418
+getPartialTeamSkill 2250
+duel 1133 1239
+addTeam 796
+getIthCollectiveMotivationTeam 91
+getIthCollectiveMotivationTeam 74
+getIthCollectiveMotivationTeam 37
+addContestant 480 656 3 0 0 1 30 2
+addContestant 481 7 3 0 0 1 48 6
+addContestant 482 1344 2 1 0 1 10 0
+addTeam 1113
+addContestant 482 708 4 1 1 2 49 1
+removeTeam 823
+addTeam 289
+addContestant 483 1343 2 1 0 1 10 0
+addContestant 483 1161 1 0 0 3 225 2
+getPartialTeamSkill 365
+removeTeam 158
+getIthCollectiveMotivationTeam 92
+addTeam 656
+removeTeam 0
+removeTeam 1080
+duel 623 700
+getPartialTeamSkill 392
+addContestant 484 623 2 1 0 1 5 4
+getIthCollectiveMotivationTeam 92
+addTeam 1274
+addContestant 485 712 1 0 1 2 236 1
+duel 1131 183
+recruit 191 999
+addTeam 293
+addContestant 486 832 1 0 1 2 168 3
+addTeam 483
+recruit 3 712
+getPartialTeamSkill 2205
+getIthCollectiveMotivationTeam 6
+getContestantMissionsNumber -1
+addContestant 487 159 2 1 0 1 88 10
+duel 1294 794
+removeTeam 1341
+addContestant 488 620 2 1 0 1 78 9
+addContestant 489 320 1 0 1 2 92 4
+addContestant 490 1243 2 0 1 1 105 1
+getPartialTeamSkill 135
+getPartialTeamSkill 469
+getPartialTeamSkill 201
+duel 1133 1161
+recruit 190 190
+addContestant 491 344 1 0 1 2 32 0
+getPartialTeamSkill 207
+duel 191 1352
+recruit 1131 712
+getPartialTeamSkill 459
+getPartialTeamSkill 376
+getIthCollectiveMotivationTeam 92
+addContestant 492 1131 1 0 0 3 55 2
+recruit 420 651
+addContestant 493 1282 4 1 1 2 99 7
+getContestantMissionsNumber -1
+removeTeam 0
+addTeam -845
+removeTeam 274
+addContestant 494 1322 2 1 0 1 10 0
+addTeam 388
+getPartialTeamSkill 224
+getPartialTeamSkill 135
+getPartialTeamSkill 164
+getContestantMissionsNumber 135
+duel 794 322
+removeTeam 791
+addTeam 373
+getPartialTeamSkill 412
+addTeam 462
+getIthCollectiveMotivationTeam 23
+getPartialTeamSkill 239
+removeTeam 537
+addContestant 494 1294 4 1 1 2 51 7
+getIthCollectiveMotivationTeam 97
+getIthCollectiveMotivationTeam 35
+getContestantMissionsNumber 67
+getContestantMissionsNumber 2285
+addTeam 398
+getPartialTeamSkill 418
+addTeam 365
+addTeam 210
+addTeam 945
+duel 634 1349
+duel 36 945
+addContestant 495 1331 2 1 0 1 10 0
+addTeam 1079
+addContestant 495 36 2 1 0 1 42 9
+duel 365 1323
+getPartialTeamSkill 433
+getIthCollectiveMotivationTeam 45
+addTeam -594
+addContestant 496 991 2 0 1 1 283 2
+getIthCollectiveMotivationTeam 94
+recruit 398 1282
+getContestantMissionsNumber 802
+addTeam 1271
+getIthCollectiveMotivationTeam 69
+getIthCollectiveMotivationTeam 49
+getIthCollectiveMotivationTeam 28
+addTeam 901
+duel 3 974
+addTeam 1179
+getIthCollectiveMotivationTeam 91
+getContestantMissionsNumber 148
+getContestantMissionsNumber 73
+getIthCollectiveMotivationTeam 103
+getContestantMissionsNumber 478
+getIthCollectiveMotivationTeam 53
+getIthCollectiveMotivationTeam 89
+getIthCollectiveMotivationTeam 78
+getPartialTeamSkill 413
+getContestantMissionsNumber 242
+recruit 9 831
+removeTeam 0
+getPartialTeamSkill 365
+getContestantMissionsNumber 2215
+addContestant 497 620 1 0 1 2 19 6
+removeTeam 1239
+getPartialTeamSkill 350
+getPartialTeamSkill 379
+getPartialTeamSkill 109
+addContestant 498 584 1 0 0 3 33 6
+duel 1079 725
+addContestant 499 1368 2 1 0 1 10 0
+addContestant 163 191 2 0 1 1 36 10
+getContestantMissionsNumber 236
+getPartialTeamSkill 469
+removeTeam 1113
+removeTeam 712
+recruit 876 876
+getIthCollectiveMotivationTeam 46
+addTeam 316
+getIthCollectiveMotivationTeam 95
+duel 982 293
+getContestantMissionsNumber 2223
+getContestantMissionsNumber 155
+recruit 1282 1324
+addContestant 499 700 1 0 1 2 7 10
+getPartialTeamSkill 2288
+addContestant 500 794 2 1 0 1 126 4
+addTeam 1243
+addTeam 694
+addContestant 0 711 2 1 0 1 5 0
+getContestantMissionsNumber 2189
+addContestant 501 175 1 0 1 2 19 8
+getPartialTeamSkill 436
+addTeam 700
+addContestant 502 974 2 1 0 1 23 8
+addTeam 1170
+addContestant 503 43 3 0 0 1 41 1
+getContestantMissionsNumber 390
+getIthCollectiveMotivationTeam 73
+removeTeam 133
+addContestant 504 1243 4 1 1 2 135 0
+getPartialTeamSkill 453
+addContestant 505 901 3 0 0 1 39 2
+removeTeam 1133
+duel 159 1342
+recruit 1161 267
+addContestant 506 725 4 1 1 2 161 0
+getContestantMissionsNumber 2091
+duel 831 191
+removeTeam 1337
+addContestant 507 1358 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 98
+recruit 39 1347
+duel 1168 1369
+addTeam 107
+recruit 719 150
+addContestant 507 656 1 0 0 3 112 7
+addContestant 508 462 4 1 1 2 57 4
+getContestantMissionsNumber 436
+addContestant 509 620 3 0 0 1 47 4
+addContestant 510 398 3 0 0 1 4 10
+removeTeam 0
+removeTeam 0
+duel 1062 1062
+getPartialTeamSkill 428
+getIthCollectiveMotivationTeam 36
+addContestant 511 183 3 0 0 1 115 0
+addTeam 890
+removeTeam 1265
+addContestant 512 267 4 1 1 2 3 6
+duel 619 469
+getIthCollectiveMotivationTeam 50
+addContestant 28 9 1 0 1 2 4 5
+getPartialTeamSkill 504
+getIthCollectiveMotivationTeam 96
+addContestant 513 973 3 0 0 1 73 2
+addContestant 514 52 1 0 1 2 56 4
+addContestant 515 982 2 0 1 1 98 4
+addContestant 516 159 1 0 1 2 6 8
+getPartialTeamSkill 481
+getContestantMissionsNumber 289
+addTeam 30
+duel 619 1199
+getPartialTeamSkill 183
+addContestant 517 763 2 0 1 1 76 9
+getPartialTeamSkill 2191
+duel 398 1243
+recruit 1207 43
+getContestantMissionsNumber 506
+getPartialTeamSkill 235
+getPartialTeamSkill 473
+recruit 1170 1352
+getIthCollectiveMotivationTeam 52
+getIthCollectiveMotivationTeam 9
+getPartialTeamSkill 359
+getPartialTeamSkill 99
+addContestant 518 1220 3 0 0 1 3 5
+getIthCollectiveMotivationTeam 45
+getIthCollectiveMotivationTeam 103
+removeTeam 3
+addTeam 920
+getPartialTeamSkill 466
+addContestant 519 974 3 0 0 1 59 10
+getContestantMissionsNumber 284
+addTeam 568
+getContestantMissionsNumber 478
+addContestant 520 974 2 0 1 1 37 1
+removeTeam 901
+duel 183 725
+removeTeam 373
+addContestant 358 619 3 0 0 1 89 4
+removeTeam 0
+removeTeam 191
+duel 1062 1062
+duel 498 1131
+addTeam 1067
+addTeam 25
+duel 354 1325
+getIthCollectiveMotivationTeam 8
+getPartialTeamSkill 246
+addTeam -1130
+addContestant 521 289 2 0 1 1 11 0
+getIthCollectiveMotivationTeam 12
+recruit 293 630
+getIthCollectiveMotivationTeam 80
+removeTeam 1006
+duel 293 945
+addTeam 109
+addContestant 522 55 2 1 0 1 12 8
+addContestant 523 9 2 1 0 1 123 3
+getContestantMissionsNumber 265
+getContestantMissionsNumber 216
+getContestantMissionsNumber 240
+addContestant 524 1221 1 0 0 3 1 6
+getContestantMissionsNumber 505
+getContestantMissionsNumber 204
+recruit 274 274
+getPartialTeamSkill 311
+getIthCollectiveMotivationTeam 101
+addTeam 694
+addContestant 525 43 1 0 0 3 74 5
+addTeam 352
+recruit 1131 35
+duel 584 694
+getContestantMissionsNumber 419
+addTeam 184
+addContestant 526 1257 1 0 0 3 159 9
+addContestant 527 1202 2 1 0 1 23 9
+getContestantMissionsNumber 149
+recruit 762 1366
+removeTeam 1369
+getPartialTeamSkill 307
+addContestant 528 694 3 0 0 1 170 6
+recruit 1177 1044
+getIthCollectiveMotivationTeam 69
+recruit 7 46
+getPartialTeamSkill 502
+duel 700 398
+addTeam 690
+getContestantMissionsNumber 515
+addTeam 1132
+addContestant 529 945 1 0 1 2 2 9
+addTeam 316
+getIthCollectiveMotivationTeam 55
+addContestant 530 398 2 1 0 1 168 10
+getIthCollectiveMotivationTeam 52
+removeTeam 1198
+getIthCollectiveMotivationTeam 85
+getIthCollectiveMotivationTeam 55
+getIthCollectiveMotivationTeam 40
+recruit 796 634
+getPartialTeamSkill 449
+duel 690 890
+duel 1134 1134
+getContestantMissionsNumber 498
+addTeam 920
+getPartialTeamSkill 298
+recruit 351 183
+addContestant 531 1282 1 0 1 2 34 3
+removeTeam 1009
+addContestant 532 45 2 1 0 1 39 9
+addContestant 533 30 2 0 1 1 38 5
+getPartialTeamSkill 321
+duel 634 483
+getIthCollectiveMotivationTeam 18
+removeTeam 1170
+addTeam 676
+addTeam 292
+getIthCollectiveMotivationTeam 15
+getPartialTeamSkill 323
+addTeam 250
+getContestantMissionsNumber 137
+addTeam 5
+getPartialTeamSkill 468
+removeTeam 483
+addContestant 534 1276 4 1 1 2 93 10
+recruit 620 10
+getIthCollectiveMotivationTeam 56
+addContestant 535 469 4 1 1 2 16 4
+removeTeam 183
+addContestant 536 690 2 1 0 1 4 1
+getIthCollectiveMotivationTeam 106
+addTeam -932
+getPartialTeamSkill 452
+getPartialTeamSkill 450
+duel 1274 500
+duel 46 1067
+recruit 322 700
+addContestant 537 1282 2 0 1 1 218 8
+addTeam 1185
+addContestant 435 316 3 0 0 1 177 10
+getPartialTeamSkill 481
+addContestant 538 169 2 1 0 1 16 0
+duel 1234 700
+addContestant 539 1334 2 1 0 1 10 0
+addContestant 539 762 2 1 0 1 200 10
+addContestant 0 479 2 1 0 1 5 0
+addContestant 540 762 3 0 0 1 7 6
+addTeam 1248
+getContestantMissionsNumber 486
+addContestant 541 695 2 1 0 1 76 9
+getContestantMissionsNumber 731
+recruit 9 339
+recruit 1168 10
+removeTeam 1276
+addContestant 542 1067 2 1 0 1 2 2
+getIthCollectiveMotivationTeam 28
+recruit 316 487
+addContestant 543 1177 3 0 0 1 54 6
+recruit 1132 1207
+addTeam 668
+removeTeam 818
+duel 982 1354
+addTeam 831
+removeTeam 1351
+getPartialTeamSkill 198
+addTeam 250
+addContestant 544 1257 3 0 0 1 27 5
+getIthCollectiveMotivationTeam 79
+addTeam 182
+addContestant 545 1248 2 1 0 1 45 1
+getPartialTeamSkill 426
+addContestant 546 398 3 0 0 1 110 10
+getIthCollectiveMotivationTeam 21
+duel 388 354
+getPartialTeamSkill 481
+getIthCollectiveMotivationTeam 103
+addTeam 752
+getIthCollectiveMotivationTeam 25
+addContestant 547 568 2 1 0 1 40 6
+removeTeam 1067
+recruit 1282 725
+recruit 700 1282
+addContestant 548 133 1 0 1 2 65 10
+addContestant 549 354 3 0 0 1 22 2
+duel 695 1269
+getContestantMissionsNumber 502
+getPartialTeamSkill 456
+addContestant 550 690 3 0 0 1 18 4
+removeTeam 365
+duel 159 630
+getIthCollectiveMotivationTeam 12
+getPartialTeamSkill 532
+recruit 659 182
+addTeam 1177
+addContestant 551 25 1 0 0 3 73 2
+addContestant 552 250 1 0 0 3 6 3
+addContestant 553 1 3 0 0 1 26 5
+recruit 752 973
+recruit 184 694
+getPartialTeamSkill 499
+addContestant 554 35 1 0 1 2 23 8
+getPartialTeamSkill 419
+getPartialTeamSkill 293
+removeTeam 1269
+getContestantMissionsNumber 115
+getIthCollectiveMotivationTeam 92
+addTeam -945
+duel 351 708
+addContestant 555 210 2 0 1 1 92 2
+addContestant 556 250 1 0 1 2 46 1
+recruit 1248 623
+addContestant 557 694 3 0 0 1 11 8
+addContestant 558 890 1 0 0 3 24 7
+getContestantMissionsNumber 2246
+recruit 294 294
+duel 210 623
+recruit 1177 763
+addContestant 559 1132 3 0 0 1 96 4
+getIthCollectiveMotivationTeam 35
+addContestant 75 634 1 0 0 3 109 2
+getIthCollectiveMotivationTeam 103
+addContestant 560 1336 2 1 0 1 10 0
+addTeam 1138
+addContestant 560 184 3 0 0 1 20 9
+recruit 584 991
+removeTeam 0
+getPartialTeamSkill 219
+removeTeam 320
+removeTeam 1357
+getIthCollectiveMotivationTeam 108
+duel 690 498
+addContestant 561 832 2 0 1 1 84 6
+getContestantMissionsNumber 1832
+addContestant 562 1199 3 0 0 1 32 2
+addTeam 778
+getIthCollectiveMotivationTeam 1
+getIthCollectiveMotivationTeam 50
+getIthCollectiveMotivationTeam 83
+addContestant 563 354 3 0 0 1 129 0
+getContestantMissionsNumber 2236
+getContestantMissionsNumber 948
+getContestantMissionsNumber 400
+removeTeam 794
+addContestant 564 620 4 1 1 2 57 10
+getPartialTeamSkill 441
+duel 634 43
+addContestant 565 354 1 0 0 3 13 0
+duel 339 388
+addContestant 566 1177 2 1 0 1 20 3
+getIthCollectiveMotivationTeam 22
+getContestantMissionsNumber 473
+addTeam 577
+addContestant 567 1207 1 0 1 2 113 0
+duel 694 487
+duel 1282 1282
+getContestantMissionsNumber -1
+recruit 568 1339
+removeTeam 708
+getContestantMissionsNumber -1
+addContestant 568 945 3 0 0 1 140 9
+removeTeam 316
+duel 1294 35
+addContestant 569 1207 3 0 0 1 104 9
+addContestant 570 1179 3 0 0 1 28 6
+addContestant 571 619 2 0 1 1 5 1
+recruit 420 109
+duel 182 945
+recruit 1199 1131
+getPartialTeamSkill 181
+getIthCollectiveMotivationTeam 36
+duel 763 1282
+addTeam 930
+addContestant 572 43 1 0 1 2 21 4
+addTeam 770
+getIthCollectiveMotivationTeam 29
+recruit 1132 719
+addContestant 0 755 2 1 0 1 5 0
+addContestant 573 1199 1 0 1 2 44 0
+addContestant 574 380 3 0 0 1 11 8
+addContestant 575 939 1 0 1 2 63 7
+duel 634 1079
+addContestant 576 127 1 0 0 3 66 10
+recruit 1131 107
+addContestant 577 914 1 0 1 2 16 6
+getContestantMissionsNumber -1
+recruit 1218 945
+getContestantMissionsNumber 136
+addTeam 915
+getIthCollectiveMotivationTeam 76
+removeTeam 890
+getContestantMissionsNumber 206
+addTeam -1270
+removeTeam 1339
+getPartialTeamSkill 91
+addContestant 110 584 2 0 1 1 15 7
+getIthCollectiveMotivationTeam 21
+addTeam 884
+addContestant 578 334 3 0 0 1 131 2
+getIthCollectiveMotivationTeam 36
+removeTeam 973
+addContestant 522 991 3 0 0 1 94 1
+getContestantMissionsNumber 2265
+addContestant 579 695 2 1 0 1 37 5
+removeTeam 25
+duel 1185 1207
+addContestant 580 500 3 0 0 1 142 2
+duel 7 1044
+addContestant 581 973 2 0 1 1 54 2
+addContestant 582 1138 3 0 0 1 228 3
+addContestant 583 7 2 1 0 1 19 5
+addContestant 584 158 1 0 1 2 130 1
+recruit 920 107
+getContestantMissionsNumber 1407
+getContestantMissionsNumber 422
+addTeam 985
+addTeam 301
+removeTeam 1150
+addContestant 585 634 2 1 0 1 38 8
+getPartialTeamSkill 559
+getIthCollectiveMotivationTeam 94
+getPartialTeamSkill 508
+duel 169 109
+getIthCollectiveMotivationTeam 39
+addContestant 586 493 1 0 1 2 27 6
+recruit 778 569
+getIthCollectiveMotivationTeam 38
+getPartialTeamSkill 531
+getContestantMissionsNumber 271
+duel 620 462
+removeTeam 289
+getPartialTeamSkill 151
+getIthCollectiveMotivationTeam 41
+duel 1304 1304
+recruit 619 1354
+addTeam 526
+addContestant 587 5 1 0 1 2 304 6
+getPartialTeamSkill 381
+addContestant 588 18 1 0 0 3 148 4
+addContestant 589 1370 2 1 0 1 10 0
+removeTeam 0
+recruit 982 1282
+getIthCollectiveMotivationTeam 39
+getPartialTeamSkill 473
+getPartialTeamSkill 496
+getPartialTeamSkill 512
+addContestant 589 1354 2 1 0 1 10 0
+addTeam 553
+addContestant 589 584 1 0 1 2 1 3
+getIthCollectiveMotivationTeam 54
+getPartialTeamSkill 386
+addContestant 590 182 1 0 0 3 119 4
+addContestant 174 313 1 0 0 3 88 7
+duel 1218 1218
+getIthCollectiveMotivationTeam 80
+duel 1218 694
+addTeam 1044
+addTeam 541
+removeTeam 1203
+recruit 398 1328
+addContestant 591 351 2 0 1 1 35 0
+getPartialTeamSkill 0
+addContestant 592 1329 2 1 0 1 10 0
+addTeam 524
+getContestantMissionsNumber 972
+addContestant 592 250 3 0 0 1 64 2
+removeTeam 487
+removeTeam 267
+addTeam 456
+recruit 344 55
+getContestantMissionsNumber 289
+getContestantMissionsNumber 389
+addContestant 593 107 1 0 1 2 200 2
+removeTeam 7
+addContestant 594 1243 3 0 0 1 14 3
+recruit 526 524
+getPartialTeamSkill 592
+getPartialTeamSkill 0
+getPartialTeamSkill 416
+getContestantMissionsNumber 175
+getPartialTeamSkill 468
+addContestant 0 1139 2 1 0 1 5 0
+getContestantMissionsNumber 433
+addContestant 595 770 2 0 1 1 46 5
+removeTeam 0
+getPartialTeamSkill 518
+getPartialTeamSkill 0
+addContestant 596 945 1 0 1 2 16 1
+getPartialTeamSkill 546
+getPartialTeamSkill 488
+getPartialTeamSkill 2151
+addContestant 597 1248 2 1 0 1 40 8
+addTeam 200
+getContestantMissionsNumber 198
+addContestant 598 159 2 1 0 1 17 3
+getIthCollectiveMotivationTeam 33
+recruit 700 1360
+addContestant 0 259 2 1 0 1 5 0
+addContestant 599 55 1 0 0 3 20 10
+getPartialTeamSkill 2265
+getPartialTeamSkill 120
+getPartialTeamSkill 2258
+duel 46 1329
+getPartialTeamSkill 565
+getContestantMissionsNumber 516
+duel 1282 1138
+getIthCollectiveMotivationTeam 54
+duel 778 930
+duel 939 634
+getPartialTeamSkill 309
+removeTeam 1168
+getContestantMissionsNumber 267
+addContestant 600 39 2 1 0 1 59 3
+getContestantMissionsNumber -1
+duel 982 630
+removeTeam 1132
+removeTeam 930
+duel 999 354
+getPartialTeamSkill 357
+getIthCollectiveMotivationTeam 21
+addContestant 601 676 3 0 0 1 47 2
+duel 293 313
+getPartialTeamSkill 0
+addContestant 602 752 2 1 0 1 65 9
+getContestantMissionsNumber 3
+addContestant 289 974 4 1 1 2 19 8
+removeTeam 690
+getContestantMissionsNumber 22
+duel 46 293
+duel 313 1294
+addContestant 603 313 1 0 0 3 57 1
+addContestant 604 1234 3 0 0 1 176 1
+getIthCollectiveMotivationTeam 77
+removeTeam 1234
+getPartialTeamSkill 170
+removeTeam 1223
+getPartialTeamSkill 0
+getIthCollectiveMotivationTeam 53
+getPartialTeamSkill 0
+addContestant 605 553 2 0 1 1 94 7
+addTeam 1063
+duel 1202 832
+getIthCollectiveMotivationTeam 28
+duel 293 831
+recruit 911 832
+addContestant 606 763 1 0 1 2 4 9
+getContestantMissionsNumber -1
+addTeam 1167
+getIthCollectiveMotivationTeam 42
+getContestantMissionsNumber -1
+removeTeam 832
+addContestant 607 1044 1 0 0 3 68 0
+getPartialTeamSkill 242
+removeTeam 719
+duel 974 1282
+getPartialTeamSkill 544
+recruit 462 313
+addTeam -207
+addContestant 608 1257 4 1 1 2 38 0
+removeTeam 0
+removeTeam 1357
+removeTeam 45
+addTeam 339
+addContestant 609 982 3 0 0 1 11 3
+getPartialTeamSkill 47
+addContestant 610 5 1 0 1 2 55 3
+addContestant 543 43 1 0 1 2 27 1
+addContestant 611 109 1 0 0 3 87 0
+addContestant 236 656 2 1 0 1 221 9
+duel 1218 469
+recruit 939 352
+recruit 1177 1185
+addContestant 612 656 1 0 0 3 173 4
+getPartialTeamSkill 491
+getPartialTeamSkill 452
+addTeam 204
+getIthCollectiveMotivationTeam 59
+duel 250 1370
+addTeam 105
+addContestant 613 175 1 0 0 3 55 7
+recruit 1185 796
+addContestant 405 469 3 0 0 1 76 8
+addContestant 0 244 2 1 0 1 5 0
+recruit 45 45
+addTeam 891
+getContestantMissionsNumber 507
+duel 1167 498
+recruit 204 1131
+getIthCollectiveMotivationTeam 110
+getContestantMissionsNumber 1744
+addContestant 614 823 3 0 0 1 155 10
+addTeam -118
+duel 796 344
+addTeam -766
+getPartialTeamSkill 222
+recruit 55 289
+duel 344 1368
+getIthCollectiveMotivationTeam 103
+getIthCollectiveMotivationTeam 71
+getIthCollectiveMotivationTeam 67
+addContestant 615 184 2 1 0 1 26 0
+addContestant 616 1207 2 0 1 1 48 8
+addContestant 617 1207 4 1 1 2 91 1
+recruit 770 1177
+addContestant 580 31 1 0 1 2 20 10
+removeTeam 500
+duel 1044 694
+addContestant 618 1063 4 1 1 2 4 3
+addContestant 619 182 1 0 0 3 96 2
+getContestantMissionsNumber 619
+getPartialTeamSkill 505
+removeTeam 0
+getPartialTeamSkill 286
+getContestantMissionsNumber 8
+addTeam 595
+getPartialTeamSkill 517
+addContestant 620 796 3 0 0 1 2 9
+getContestantMissionsNumber 36
+addContestant 621 398 3 0 0 1 11 5
+getContestantMissionsNumber -1
+getPartialTeamSkill 238
+addContestant 622 1340 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 47
+addContestant 622 695 1 0 1 2 64 6
+addContestant 623 920 1 0 0 3 6 8
+addTeam 424
+recruit 456 920
+getPartialTeamSkill 447
+getIthCollectiveMotivationTeam 82
+getPartialTeamSkill 431
+addTeam 654
+addTeam 1301
+addContestant 624 770 2 0 1 1 34 8
+getPartialTeamSkill 441
+getIthCollectiveMotivationTeam 75
+addTeam 910
+addTeam -178
+duel 101 101
+removeTeam 1332
+getContestantMissionsNumber -1
+getIthCollectiveMotivationTeam 10
+duel 752 656
+addTeam 153
+getPartialTeamSkill 454
+addContestant 625 1326 2 1 0 1 10 0
+getPartialTeamSkill 479
+getIthCollectiveMotivationTeam 21
+addTeam 933
+getIthCollectiveMotivationTeam 96
+addContestant 625 656 2 0 1 1 186 9
+addTeam 134
+recruit 200 1294
+duel 462 200
+addContestant 626 991 1 0 1 2 75 8
+duel 35 1079
+addContestant 627 526 2 1 0 1 126 5
+removeTeam 763
+recruit 313 915
+getPartialTeamSkill 498
+recruit 1122 1122
+duel 200 558
+addContestant 628 420 2 1 0 1 90 9
+getContestantMissionsNumber 288
+addTeam 259
+addContestant 629 352 2 1 0 1 4 8
+duel 982 339
+recruit 619 558
+getPartialTeamSkill 275
+getContestantMissionsNumber 330
+addContestant 624 1131 1 0 0 3 34 2
+duel 1199 1331
+getPartialTeamSkill 456
+getContestantMissionsNumber 435
+recruit 659 541
+getIthCollectiveMotivationTeam 45
+recruit 1044 620
+getIthCollectiveMotivationTeam 45
+getIthCollectiveMotivationTeam 61
+getContestantMissionsNumber 607
+addTeam 651
+addContestant 630 884 1 0 0 3 140 0
+getContestantMissionsNumber 603
+addContestant 631 462 4 1 1 2 13 4
+getContestantMissionsNumber 42
+addContestant 632 351 2 0 1 1 5 6
+getIthCollectiveMotivationTeam 43
+duel 659 1248
+duel 1248 36
+getIthCollectiveMotivationTeam 50
+getContestantMissionsNumber 3
+recruit 159 109
+duel 910 982
+duel 39 595
+addContestant 347 169 1 0 1 2 61 7
+addContestant 633 778 2 1 0 1 6 2
+addContestant 634 107 1 0 1 2 84 2
+removeTeam 1131
+getContestantMissionsNumber 75
+duel 153 577
+recruit 704 704
+addTeam 1199
+getPartialTeamSkill 0
+recruit 1179 420
+duel 1218 920
+duel 5 911
+addContestant 635 912 3 0 0 1 101 10
+addTeam -495
+duel 35 1322
+addContestant 636 351 1 0 1 2 22 6
+duel 210 1079
+addContestant 637 694 2 0 1 1 87 1
+duel 623 770
+recruit 1044 526
+addTeam 708
+addTeam 846
+getContestantMissionsNumber 2154
+addContestant 12 35 1 0 0 3 39 5
+getContestantMissionsNumber 298
+duel 159 920
+getContestantMissionsNumber 339
+removeTeam 558
+removeTeam 0
+addTeam 197
+addTeam 1276
+getPartialTeamSkill 2164
+addContestant 638 620 3 0 0 1 7 4
+duel 35 55
+getContestantMissionsNumber 2162
+getPartialTeamSkill 621
+recruit 352 259
+removeTeam 1366
+getIthCollectiveMotivationTeam 91
+addTeam 1179
+removeTeam 292
+getPartialTeamSkill 569
+addContestant 639 796 3 0 0 1 8 4
+addContestant 640 1179 2 1 0 1 82 9
+getContestantMissionsNumber 2143
+getPartialTeamSkill 528
+recruit 770 1202
+getPartialTeamSkill 109
+addTeam 145
+getIthCollectiveMotivationTeam 75
+getPartialTeamSkill 2163
+duel 1248 630
+addContestant 641 1167 3 0 0 1 10 0
+addContestant 642 250 3 0 0 1 38 8
+getIthCollectiveMotivationTeam 70
+addContestant 643 1243 1 0 1 2 62 7
+duel 43 1340
+getIthCollectiveMotivationTeam 112
+addTeam 510
+addContestant 644 911 3 0 0 1 9 3
+getPartialTeamSkill 396
+getPartialTeamSkill 362
+addTeam 111
+addContestant 645 985 1 0 0 3 60 3
+addTeam 1191
+duel 656 945
+addTeam 316
+addTeam 777
+addContestant 534 933 2 1 0 1 25 7
+getPartialTeamSkill 380
+getIthCollectiveMotivationTeam 41
+getIthCollectiveMotivationTeam 121
+addContestant 646 302 4 1 1 2 110 1
+addTeam 323
+getContestantMissionsNumber 40
+getIthCollectiveMotivationTeam 1
+getContestantMissionsNumber 62
+duel 250 9
+removeTeam 999
+addContestant 647 1207 2 0 1 1 32 6
+duel 1271 1345
+getPartialTeamSkill 564
+getPartialTeamSkill 522
+duel 316 1301
+removeTeam 1202
+addContestant 648 660 3 0 0 1 102 3
+addTeam 815
+addContestant 649 145 4 1 1 2 60 2
+getPartialTeamSkill 556
+getIthCollectiveMotivationTeam 42
+getPartialTeamSkill 452
+addContestant 650 420 1 0 1 2 98 1
+duel 1282 354
+getContestantMissionsNumber 89
+duel 293 1357
+getIthCollectiveMotivationTeam 69
+addTeam 1295
+getContestantMissionsNumber 450
+getIthCollectiveMotivationTeam 59
+addTeam 1077
+recruit 694 204
+addTeam 80
+addTeam 1133
+addContestant 651 777 4 1 1 2 45 4
+getContestantMissionsNumber 399
+addContestant 652 1357 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 128
+addContestant 652 316 1 0 0 3 79 8
+addContestant 0 941 2 1 0 1 5 0
+getPartialTeamSkill 470
+duel 510 1243
+addTeam 780
+removeTeam 1271
+getContestantMissionsNumber 2119
+getContestantMissionsNumber 128
+addContestant 653 884 2 0 1 1 24 5
+getIthCollectiveMotivationTeam 27
+getIthCollectiveMotivationTeam 45
+getPartialTeamSkill 472
+getContestantMissionsNumber -1
+getContestantMissionsNumber 491
+addContestant 654 1207 4 1 1 2 140 0
+addContestant 655 1207 1 0 1 2 29 6
+recruit 501 501
+addTeam 9
+duel 204 770
+addContestant 656 708 3 0 0 1 54 4
+removeTeam 250
+getContestantMissionsNumber 88
+recruit 982 267
+duel 388 846
+removeTeam 1353
+getPartialTeamSkill 248
+duel 915 169
+addTeam 644
+getPartialTeamSkill 393
+addTeam 1063
+recruit 1274 694
+getIthCollectiveMotivationTeam 43
+getPartialTeamSkill 440
+getIthCollectiveMotivationTeam 1
+addContestant 657 725 1 0 1 2 63 0
+recruit 469 1354
+addContestant 658 36 2 1 0 1 74 8
+getPartialTeamSkill 330
+addTeam 1293
+getIthCollectiveMotivationTeam 92
+removeTeam 1276
+addContestant 659 526 2 1 0 1 28 6
+removeTeam 656
+getIthCollectiveMotivationTeam 120
+addTeam 971
+getIthCollectiveMotivationTeam 127
+addContestant 660 654 3 0 0 1 65 7
+recruit 9 1133
+recruit 915 1191
+addTeam 1001
+duel 46 1342
+getPartialTeamSkill 373
+getPartialTeamSkill 640
+addTeam 472
+duel 1167 668
+addTeam 901
+addContestant 661 1207 3 0 0 1 4 4
+duel 184 105
+getIthCollectiveMotivationTeam 69
+getIthCollectiveMotivationTeam 121
+addContestant 662 354 2 1 0 1 60 3
+addTeam 1089
+getIthCollectiveMotivationTeam 125
+getContestantMissionsNumber 625
+recruit 323 36
+duel 694 259
+addTeam 535
+getContestantMissionsNumber -1
+recruit 1294 1161
+recruit 351 1364
+getIthCollectiveMotivationTeam 132
+getContestantMissionsNumber 2122
+removeTeam 1324
+recruit 773 773
+removeTeam 1331
+getContestantMissionsNumber 301
+duel 553 293
+addTeam 449
+removeTeam 55
+addContestant 663 107 3 0 0 1 167 10
+getPartialTeamSkill 562
+getPartialTeamSkill 641
+getIthCollectiveMotivationTeam 73
+addContestant 664 1191 2 0 1 1 64 1
+addTeam 1253
+addTeam 777
+duel 901 420
+duel 145 725
+removeTeam 1370
+recruit 1301 796
+removeTeam 939
+removeTeam 770
+duel 1248 623
+duel 498 762
+removeTeam 80
+getIthCollectiveMotivationTeam 132
+getPartialTeamSkill 534
+getContestantMissionsNumber 2275
+recruit 138 138
+getPartialTeamSkill 619
+getPartialTeamSkill 0
+recruit 1167 462
+getPartialTeamSkill 413
+getPartialTeamSkill 549
+removeTeam 1218
+getPartialTeamSkill 579
+addContestant 665 424 1 0 0 3 278 9
+getIthCollectiveMotivationTeam 111
+getPartialTeamSkill 376
+getIthCollectiveMotivationTeam 126
+getIthCollectiveMotivationTeam 8
+addContestant 0 537 2 1 0 1 5 0
+duel 668 204
+removeTeam 1344
+addContestant 666 344 2 0 1 1 13 9
+addContestant 667 9 1 0 1 2 180 3
+recruit 216 216
+addTeam 127
+addContestant 668 780 1 0 0 3 6 8
+addContestant 669 352 2 0 1 1 29 7
+getIthCollectiveMotivationTeam 102
+getPartialTeamSkill 648
+duel 153 815
+addContestant 670 695 3 0 0 1 49 4
+getPartialTeamSkill 504
+addTeam 591
+getIthCollectiveMotivationTeam 125
+duel 1079 694
+addContestant 671 654 2 0 1 1 18 2
+addContestant 672 591 1 0 1 2 12 0
+removeTeam 1001
+getPartialTeamSkill 474
+getIthCollectiveMotivationTeam 104
+recruit 127 1294
+recruit 676 694
+addTeam 233
+getPartialTeamSkill 628
+getIthCollectiveMotivationTeam 134
+getContestantMissionsNumber 238
+addContestant 673 145 2 1 0 1 39 1
+addTeam 1295
+getPartialTeamSkill 656
+removeTeam 932
+getPartialTeamSkill 295
+addContestant 674 388 2 0 1 1 29 1
+addTeam 179
+removeTeam 568
+addContestant 675 910 4 1 1 2 137 10
+addContestant 676 352 1 0 0 3 9 5
+getContestantMissionsNumber 124
+getContestantMissionsNumber 393
+addContestant 677 1365 2 1 0 1 10 0
+removeTeam 584
+getIthCollectiveMotivationTeam 118
+getContestantMissionsNumber 616
+getIthCollectiveMotivationTeam 5
+getContestantMissionsNumber 545
+getIthCollectiveMotivationTeam 82
+removeTeam 1352
+recruit 991 1063
+getIthCollectiveMotivationTeam 131
+removeTeam 1185
+getPartialTeamSkill 444
+getContestantMissionsNumber 25
+removeTeam 991
+duel 339 630
+addContestant 677 1177 4 1 1 2 152 5
+getIthCollectiveMotivationTeam 94
+addContestant 678 5 2 1 0 1 32 0
+addTeam -471
+getContestantMissionsNumber 1666
+recruit 1077 676
+getContestantMissionsNumber 550
+duel 577 1338
+addContestant 679 915 2 0 1 1 14 3
+getContestantMissionsNumber 1352
+recruit 1207 354
+recruit 985 1079
+addContestant 680 619 1 0 0 3 15 0
+getContestantMissionsNumber 420
+getPartialTeamSkill 338
+duel 46 134
+addContestant 681 510 3 0 0 1 59 7
+duel 233 1167
+addContestant 682 111 2 1 0 1 167 6
+getContestantMissionsNumber 6
+addContestant 683 46 2 1 0 1 56 9
+addContestant 684 1243 2 0 1 1 5 1
+addTeam 1055
+addTeam 337
+getIthCollectiveMotivationTeam 129
+recruit 526 191
+addTeam -917
+getPartialTeamSkill 616
+addContestant 685 541 1 0 0 3 15 2
+addContestant 686 945 1 0 1 2 100 9
+duel 1079 469
+getPartialTeamSkill 545
+getIthCollectiveMotivationTeam 128
+getPartialTeamSkill 652
+getIthCollectiveMotivationTeam 13
+getIthCollectiveMotivationTeam 74
+duel 1294 1360
+getContestantMissionsNumber -1
+getPartialTeamSkill 2106
+removeTeam 1362
+addTeam 602
+recruit 700 182
+addContestant 687 1330 2 1 0 1 10 0
+getContestantMissionsNumber 1894
+getContestantMissionsNumber 207
+addContestant 687 738 1 0 0 3 34 0
+getPartialTeamSkill 2218
+getContestantMissionsNumber 257
+getContestantMissionsNumber 296
+getIthCollectiveMotivationTeam 110
+duel 752 510
+duel 535 175
+addTeam 345
+duel 354 472
+removeTeam 778
+recruit 1199 985
+addContestant 688 1330 2 1 0 1 10 0
+duel 651 630
+getPartialTeamSkill 91
+duel 668 1063
+recruit 668 498
+getIthCollectiveMotivationTeam 134
+duel 619 134
+getIthCollectiveMotivationTeam 134
+getPartialTeamSkill 242
+addContestant 688 344 1 0 1 2 58 8
+removeTeam 613
+getContestantMissionsNumber 2240
+getPartialTeamSkill 0
+getContestantMissionsNumber 2197
+getContestantMissionsNumber -1
+getIthCollectiveMotivationTeam 73
+duel 179 456
+getContestantMissionsNumber 238
+addContestant 689 449 1 0 1 2 71 10
+getPartialTeamSkill 509
+getPartialTeamSkill 623
+addContestant 690 676 1 0 0 3 269 2
+addContestant 691 398 3 0 0 1 72 2
+getIthCollectiveMotivationTeam 41
+addContestant 152 1177 2 1 0 1 233 1
+duel 1167 595
+duel 197 145
+addTeam 144
+getContestantMissionsNumber 217
+getPartialTeamSkill 0
+getIthCollectiveMotivationTeam 79
+getIthCollectiveMotivationTeam 130
+recruit 634 1207
+addContestant 692 974 3 0 0 1 68 2
+recruit 472 796
+addTeam 832
+addTeam 195
+getPartialTeamSkill 307
+addTeam 644
+recruit 233 623
+getContestantMissionsNumber 2299
+duel 1138 725
+recruit 684 684
+getIthCollectiveMotivationTeam 96
+duel 1044 1368
+addContestant 693 1257 2 0 1 1 67 4
+recruit 933 1323
+addContestant 694 1001 2 0 1 1 306 0
+duel 9 1274
+addTeam 639
+duel 869 869
+removeTeam 1344
+getPartialTeamSkill 615
+recruit 200 1356
+getIthCollectiveMotivationTeam 35
+duel 1243 602
+addContestant 695 1323 2 1 0 1 10 0
+addTeam 903
+getIthCollectiveMotivationTeam 2
+addContestant 695 323 4 1 1 2 114 7
+duel 1282 1243
+addContestant 696 668 3 0 0 1 166 2
+addContestant 697 891 3 0 0 1 236 5
+getIthCollectiveMotivationTeam 55
+removeTeam 915
+addContestant 547 233 3 0 0 1 156 6
+getContestantMissionsNumber 525
+getContestantMissionsNumber 257
+recruit 835 835
+getPartialTeamSkill 665
+addContestant 698 985 2 1 0 1 30 4
+duel 1191 1077
+recruit 668 388
+getPartialTeamSkill 337
+duel 535 911
+getContestantMissionsNumber 559
+addContestant 699 192 2 1 0 1 192 4
+addContestant 700 871 4 1 1 2 125 7
+addTeam 1028
+addTeam 982
+removeTeam 1191
+getPartialTeamSkill 571
+addContestant 0 1028 2 1 0 1 5 0
+recruit 1282 1336
+recruit 1294 694
+duel 316 1293
+duel 1293 352
+addTeam 717
+getPartialTeamSkill 523
+recruit 259 111
+recruit 46 182
+recruit 145 1301
+addContestant 701 1133 4 1 1 2 23 8
+addContestant 702 344 1 0 1 2 77 2
+addContestant 703 526 3 0 0 1 52 8
+addContestant 21 1167 1 0 0 3 23 4
+addTeam 405
+getIthCollectiveMotivationTeam 22
+getPartialTeamSkill 0
+addContestant 704 535 2 0 1 1 86 3
+getIthCollectiveMotivationTeam 20
+duel 920 1353
+duel 725 910
+getPartialTeamSkill 652
+getPartialTeamSkill 432
+getIthCollectiveMotivationTeam 21
+duel 591 153
+getContestantMissionsNumber -1
+getPartialTeamSkill 91
+recruit 903 651
+addContestant 705 619 2 1 0 1 17 3
+removeTeam 602
+recruit 344 630
+getIthCollectiveMotivationTeam 8
+duel 985 39
+getContestantMissionsNumber 655
+recruit 1167 462
+duel 293 1243
+getIthCollectiveMotivationTeam 128
+addContestant 706 351 3 0 0 1 13 4
+addTeam 907
+addContestant 707 105 3 0 0 1 13 1
+duel 644 1369
+addContestant 708 1269 2 0 1 1 27 4
+duel 35 974
+getPartialTeamSkill 605
+addContestant 709 903 3 0 0 1 201 9
+addTeam 43
+duel 524 354
+addTeam 183
+getIthCollectiveMotivationTeam 32
+getContestantMissionsNumber 210
+getIthCollectiveMotivationTeam 90
+removeTeam 323
+addContestant 710 725 1 0 0 3 70 4
+addTeam 621
+getContestantMissionsNumber 254
+addContestant 711 351 1 0 0 3 81 8
+addContestant 589 654 4 1 1 2 18 8
+recruit 910 1344
+addContestant 712 354 2 1 0 1 19 3
+duel 1089 620
+duel 620 1335
+addTeam 911
+addTeam -1305
+removeTeam 1349
+addContestant 713 322 3 0 0 1 81 5
+removeTeam 145
+getIthCollectiveMotivationTeam 72
+getPartialTeamSkill 493
+getContestantMissionsNumber -1
+recruit 668 35
+removeTeam 1079
+getContestantMissionsNumber 59
+duel 1055 524
+addContestant 437 169 4 1 1 2 40 6
+addContestant 208 577 2 0 1 1 74 7
+addContestant 714 351 2 1 0 1 12 5
+addContestant 715 1179 2 0 1 1 10 2
+recruit 183 182
+removeTeam 301
+getIthCollectiveMotivationTeam 131
+addContestant 716 910 1 0 0 3 11 8
+recruit 259 1177
+duel 891 345
+addContestant 717 621 2 1 0 1 31 3
+addContestant 718 134 2 0 1 1 48 1
+getIthCollectiveMotivationTeam 28
+recruit 127 36
+addContestant 719 469 3 0 0 1 226 1
+addTeam 614
+getContestantMissionsNumber 655
+removeTeam 888
+addContestant 720 1028 1 0 1 2 110 5
+duel 293 815
+getContestantMissionsNumber 316
+addContestant 721 708 2 0 1 1 34 8
+addContestant 722 5 4 1 1 2 15 10
+addContestant 723 1282 4 1 1 2 17 3
+addTeam 1089
+removeTeam 1199
+removeTeam 446
+addContestant 724 472 1 0 1 2 43 7
+addContestant 725 985 1 0 0 3 297 7
+getPartialTeamSkill 2164
+duel 293 945
+recruit 933 694
+addContestant 726 911 1 0 1 2 72 9
+getIthCollectiveMotivationTeam 128
+duel 623 541
+addContestant 727 322 2 0 1 1 8 1
+addContestant 728 1177 3 0 0 1 5 6
+recruit 985 595
+addTeam 966
+addContestant 729 337 3 0 0 1 25 6
+addContestant 730 1269 4 1 1 2 86 9
+addContestant 0 127 2 1 0 1 5 0
+duel 35 1100
+getPartialTeamSkill 220
+getPartialTeamSkill 0
+addTeam 280
+addContestant 731 634 2 1 0 1 36 4
+recruit 917 917
+getPartialTeamSkill 302
+getPartialTeamSkill 549
+getContestantMissionsNumber 253
+addTeam 9
+recruit 846 1077
+getIthCollectiveMotivationTeam 131
+addTeam 592
+getPartialTeamSkill 211
+addContestant 732 815 3 0 0 1 37 10
+duel 676 159
+recruit 884 708
+duel 634 1361
+recruit 535 35
+recruit 109 1368
+getIthCollectiveMotivationTeam 128
+getIthCollectiveMotivationTeam 56
+recruit 634 337
+getContestantMissionsNumber 240
+getIthCollectiveMotivationTeam 103
+getContestantMissionsNumber 659
+getPartialTeamSkill 91
+addContestant 733 1301 1 0 1 2 98 9
+addContestant 734 35 2 0 1 1 87 7
+addContestant 735 1089 3 0 0 1 79 7
+getContestantMissionsNumber 233
+getPartialTeamSkill 608
+getContestantMissionsNumber -1
+recruit 197 420
+duel 1055 204
+addContestant 736 39 1 0 1 2 56 10
+getPartialTeamSkill 609
+addContestant 413 320 2 0 1 1 96 2
+getIthCollectiveMotivationTeam 103
+addTeam 140
+removeTeam 345
+duel 832 903
+getPartialTeamSkill 630
+getIthCollectiveMotivationTeam 139
+addContestant 0 270 2 1 0 1 5 0
+getPartialTeamSkill 587
+addContestant 737 1282 1 0 1 2 394 7
+recruit 595 420
+addContestant 738 175 2 1 0 1 127 8
+duel 1302 1302
+addContestant 739 1131 2 1 0 1 181 7
+duel 179 614
+removeTeam 644
+getContestantMissionsNumber 554
+duel 219 219
+duel 200 708
+getContestantMissionsNumber 425
+getIthCollectiveMotivationTeam 137
+removeTeam 1055
+getPartialTeamSkill 588
+recruit 982 1243
+addContestant 740 929 1 0 0 3 38 1
+getPartialTeamSkill 704
+getPartialTeamSkill 586
+addContestant 741 780 3 0 0 1 107 4
+getContestantMissionsNumber 252
+addContestant 742 1352 2 1 0 1 10 0
+addTeam 1189
+removeTeam 313
+recruit 1248 1243
+removeTeam 351
+getContestantMissionsNumber 2252
+addTeam 1070
+addTeam 512
+getContestantMissionsNumber -1
+duel 179 695
+getIthCollectiveMotivationTeam 62
+duel 469 1063
+duel 577 884
+addTeam 1317
+removeTeam 111
+duel 107 623
+recruit 107 179
+getIthCollectiveMotivationTeam 104
+recruit 1248 1353
+getContestantMissionsNumber 477
+recruit 259 907
+recruit 982 140
+getPartialTeamSkill 0
+duel 659 1063
+removeTeam 623
+getIthCollectiveMotivationTeam 43
+addTeam 373
+addTeam 1231
+getPartialTeamSkill 0
+addContestant 742 752 3 0 0 1 16 9
+getIthCollectiveMotivationTeam 119
+removeTeam 553
+getPartialTeamSkill 474
+getPartialTeamSkill 170
+addContestant 743 127 1 0 1 2 57 6
+getContestantMissionsNumber -1
+getContestantMissionsNumber 187
+getPartialTeamSkill 667
+getIthCollectiveMotivationTeam 136
+getPartialTeamSkill 28
+addContestant 744 352 3 0 0 1 18 7
+duel 1138 197
+addTeam 574
+addContestant 745 424 1 0 1 2 15 9
+getIthCollectiveMotivationTeam 32
+addContestant 746 651 1 0 0 3 175 4
+addContestant 747 1349 2 1 0 1 10 0
+addTeam 275
+addTeam 538
+getContestantMissionsNumber 47
+getPartialTeamSkill 602
+recruit 109 1327
+addContestant 747 316 4 1 1 2 41 2
+addTeam 418
+getContestantMissionsNumber 451
+addContestant 748 1167 1 0 0 3 27 8
+addTeam -534
+recruit 9 524
+getContestantMissionsNumber 2104
+addContestant 749 293 2 0 1 1 14 0
+duel 659 420
+addTeam 518
+addTeam 1141
+addContestant 750 140 1 0 0 3 3 8
+recruit 144 1100
+recruit 1317 614
+getContestantMissionsNumber 2124
+recruit 144 184
+addContestant 751 577 1 0 0 3 97 5
+duel 832 424
+addTeam 1268
+getContestantMissionsNumber 205
+recruit 982 584
+addContestant 752 134 1 0 1 2 28 4
+duel 1177 159
+addContestant 753 322 3 0 0 1 84 4
+getIthCollectiveMotivationTeam 5
+duel 651 1333
+getIthCollectiveMotivationTeam 10
+getPartialTeamSkill 568
+addContestant 754 634 1 0 0 3 11 1
+addTeam 1197
+removeTeam 0
+duel 46 796
+removeTeam 985
+addTeam 204
+addContestant 755 694 1 0 0 3 111 7
+duel 518 831
+getIthCollectiveMotivationTeam 65
+getContestantMissionsNumber 2182
+addTeam 1095
+recruit 725 191
+addContestant 756 1044 1 0 0 3 20 3
+getContestantMissionsNumber 112
+addTeam 40
+getPartialTeamSkill 224
+recruit 469 1332
+addContestant 757 1028 3 0 0 1 55 2
+getContestantMissionsNumber -1
+getPartialTeamSkill 719
+duel 1089 725
+removeTeam 1207
+addContestant 758 700 2 1 0 1 65 1
+addContestant 759 498 1 0 0 3 86 7
+duel 510 134
+removeTeam 1347
+addContestant 760 387 4 1 1 2 64 2
+getIthCollectiveMotivationTeam 27
+getContestantMissionsNumber 436
+getIthCollectiveMotivationTeam 67
+getPartialTeamSkill 2179
+duel 167 167
+addTeam 988
+getContestantMissionsNumber 738
+addContestant 761 1142 1 0 0 3 36 5
+removeTeam 420
+getContestantMissionsNumber 2261
+duel 1179 630
+addContestant 762 538 1 0 0 3 12 6
+addContestant 763 1248 3 0 0 1 102 1
+getIthCollectiveMotivationTeam 35
+addContestant 764 1370 2 1 0 1 10 0
+duel 1141 204
+addContestant 764 1369 2 1 0 1 10 0
+recruit 574 398
+duel 1177 1348
+getContestantMissionsNumber 28
+recruit 352 1347
+getIthCollectiveMotivationTeam 43
+addContestant 764 102 1 0 0 3 12 0
+getContestantMissionsNumber 790
+addContestant 765 456 4 1 1 2 52 0
+getPartialTeamSkill 405
+getPartialTeamSkill 470
+recruit 1077 1089
+getPartialTeamSkill 712
+addTeam -578
+addContestant 766 1360 2 1 0 1 10 0
+getIthCollectiveMotivationTeam 23
+getContestantMissionsNumber 747
+removeTeam 1368
+addContestant 766 659 4 1 1 2 25 4
+duel 469 1268
+getIthCollectiveMotivationTeam 17
+addTeam 24
+duel 105 449
+getIthCollectiveMotivationTeam 116
+duel 233 1177
+getContestantMissionsNumber 450
+getIthCollectiveMotivationTeam 142
+addContestant 767 316 1 0 1 2 148 2
+addTeam 307
+addContestant 768 169 3 0 0 1 1 5
+recruit 630 195
+addTeam 695
+addContestant 769 634 1 0 1 2 39 9
+addTeam 693
+recruit 109 1354
+getIthCollectiveMotivationTeam 27
+addTeam 1307
+removeTeam 127
+removeTeam 1328
+recruit 1138 195
+removeTeam 1231
+duel 762 988
+recruit 46 1070
+getPartialTeamSkill 272
+duel 388 971
+getIthCollectiveMotivationTeam 28
+removeTeam 600
+duel 1274 1301
+getContestantMissionsNumber 477
+getContestantMissionsNumber -1
+addTeam -14
+getPartialTeamSkill 515
+addContestant 770 1179 2 1 0 1 258 9
+addContestant 0 563 2 1 0 1 5 0
+duel 307 469
+getIthCollectiveMotivationTeam 32
+recruit 1171 1171
+getContestantMissionsNumber -1
+addContestant 771 462 3 0 0 1 55 8
+recruit 200 259
+removeTeam 1044
+duel 933 1333
+duel 574 498
+recruit 945 512
+addContestant 772 418 2 0 1 1 30 8
+getIthCollectiveMotivationTeam 55
+getIthCollectiveMotivationTeam 125
+getIthCollectiveMotivationTeam 146
+duel 175 153
+recruit 974 1294
+getPartialTeamSkill 656
+getPartialTeamSkill 506
+getPartialTeamSkill 0
+recruit 988 654
+addContestant 773 717 3 0 0 1 42 6
+addTeam 406
+recruit 654 708
+addContestant 774 1177 3 0 0 1 329 6
+addTeam 106
+getPartialTeamSkill 0
+duel 815 1346
+addContestant 775 1248 1 0 0 3 68 3
+recruit 307 469
+addContestant 776 334 2 0 1 1 248 3
+addContestant 777 639 2 0 1 1 39 6
+getContestantMissionsNumber -1
+duel 293 43
+getIthCollectiveMotivationTeam 23
+getIthCollectiveMotivationTeam 111
+getContestantMissionsNumber 150
+addContestant 778 512 1 0 0 3 113 1
+getContestantMissionsNumber -1
+recruit 614 668
+addTeam 319
+addContestant 779 1063 3 0 0 1 91 10
+getContestantMissionsNumber 626
+recruit 933 957
+recruit 200 319
+recruit 35 107
+getPartialTeamSkill 659
+addContestant 780 159 2 1 0 1 108 6
+recruit 654 695
+recruit 333 333
+duel 1063 30
+getPartialTeamSkill 433
+addContestant 781 717 1 0 0 3 100 7
+recruit 424 1161
+getPartialTeamSkill 774
+duel 1119 1119
+getContestantMissionsNumber 554
+duel 695 9
+duel 907 153
+addTeam 406
+addContestant 782 169 1 0 0 3 175 10
+addTeam 671
+getPartialTeamSkill 601
+removeTeam 825
+addTeam 692
+getContestantMissionsNumber 498
+addContestant 783 424 1 0 0 3 101 6
+addContestant 784 1332 2 1 0 1 10 0
+addTeam 190
+removeTeam 526
+removeTeam 0
+recruit 591 1327
+recruit 204 933
+addContestant 784 752 3 0 0 1 109 0
+addContestant 785 1168 2 1 0 1 1 4
+addContestant 786 204 1 0 0 3 13 7
+removeTeam 0
+addTeam 1289
+duel 591 418
+getIthCollectiveMotivationTeam 77
+duel 971 1328
+recruit 179 620
+addTeam 898
+removeTeam 1189
+getContestantMissionsNumber 65
+duel 109 535
+duel 796 398
+removeTeam 1248
+addTeam 984
+addContestant 311 595 1 0 1 2 52 0
+getContestantMissionsNumber 305
+recruit 134 183
+getPartialTeamSkill 408
+addTeam 760
+getPartialTeamSkill 555
+addContestant 402 1202 3 0 0 1 12 10
+getPartialTeamSkill 236
+duel 903 1367
+addTeam 685
+recruit 182 846
+getIthCollectiveMotivationTeam 90
+getContestantMissionsNumber 2160
+getPartialTeamSkill 328
+recruit 307 933
+getPartialTeamSkill 426
+getIthCollectiveMotivationTeam 7
+recruit 538 694
+getContestantMissionsNumber 205
+getPartialTeamSkill 684
+addContestant 787 1243 2 0 1 1 36 3
+getPartialTeamSkill 509
+getContestantMissionsNumber 714
+addContestant 788 105 1 0 1 2 20 5
+addContestant 505 1138 2 0 1 1 100 0
+addTeam 454
+recruit 541 469
+addTeam 388
+getIthCollectiveMotivationTeam 88
+addTeam 50
+getPartialTeamSkill 387
+recruit 382 382
+getIthCollectiveMotivationTeam 138
+addTeam 12
+recruit 405 676
+addContestant 789 595 2 0 1 1 132 1
+duel 694 12
+getPartialTeamSkill 495
+recruit 982 469
+addTeam 629
+addContestant 790 777 2 1 0 1 80 3
+duel 319 595
+removeTeam 721
+getPartialTeamSkill 2278
+addContestant 791 717 1 0 0 3 24 10
+getIthCollectiveMotivationTeam 32
+getContestantMissionsNumber 267
+addContestant 792 620 3 0 0 1 10 9
+getPartialTeamSkill 512
+getContestantMissionsNumber 239
+duel 433 433
+addTeam 1293
+getPartialTeamSkill 2116
+duel 577 454
+getPartialTeamSkill 520
+recruit 9 629
+addContestant 793 798 4 1 1 2 63 0
+recruit 498 5
+removeTeam 541
+addContestant 794 322 3 0 0 1 41 9
+getIthCollectiveMotivationTeam 159
+getContestantMissionsNumber 471
+removeTeam 984
+getIthCollectiveMotivationTeam 15
+getPartialTeamSkill 219
+getContestantMissionsNumber 154
+addContestant 795 288 2 1 0 1 27 2
+getPartialTeamSkill 488
+addTeam 818
+recruit 620 1289
+removeTeam 510
+addContestant 796 619 3 0 0 1 10 0
+removeTeam 210
+removeTeam 0
+addContestant 797 398 2 0 1 1 84 10
+duel 175 933
+getIthCollectiveMotivationTeam 115
+addContestant 798 259 1 0 1 2 63 6
+addTeam 540
+addContestant 799 50 1 0 0 3 22 6
+addContestant 800 446 1 0 0 3 20 0
+removeTeam 1321
+getContestantMissionsNumber 582
+addContestant 801 12 2 0 1 1 14 6
+getIthCollectiveMotivationTeam 55
+getPartialTeamSkill 152
+recruit 259 1287
+duel 933 43
+getContestantMissionsNumber 383
+getPartialTeamSkill 657
+getPartialTeamSkill 201
+addContestant 802 35 1 0 1 2 65 1
+getPartialTeamSkill 682
+addTeam 717
+getIthCollectiveMotivationTeam 75
+addContestant 803 920 4 1 1 2 36 4
+getIthCollectiveMotivationTeam 70
+getContestantMissionsNumber 40
+addTeam 941
+addContestant 804 280 1 0 1 2 39 10
+getIthCollectiveMotivationTeam 84
+addContestant 805 1243 2 0 1 1 102 1
+getPartialTeamSkill 160
+removeTeam 891
+addContestant 806 7 2 1 0 1 164 6
+addContestant 807 140 2 0 1 1 94 4
+removeTeam 574
+getContestantMissionsNumber 524
+removeTeam 109
+getIthCollectiveMotivationTeam 84
+duel 982 524
+getContestantMissionsNumber 57
+getContestantMissionsNumber 2130
+getIthCollectiveMotivationTeam 134
+duel 945 1138
+getPartialTeamSkill 652
+duel 982 1361
+duel 106 1359
+addContestant 808 1161 2 1 0 1 136 5
+removeTeam 685
+addContestant 809 195 1 0 1 2 86 4
+addContestant 810 974 2 1 0 1 8 6
+getIthCollectiveMotivationTeam 77
+removeTeam 717
+addTeam 1202
+addContestant 811 708 1 0 0 3 40 3
+getPartialTeamSkill 808
+getContestantMissionsNumber -1
+duel 175 796
+duel 832 1358
+addContestant 812 693 1 0 1 2 26 0
+getPartialTeamSkill 634
+getIthCollectiveMotivationTeam 119
+addTeam 576
+recruit 668 1370
+addContestant 813 1177 3 0 0 1 18 6
+addContestant 814 127 4 1 1 2 8 5
+duel 24 352
+getContestantMissionsNumber 118
+addContestant 815 614 1 0 1 2 30 0
+getIthCollectiveMotivationTeam 8
+duel 1141 1257
+addTeam 1196
+recruit 693 1167
+recruit 153 1329
+duel 659 418
+addContestant 816 316 2 1 0 1 79 1
+removeTeam 406
+duel 760 275
+getPartialTeamSkill 759
+addTeam -932
+addContestant 817 1089 1 0 1 2 62 6
+removeTeam 169
+addContestant 818 184 1 0 0 3 17 2
+addContestant 819 676 1 0 0 3 98 5
+removeTeam 832
+duel 197 540
+removeTeam 0
+recruit 651 1293
+getPartialTeamSkill 399
+duel 293 901
+addContestant 718 275 1 0 1 2 28 4
+addContestant 820 911 3 0 0 1 33 2
+removeTeam 1360
+addContestant 821 634 2 1 0 1 22 3
+getIthCollectiveMotivationTeam 28
+getContestantMissionsNumber 618
+addContestant 822 906 1 0 1 2 102 7
+addContestant 823 1294 3 0 0 1 89 10
+duel 815 591
+getPartialTeamSkill 666
+getIthCollectiveMotivationTeam 22
+duel 634 307
+addContestant 824 236 2 0 1 1 4 1
+getContestantMissionsNumber 655
+addContestant 825 418 3 0 0 1 203 6
+addContestant 826 9 2 0 1 1 61 6
+addTeam 119
+removeTeam 945
+addContestant 827 1289 2 0 1 1 20 3
+addContestant 828 449 3 0 0 1 105 7
+getIthCollectiveMotivationTeam 148
+addContestant 140 1197 4 1 1 2 3 8
+addTeam 996
+duel 190 50
+duel 619 1257
+removeTeam 1360
+recruit 1212 1212
+getContestantMissionsNumber 683
+addTeam 757
+getPartialTeamSkill 202
+getContestantMissionsNumber -1
+addContestant 829 553 2 1 0 1 160 6
+duel 105 692
+recruit 577 1356
+addContestant 830 200 1 0 0 3 32 6
+addContestant 831 757 2 1 0 1 5 5
+duel 634 592
+addContestant 832 941 1 0 1 2 14 4
+getContestantMissionsNumber 478
+getContestantMissionsNumber 191
+addTeam 1020
+addContestant 833 1141 1 0 1 2 3 8
+removeTeam 275
+getContestantMissionsNumber 147
+removeTeam 46
+addContestant 834 762 1 0 1 2 33 5
+recruit 614 1353
+duel 933 1357
+getPartialTeamSkill 822
+getIthCollectiveMotivationTeam 111
+addContestant 835 1138 1 0 1 2 92 6
+addContestant 836 621 1 0 0 3 8 8
+removeTeam 424
+addContestant 837 1282 1 0 0 3 57 9
+getPartialTeamSkill 379
+removeTeam 1327
+getContestantMissionsNumber 482
+duel 144 36
+getPartialTeamSkill 71
+getPartialTeamSkill 694
+addContestant 748 777 1 0 0 3 69 2
+addTeam 17
+getIthCollectiveMotivationTeam 104
+recruit 259 540
+recruit 259 1089
+getContestantMissionsNumber 437
+addTeam 670
+getContestantMissionsNumber 260
+recruit 1020 671
+addTeam 620
+duel 668 591
+recruit 966 470
+getPartialTeamSkill 201
+removeTeam 621
+removeTeam 1167
+duel 1243 1325
+removeTeam 780
+addTeam -143
+getContestantMissionsNumber 778
+removeTeam 757
+recruit 179 195
+addTeam 351
+addContestant 541 591 2 0 1 1 21 0
+getContestantMissionsNumber 2136
+getPartialTeamSkill 2118
+duel 910 1077
+recruit 988 620
+addContestant 838 159 4 1 1 2 336 6
+removeTeam 538
+getContestantMissionsNumber 395
+getPartialTeamSkill 744
+addTeam 879
+getContestantMissionsNumber 328
+getIthCollectiveMotivationTeam 34
+addContestant 839 449 2 1 0 1 60 9
+duel 1063 1328
+addContestant 840 373 2 0 1 1 63 10
+getPartialTeamSkill 2158
+getIthCollectiveMotivationTeam 24
+addTeam 204
+removeTeam 0
+getContestantMissionsNumber 324
+addContestant 841 619 3 0 0 1 64 3
+getPartialTeamSkill 152
+addContestant 842 879 3 0 0 1 330 10
+recruit 901 540
+addContestant 843 498 2 1 0 1 136 7
+getIthCollectiveMotivationTeam 152
+recruit 620 966
+getContestantMissionsNumber 98
+recruit 974 274
+recruit 725 1307
+recruit 144 175
+duel 831 1330
+addTeam 242
+removeTeam 140
+addContestant 844 5 3 0 0 1 22 8
+recruit 910 134
+recruit 469 190
+removeTeam 9
+addContestant 845 43 1 0 1 2 140 9
+getContestantMissionsNumber 2210
+addContestant 846 1243 1 0 0 3 121 1
+getIthCollectiveMotivationTeam 74
+duel 762 119
+addContestant 847 197 2 1 0 1 23 2
+addContestant 848 1179 1 0 1 2 38 5
+getContestantMissionsNumber 839
+getContestantMissionsNumber 621
+addTeam 1242
+addTeam 579
+getIthCollectiveMotivationTeam 54
+addTeam 904
+getContestantMissionsNumber 105
+removeTeam 1095
+getIthCollectiveMotivationTeam 20
+getContestantMissionsNumber 393
+removeTeam 619
+addTeam 1107
+addTeam -524
+recruit 595 693
+addTeam 762
+getIthCollectiveMotivationTeam 125
+removeTeam 40
+duel 337 1196
+addContestant 849 184 2 0 1 1 95 5
+getPartialTeamSkill 270
+getContestantMissionsNumber 632
+addContestant 850 1289 2 1 0 1 29 10
+recruit 1282 1070
+getContestantMissionsNumber 2116
+getIthCollectiveMotivationTeam 5
+getPartialTeamSkill 348
+getContestantMissionsNumber 206
+addContestant 851 591 2 0 1 1 26 2
+addContestant 852 1332 2 1 0 1 10 0
+getPartialTeamSkill 92
+addContestant 852 418 1 0 1 2 32 5
+removeTeam 579
+addContestant 853 52 3 0 0 1 250 4
+getContestantMissionsNumber 325
+addTeam 1314
+getContestantMissionsNumber 167
+getPartialTeamSkill 112
+getIthCollectiveMotivationTeam 103
+getPartialTeamSkill 427
+duel 1301 974
+getPartialTeamSkill 258
+addContestant 854 351 1 0 1 2 65 2
+getContestantMissionsNumber 770
+getIthCollectiveMotivationTeam 146
+addContestant 855 1179 2 1 0 1 27 0
+getPartialTeamSkill 402
+removeTeam 153
+duel 418 996
+addContestant 856 1325 2 1 0 1 10 0
+addContestant 856 543 3 0 0 1 40 3
+getPartialTeamSkill 675
+addTeam -592
+addTeam 365
+getContestantMissionsNumber 471
+getPartialTeamSkill 430
+getContestantMissionsNumber 493
+addTeam 584
+getPartialTeamSkill 307
+addContestant 857 933 2 1 0 1 194 9
+getPartialTeamSkill 459
+getPartialTeamSkill 413
+getIthCollectiveMotivationTeam 138
+getContestantMissionsNumber 1060
+addContestant 858 307 2 0 1 1 83 9
+addContestant 859 670 1 0 1 2 25 9
+getPartialTeamSkill 815
+getPartialTeamSkill 325
+getPartialTeamSkill 809
+duel 654 1161
+getContestantMissionsNumber 853
+getContestantMissionsNumber 317
+addTeam 469
+getContestantMissionsNumber 669
+duel 1268 1295
+addContestant 860 1289 1 0 1 2 68 3
+addContestant 861 1348 2 1 0 1 10 0
+recruit 1317 591
+getIthCollectiveMotivationTeam 81
+removeTeam 293
+addContestant 861 1317 1 0 1 2 120 0
+duel 1202 762
+recruit 43 818
+duel 1177 50
+removeTeam 1326
+removeTeam 1338
+duel 634 1242
+duel 144 106
+addContestant 862 35 2 0 1 1 20 0
+recruit 354 182
+getPartialTeamSkill 242
+addTeam 1257
+getIthCollectiveMotivationTeam 145
+duel 134 659
+getIthCollectiveMotivationTeam 39
+removeTeam 50
+getPartialTeamSkill 594
+duel 692 966
+getPartialTeamSkill 339
+getIthCollectiveMotivationTeam 151
+addTeam 825
+recruit 1133 134
+removeTeam 0
+addTeam 43
+addContestant 863 1301 2 0 1 1 163 9
+duel 879 654
+duel 1138 1243
+getContestantMissionsNumber 359
+getIthCollectiveMotivationTeam 33
+getContestantMissionsNumber 416
+addContestant 864 1202 2 1 0 1 130 5
+duel 405 818
+getContestantMissionsNumber 1912
+removeTeam 1317
+getContestantMissionsNumber 2118
+addTeam 1299
+addTeam 1265
+getIthCollectiveMotivationTeam 149
+getPartialTeamSkill 501
+getPartialTeamSkill 108
+addContestant 865 35 1 0 1 2 71 6
+removeTeam 982
+getContestantMissionsNumber 2186
+getContestantMissionsNumber 2129
+getContestantMissionsNumber 2111
+getIthCollectiveMotivationTeam 104
+removeTeam 197
+getIthCollectiveMotivationTeam 14
+recruit 373 911
+duel 1138 700
+getPartialTeamSkill 722
+addTeam 1228
+getPartialTeamSkill 2193
+recruit 404 404
+getContestantMissionsNumber 465
+addContestant 866 671 2 0 1 1 75 2
+duel 831 996
+recruit 898 898
+addContestant 741 708 4 1 1 2 40 3
+addContestant 867 695 3 0 0 1 16 7
+getContestantMissionsNumber 2256
+duel 1294 405
+recruit 405 418
+getPartialTeamSkill 828
+getContestantMissionsNumber 691
+getIthCollectiveMotivationTeam 111
+addContestant 868 693 1 0 0 3 47 10
+addContestant 869 708 4 1 1 2 35 9
+addContestant 870 1077 1 0 1 2 219 10
+addTeam 293
+getPartialTeamSkill 638
+getPartialTeamSkill 778
+duel 36 1077
+getContestantMissionsNumber 2278
+getContestantMissionsNumber 7
+duel 190 344
+addTeam 769
+getContestantMissionsNumber 2207
+duel 777 1340
+getPartialTeamSkill 565
+getContestantMissionsNumber 866
+getPartialTeamSkill 524
+addContestant 871 1293 2 1 0 1 98 3
+duel 588 588
+addContestant 240 1177 3 0 0 1 49 10
+duel 365 1338
+getIthCollectiveMotivationTeam 5
+addContestant 872 535 1 0 1 2 88 2
+addContestant 396 405 2 1 0 1 24 8
+duel 1028 1295
+getContestantMissionsNumber 266
+duel 183 242
+recruit 846 1343
+addTeam 293
+getPartialTeamSkill 788
+addContestant 873 695 2 0 1 1 8 9
+recruit 1020 1333
+getIthCollectiveMotivationTeam 99
+duel 684 684
+duel 1265 777
+recruit 1063 907
+addTeam 644
+getContestantMissionsNumber 9
+addContestant 874 629 1 0 1 2 10 6
+getContestantMissionsNumber 2217
+addContestant 875 352 1 0 0 3 34 7
+recruit 777 595
+addContestant 876 884 3 0 0 1 23 2
+duel 280 39
+getContestantMissionsNumber 365
+recruit 512 344
+addContestant 877 1177 3 0 0 1 266 6
+addTeam 1169
+addTeam 1196
+recruit 388 777
+getPartialTeamSkill 207
+addContestant 487 1202 2 0 1 1 11 5
+recruit 1133 153
+addContestant 878 1077 2 0 1 1 27 9
+getContestantMissionsNumber 828
+removeTeam 966
+addContestant 813 319 3 0 0 1 20 2
+duel 518 1350
+removeTeam 1345
+addContestant 879 352 1 0 0 3 174 0
+getIthCollectiveMotivationTeam 89
+removeTeam 144
+getPartialTeamSkill 2192
+removeTeam 920
+addContestant 880 456 3 0 0 1 191 0
+getPartialTeamSkill 737
+recruit 1282 988
+getContestantMissionsNumber 611
+getIthCollectiveMotivationTeam 81
+getContestantMissionsNumber 244
+getContestantMissionsNumber 820
+duel 777 879
+addTeam 1136
+addContestant 858 17 2 1 0 1 51 5
+removeTeam 1364
+getPartialTeamSkill 572
+addContestant 881 1253 2 0 1 1 85 1
+duel 639 898
+getIthCollectiveMotivationTeam 53
+addContestant 882 629 1 0 0 3 2 9
+recruit 1299 5
+addTeam 111
+addContestant 883 1274 1 0 1 2 125 0
+getContestantMissionsNumber 10
+addContestant 884 971 1 0 1 2 1 1
+addContestant 885 1089 2 1 0 1 112 8
+addContestant 98 107 2 0 1 1 7 1
+duel 1169 907
+addTeam 1254
+addContestant 886 39 2 1 0 1 139 0
+addTeam 1231
+recruit 111 105
+recruit 694 418
+addContestant 887 111 1 0 1 2 43 0
+addTeam 327
+duel 576 107
+addContestant 888 592 3 0 0 1 37 4
+addTeam 191
+recruit 996 280
+getContestantMissionsNumber 25
+duel 337 620
+addTeam 369
+getContestantMissionsNumber 46
+getPartialTeamSkill 2191
+getContestantMissionsNumber 47
+recruit 1274 134
+getPartialTeamSkill 471
+addContestant 889 462 2 0 1 1 67 4
+getPartialTeamSkill 463
+removeTeam 106
+addContestant 890 1138 2 1 0 1 24 9
+addTeam 821
+getPartialTeamSkill 600
+addContestant 891 1133 1 0 0 3 9 0
+duel 179 1289
+addContestant 892 1231 2 1 0 1 40 10
+removeTeam 0
+addTeam 909
+addTeam 284
+getContestantMissionsNumber 2114
+addContestant 893 190 1 0 1 2 139 9
+recruit 337 1078
+recruit 909 1070
+removeTeam 307
+addContestant 894 671 1 0 0 3 285 6
+getPartialTeamSkill 387
+addContestant 895 339 1 0 1 2 60 4
+getIthCollectiveMotivationTeam 134
+duel 725 1253
+duel 344 1351
+addContestant 896 592 3 0 0 1 187 10
+getPartialTeamSkill 565
+recruit 651 351
+getContestantMissionsNumber 672
+addContestant 897 643 2 0 1 1 15 8
+addTeam 228
+addContestant 898 1169 2 1 0 1 115 7
+getContestantMissionsNumber 447
+getPartialTeamSkill 776
+getPartialTeamSkill 790
+recruit 877 877
+addContestant 821 858 2 1 0 1 81 8
+duel 901 752
+addTeam 24
+duel 1161 1338
+getContestantMissionsNumber 748
+getPartialTeamSkill 2169
+addContestant 899 1293 3 0 0 1 332 6
+getContestantMissionsNumber 253
+addTeam 1250
+addTeam 749
+addContestant 291 769 3 0 0 1 67 8
+removeTeam 0
+addContestant 900 825 4 1 1 2 4 8
+addTeam -221
+getIthCollectiveMotivationTeam 159
+duel 182 1136
+duel 353 353
+addContestant 901 1063 3 0 0 1 55 9
+duel 911 5
+addTeam 283
+getIthCollectiveMotivationTeam 62
+addContestant 902 974 4 1 1 2 33 0
+recruit 405 1107
+recruit 974 644
+getPartialTeamSkill 467
+addTeam 863
+getPartialTeamSkill 367
+addTeam 89
+removeTeam 904
+getPartialTeamSkill 0
+getContestantMissionsNumber 901
+getPartialTeamSkill 156
+addContestant 903 30 1 0 0 3 75 7
+duel 629 1369
+getContestantMissionsNumber 492
+getContestantMissionsNumber 332
+getPartialTeamSkill 795
+duel 863 692
+addTeam 1066
+getPartialTeamSkill 769
+duel 708 671
+addContestant 904 901 1 0 0 3 50 0
+recruit 760 1268
+getIthCollectiveMotivationTeam 58
+getIthCollectiveMotivationTeam 16
+getIthCollectiveMotivationTeam 130
+addContestant 905 576 2 1 0 1 101 2
+getIthCollectiveMotivationTeam 41
+getIthCollectiveMotivationTeam 58
+addContestant 906 1077 3 0 0 1 23 0
+addContestant 907 904 3 0 0 1 25 1
+recruit 179 884
+getPartialTeamSkill 2207
+recruit 863 831
+getPartialTeamSkill 666
+recruit 329 329
+addTeam 1068
+addContestant 908 603 1 0 0 3 7 1
+removeTeam 1169
+getPartialTeamSkill 738
+duel 651 1197
+recruit 485 485
+getIthCollectiveMotivationTeam 119
+getIthCollectiveMotivationTeam 161
+addContestant 371 1250 4 1 1 2 52 7
+getContestantMissionsNumber 2225
+addContestant 398 449 1 0 0 3 38 10
+duel 775 775
+removeTeam 1301
+duel 119 1324
+addTeam 126
+recruit 159 694
+addContestant 909 901 2 1 0 1 19 8
+addContestant 910 1089 3 0 0 1 12 1
+recruit 1136 322
+removeTeam 43
+getPartialTeamSkill 2251
+getPartialTeamSkill 461
+addContestant 911 535 2 1 0 1 68 3
+getIthCollectiveMotivationTeam 132
+removeTeam 1257
+addContestant 912 815 3 0 0 1 128 0
+addContestant 913 910 2 0 1 1 24 10
+getPartialTeamSkill 890
+addTeam 590
+addContestant 0 665 2 1 0 1 5 0
+removeTeam 694
+addTeam 496
+getIthCollectiveMotivationTeam 91
+removeTeam 752
+addContestant 914 369 2 0 1 1 4 1
+getIthCollectiveMotivationTeam 69
+getIthCollectiveMotivationTeam 152
+recruit 183 456
+getContestantMissionsNumber 2173
+removeTeam 351
+getPartialTeamSkill 117
+recruit 316 592
+addContestant 915 974 2 0 1 1 2 10
+addContestant 916 863 3 0 0 1 83 1
+getPartialTeamSkill 396
+getIthCollectiveMotivationTeam 159
+getContestantMissionsNumber 2215
+recruit 35 1257
+addTeam -818
+addTeam -594
+addTeam 797
+addTeam 1214
+getIthCollectiveMotivationTeam 108
+addTeam 823
+recruit 634 204
+getPartialTeamSkill 331
+addContestant 917 1250 1 0 0 3 2 8
+addContestant 918 1289 1 0 0 3 41 6
+getPartialTeamSkill 470
+getContestantMissionsNumber 2250
+duel 1100 1289
+addContestant 919 541 2 0 1 1 76 10
+getPartialTeamSkill 2195
+removeTeam 1332
+getIthCollectiveMotivationTeam 48
+removeTeam 590
+duel 708 365
+duel 818 1348
+recruit 1243 1100
+duel 1020 1133
+addContestant 920 259 1 0 0 3 13 3
+getIthCollectiveMotivationTeam 88
+removeTeam 933
+duel 398 639
+getPartialTeamSkill 578
+getPartialTeamSkill 2217
+getContestantMissionsNumber 97
+recruit 242 1369
+getContestantMissionsNumber 129
+addContestant 0 1111 2 1 0 1 5 0
+duel 518 863
+addContestant 921 595 4 1 1 2 3 6
+duel 228 418
+getPartialTeamSkill 844
+getPartialTeamSkill 0
+getContestantMissionsNumber 379
+addContestant 922 996 2 0 1 1 9 3
+getPartialTeamSkill 553
+removeTeam 620
+getIthCollectiveMotivationTeam 156
+addContestant 923 175 4 1 1 2 7 10
+recruit 1141 898
+recruit 595 659
+addContestant 924 879 1 0 0 3 190 5
+addContestant 925 388 2 1 0 1 30 7
+getContestantMissionsNumber 736
+duel 373 1330
+recruit 373 988
+addTeam 646
+addTeam 890
+duel 119 5
+addContestant 926 1196 3 0 0 1 70 5
+recruit 1254 352
+getIthCollectiveMotivationTeam 3
+recruit 17 656
+getContestantMissionsNumber 774
+duel 1294 676
+getPartialTeamSkill 520
+getIthCollectiveMotivationTeam 43
+addContestant 927 426 2 0 1 1 64 5
+getPartialTeamSkill 465
+addContestant 0 966 2 1 0 1 5 0
+getIthCollectiveMotivationTeam 164
+getIthCollectiveMotivationTeam 10
+getPartialTeamSkill 495
+getPartialTeamSkill 272
+getIthCollectiveMotivationTeam 122
+getPartialTeamSkill 789
+addTeam 360
+duel 614 595
+removeTeam 1326
+getContestantMissionsNumber 25
+addContestant 928 126 2 0 1 1 47 5
+recruit 584 700
+getContestantMissionsNumber 2172
+getContestantMissionsNumber 298
+addContestant 929 907 2 1 0 1 109 2
+duel 1136 1077
+addTeam 795
+addContestant 930 1317 2 1 0 1 11 1
+duel 1068 1242
+removeTeam 1242
+addContestant 931 846 1 0 1 2 5 6
+removeTeam 0
+getIthCollectiveMotivationTeam 71
+getIthCollectiveMotivationTeam 57
+getContestantMissionsNumber 411
+getIthCollectiveMotivationTeam 146
+removeTeam 1107
+addTeam -61
+recruit 1100 175
+duel 1214 1028
+removeTeam 535
+getIthCollectiveMotivationTeam 157
+addContestant 932 654 1 0 0 3 30 1
+getIthCollectiveMotivationTeam 129
+duel 890 228
+addTeam 626
+addContestant 0 612 2 1 0 1 5 0
+addContestant 286 107 1 0 0 3 8 6
+duel 725 639
+addContestant 933 916 3 0 0 1 181 2
+getPartialTeamSkill 622
+addTeam 617
+getPartialTeamSkill 875
+addContestant 934 988 1 0 0 3 88 5
+recruit 576 818
+getPartialTeamSkill 707
+duel 1274 449
+recruit 179 890
+getPartialTeamSkill 2187
+getPartialTeamSkill 778
+duel 749 1328
+duel 630 360
+getContestantMissionsNumber 607
+addContestant 935 692 3 0 0 1 19 9
+getPartialTeamSkill 883
+addContestant 693 337 2 1 0 1 20 2
+getPartialTeamSkill 794
+recruit 454 1351
+getPartialTeamSkill 354
+addContestant 206 469 2 0 1 1 101 1
+removeTeam 1253
+addContestant 936 195 2 0 1 1 22 3
+removeTeam 191
+addTeam 1066
+getPartialTeamSkill 404
+getContestantMissionsNumber -1
+removeTeam 0
+addContestant 937 1268 1 0 1 2 28 5
+addContestant 938 700 1 0 1 2 92 1
+duel 462 1351
+getPartialTeamSkill 66
+addContestant 939 313 3 0 0 1 80 5
+addContestant 940 617 3 0 0 1 16 10
+recruit 518 1243
+duel 42 42
+getPartialTeamSkill 0
+addContestant 941 1295 4 1 1 2 68 1
+recruit 898 1326
+getContestantMissionsNumber 241
+removeTeam 1337
+getIthCollectiveMotivationTeam 100
+duel 769 1138
+addTeam 329
+recruit 344 708
+removeTeam 1239
+addContestant 942 1342 2 1 0 1 10 0
+addTeam 661
+getContestantMissionsNumber 570
+getPartialTeamSkill 830
+getContestantMissionsNumber 911
+recruit 1136 316
+addContestant 942 910 2 0 1 1 5 10
+getContestantMissionsNumber 2291
+getIthCollectiveMotivationTeam 159
+getContestantMissionsNumber 533
+getContestantMissionsNumber 568
+addContestant 943 584 3 0 0 1 33 6
+getIthCollectiveMotivationTeam 24
+getContestantMissionsNumber 66
+addTeam 1176
+addTeam 487
+removeTeam 454
+getContestantMissionsNumber 555
+recruit 126 1332
+addTeam 253
+getIthCollectiveMotivationTeam 165
+getPartialTeamSkill 927
+getIthCollectiveMotivationTeam 79
+addTeam 1005
+addContestant 944 512 1 0 1 2 137 10
+addContestant 945 12 1 0 0 3 185 10
+duel 462 337
+addContestant 946 910 1 0 1 2 7 9
+addContestant 947 591 3 0 0 1 76 10
+removeTeam 670
+duel 498 228
+addContestant 948 1179 1 0 1 2 658 5
+removeTeam 1328
+recruit 659 1362
+duel 911 629
+getContestantMissionsNumber 162
+getContestantMissionsNumber 34
+addContestant 0 238 2 1 0 1 5 0
+getPartialTeamSkill 404
+addContestant 949 1138 1 0 1 2 77 7
+addTeam 997
+getContestantMissionsNumber -1
+addContestant 871 639 3 0 0 1 58 3
+getPartialTeamSkill 753
+duel 1005 183
+addTeam -351
+getPartialTeamSkill 778
+addContestant 950 634 3 0 0 1 16 10
+addTeam 320
+getPartialTeamSkill 141
+addContestant 951 119 2 0 1 1 21 0
+addContestant 952 30 1 0 1 2 9 7
+getPartialTeamSkill 2115
+addTeam 579
+duel 595 795
+getPartialTeamSkill 299
+getPartialTeamSkill 120
+getContestantMissionsNumber 624
+duel 327 228
+getIthCollectiveMotivationTeam 166
+recruit 190 1339
+duel 646 890
+recruit 614 1341
+removeTeam 179
+getContestantMissionsNumber 756
+getPartialTeamSkill 357
+getIthCollectiveMotivationTeam 35
+getPartialTeamSkill 883
+duel 204 418
+addTeam 446
+getPartialTeamSkill 0
+getIthCollectiveMotivationTeam 54
+addTeam 668
+addTeam 834
+duel 284 834
+duel 284 354
+addContestant 953 365 2 1 0 1 21 1
+addTeam 496
+duel 111 39
+getIthCollectiveMotivationTeam 58
+addContestant 954 1282 3 0 0 1 146 10
+addTeam 1098
+addTeam 1234
+removeTeam 1268
+addContestant 955 1348 2 1 0 1 10 0
+duel 204 1066
+getIthCollectiveMotivationTeam 171
+recruit 1282 228
+addContestant 955 907 1 0 1 2 272 6
+getContestantMissionsNumber 885
+removeTeam 668
+addTeam 307
+getContestantMissionsNumber 906
+getContestantMissionsNumber 402
+getContestantMissionsNumber 62
+duel 463 463
+addContestant 956 1196 1 0 1 2 178 4
+addContestant 957 405 1 0 0 3 3 8
+addContestant 958 592 3 0 0 1 10 7
+addContestant 959 595 4 1 1 2 33 6
+addContestant 960 159 1 0 1 2 76 3
+recruit 352 1351
+duel 111 284
+addContestant 961 472 4 1 1 2 163 2
+addTeam 985
+duel 634 369
+addContestant 962 1028 1 0 1 2 65 5
+getContestantMissionsNumber 330
+getIthCollectiveMotivationTeam 170
+getContestantMissionsNumber 374
+removeTeam 1202
+duel 661 283
+getIthCollectiveMotivationTeam 60
+addContestant 963 1066 1 0 1 2 5 1
+getContestantMissionsNumber 706
+addTeam 262
+duel 388 327
+recruit 111 352
+getPartialTeamSkill 293
+getPartialTeamSkill 2106
+duel 369 35
+getPartialTeamSkill 931
+getContestantMissionsNumber 673
+getContestantMissionsNumber 873
+getIthCollectiveMotivationTeam 37
+recruit 449 30
+addContestant 964 797 1 0 1 2 7 4
+addTeam 483
+getIthCollectiveMotivationTeam 171
+recruit 1214 1328
+getPartialTeamSkill 2148
+removeTeam 293
+addContestant 965 472 3 0 0 1 343 4
+getIthCollectiveMotivationTeam 4
+removeTeam 831
+duel 116 116
+getContestantMissionsNumber -1
+getPartialTeamSkill 199
+addContestant 966 591 3 0 0 1 43 4
+getPartialTeamSkill 577
+getContestantMissionsNumber 168
+removeTeam 821
+getContestantMissionsNumber 2276
+getIthCollectiveMotivationTeam 9
+addContestant 967 1331 2 1 0 1 10 0
+recruit 795 945
+duel 280 233
+recruit 911 777
+getIthCollectiveMotivationTeam 32
+addContestant 967 725 2 0 1 1 10 1
+getContestantMissionsNumber 29
+getContestantMissionsNumber 642
+addTeam 105
+getContestantMissionsNumber 138
+addContestant 968 119 1 0 0 3 85 3
+addContestant 969 708 2 0 1 1 156 9
+recruit 337 339
+getIthCollectiveMotivationTeam 66
+addContestant 970 941 3 0 0 1 66 0
+getIthCollectiveMotivationTeam 22
+addTeam 500
+getPartialTeamSkill 619
+removeTeam 159
+duel 175 1344
+getPartialTeamSkill 873
+recruit 228 134
+getIthCollectiveMotivationTeam 37
+removeTeam 910
+getIthCollectiveMotivationTeam 86
+getPartialTeamSkill 500
+getContestantMissionsNumber 445
+addTeam 1104
+addTeam 1104
+duel 1100 233
+removeTeam 1287
+getIthCollectiveMotivationTeam 23
+addContestant 971 344 3 0 0 1 69 0
+getIthCollectiveMotivationTeam 106
+getIthCollectiveMotivationTeam 104
+addContestant 972 1228 1 0 1 2 38 2
+removeTeam 760
+getIthCollectiveMotivationTeam 4
+addContestant 973 418 3 0 0 1 7 0
+removeTeam 901
+getIthCollectiveMotivationTeam 102
+recruit 1100 617
+addContestant 974 496 1 0 1 2 28 0
+addContestant 975 316 4 1 1 2 574 0
+duel 388 1346
+getIthCollectiveMotivationTeam 171
+getContestantMissionsNumber 474
+addTeam 1
+addContestant 976 695 1 0 0 3 321 8
+addContestant 977 659 2 0 1 1 186 1
+getPartialTeamSkill 959
+getPartialTeamSkill 425
+removeTeam 1299
+addTeam 640
+getPartialTeamSkill 0
+addContestant 978 796 2 0 1 1 96 0
+addContestant 979 613 3 0 0 1 38 4
+recruit 911 259
+removeTeam 646
+getContestantMissionsNumber 2180
+removeTeam 1366
+duel 35 322
+getPartialTeamSkill 2133
+getPartialTeamSkill 694
+addTeam 907
+getIthCollectiveMotivationTeam 103
+addTeam 765
+addTeam -981
+getPartialTeamSkill 0
+addTeam 841
+duel 233 695
+recruit 1063 301
+getIthCollectiveMotivationTeam 60
+getPartialTeamSkill 853
+duel 224 224
+addContestant 980 670 1 0 0 3 72 6
+duel 1176 909
+removeTeam 449
+getContestantMissionsNumber 703
+addContestant 981 579 1 0 0 3 129 9
+addTeam 195
+duel 834 1289
+duel 12 1231
+recruit 1314 1179
+addTeam 456
+getPartialTeamSkill 530
+getPartialTeamSkill 107
+addContestant 0 1168 2 1 0 1 5 0
+addTeam 591
+getIthCollectiveMotivationTeam 155
+duel 971 1177
+recruit 506 506
+duel 253 483
+getContestantMissionsNumber 1040
+recruit 405 1068
+getPartialTeamSkill 540
+duel 765 617
+addContestant 982 17 2 1 0 1 16 0
+getIthCollectiveMotivationTeam 120
+getContestantMissionsNumber 129
+addContestant 0 327 2 1 0 1 5 0
+recruit 988 1268
+getPartialTeamSkill 501
+getPartialTeamSkill 969
+addContestant 983 1214 2 0 1 1 13 5
+duel 12 1295
+getContestantMissionsNumber 155
+addContestant 984 1353 2 1 0 1 10 0
+getContestantMissionsNumber -1
+removeTeam 403
+getPartialTeamSkill 202
+getPartialTeamSkill 823
+addContestant 984 795 2 0 1 1 13 3
+getPartialTeamSkill 0
+getPartialTeamSkill 969
+getPartialTeamSkill 896
+recruit 175 639
+getIthCollectiveMotivationTeam 100
+getContestantMissionsNumber 404
+addContestant 985 1307 1 0 0 3 4 5
+recruit 997 126
+addContestant 986 39 2 1 0 1 22 2
+removeTeam 1179
+duel 777 360
+duel 1231 1336
+getPartialTeamSkill 724
+addContestant 987 818 3 0 0 1 218 4
+addTeam 1000
+getPartialTeamSkill 658
+addContestant 988 695 1 0 0 3 36 5
+removeTeam 617
+duel 654 823
+addContestant 989 920 2 0 1 1 48 10
+duel 1020 204
+getContestantMissionsNumber 498
+addContestant 990 996 3 0 0 1 163 10
+addTeam 1039
+addContestant 991 690 3 0 0 1 227 5
+addContestant 992 1345 2 1 0 1 10 0
+duel 797 1161
+recruit 200 700
+getPartialTeamSkill 474
+addTeam 749
+addContestant 738 322 3 0 0 1 94 3
+recruit 1141 1265
+getIthCollectiveMotivationTeam 131
+recruit 749 863
+getPartialTeamSkill 874
+addTeam -1265
+getIthCollectiveMotivationTeam 21
+addTeam -1299
+addContestant 992 1039 1 0 1 2 152 6
+duel 1104 259
+recruit 524 749
+addContestant 993 327 2 1 0 1 22 5
+duel 200 1344
+addContestant 994 1362 2 1 0 1 10 0
+recruit 259 36
+getContestantMissionsNumber -1
+removeTeam 424
+recruit 1100 584
+getContestantMissionsNumber 819
+addContestant 994 352 1 0 1 2 33 4
+getPartialTeamSkill 935
+removeTeam 327
+duel 651 591
+getIthCollectiveMotivationTeam 126
+removeTeam 398
+getIthCollectiveMotivationTeam 17
+addContestant 995 469 2 1 0 1 96 5
+getIthCollectiveMotivationTeam 165
+addTeam 825
+addContestant 996 1243 1 0 0 3 73 2
+duel 320 319
+getIthCollectiveMotivationTeam 121
+recruit 996 1196
+getContestantMissionsNumber -1
+duel 907 592
+getIthCollectiveMotivationTeam 109
+getContestantMissionsNumber 941
+removeTeam 1234
+addTeam 1067
+getContestantMissionsNumber 44
+getPartialTeamSkill 802
+getPartialTeamSkill 462
+getPartialTeamSkill 587
+getIthCollectiveMotivationTeam 114
+getContestantMissionsNumber 2106
+duel 639 1350
+getIthCollectiveMotivationTeam 164
+addContestant 997 126 1 0 0 3 30 4
+addContestant 104 462 2 0 1 1 52 8
+duel 630 405
+addContestant 998 1141 1 0 0 3 148 2
+removeTeam 339
+getContestantMissionsNumber 894
+addContestant 999 280 3 0 0 1 74 10
+getPartialTeamSkill 2227
+recruit 846 365
+getContestantMissionsNumber 433
+recruit 320 1150
+addContestant 512 985 1 0 0 3 139 9
+recruit 1282 592
+duel 693 1254
+getPartialTeamSkill 0
+addTeam 1157
+addTeam 472
+removeTeam 456
+addTeam 888
+getContestantMissionsNumber 814
+getIthCollectiveMotivationTeam 151
+addTeam 405
+addTeam 1182
+recruit 640 1294
+removeTeam 36
+removeTeam 105
+getIthCollectiveMotivationTeam 152
+recruit 500 634
+addContestant 1000 352 4 1 1 2 64 4
+getPartialTeamSkill 813
+recruit 337 119
+getContestantMissionsNumber 957
+getPartialTeamSkill 294
+recruit 344 1295
+getContestantMissionsNumber 54
+getIthCollectiveMotivationTeam 40
+getPartialTeamSkill 774
+removeTeam 818
+getPartialTeamSkill 886
+getPartialTeamSkill 2295
+getPartialTeamSkill 618
+getContestantMissionsNumber 351
+getIthCollectiveMotivationTeam 106
+getContestantMissionsNumber 463
+getContestantMissionsNumber 2260
+recruit 482 482
+addContestant 1001 997 3 0 0 1 43 6
+addContestant 1002 1068 2 1 0 1 45 6
+addContestant 1003 242 3 0 0 1 55 2
+duel 5 988
+duel 89 591
+getPartialTeamSkill 873
+getPartialTeamSkill 512
+getContestantMissionsNumber 667
+getContestantMissionsNumber 689
+getContestantMissionsNumber 692
+addTeam 380
+getIthCollectiveMotivationTeam 38
+duel 280 365
+addContestant 1004 1020 1 0 1 2 69 0
+getContestantMissionsNumber 2107
+addTeam 276
+addContestant 1005 496 1 0 0 3 83 1
+recruit 1000 182
+getContestantMissionsNumber 538
+addContestant 0 921 2 1 0 1 5 0
+getIthCollectiveMotivationTeam 154
+duel 700 1177
+recruit 1289 284
+addContestant 1006 1068 2 0 1 1 11 1
+addTeam 274
+addTeam 75
+duel 280 107
+getContestantMissionsNumber 2209
+recruit 233 834
+recruit 898 1351
+removeTeam 0
+getPartialTeamSkill 1000
+addTeam 1157
+getIthCollectiveMotivationTeam 43
+addContestant 1007 1196 1 0 0 3 59 9
+getPartialTeamSkill 793
+getContestantMissionsNumber 157
+addContestant 1008 182 3 0 0 1 107 0
+recruit 310 310
+duel 233 1274
+getPartialTeamSkill 973
+getContestantMissionsNumber 983
+recruit 483 1361
+getContestantMissionsNumber 962
+getContestantMissionsNumber 921
+duel 795 1177
+addContestant 1009 996 1 0 1 2 88 1
+duel 30 1250
+removeTeam 0
+addTeam 38
+getIthCollectiveMotivationTeam 151
+getPartialTeamSkill 992
+recruit 1136 1028
+addTeam 1209
+getContestantMissionsNumber 909
+getPartialTeamSkill 278
+getIthCollectiveMotivationTeam 95
+addContestant 1010 233 1 0 0 3 148 10
+duel 1100 834
+getPartialTeamSkill 790
+addContestant 1011 126 1 0 1 2 29 3
+addContestant 1012 1197 1 0 0 3 8 6
+removeTeam 182
+addContestant 1013 577 1 0 1 2 147 0
+getPartialTeamSkill 896
+getContestantMissionsNumber 34
+getIthCollectiveMotivationTeam 45
+duel 5 695
+removeTeam 634
+getContestantMissionsNumber 920
+getIthCollectiveMotivationTeam 33
+addTeam 816
+addTeam 84
+duel 1104 322
+getIthCollectiveMotivationTeam 63
+addTeam -179
+recruit 640 671
+recruit 30 1367
+getIthCollectiveMotivationTeam 170
+recruit 524 75
+recruit 472 204
+addContestant 1014 190 2 0 1 1 25 3
+addTeam -158
+addContestant 1015 1327 2 1 0 1 10 0
+getContestantMissionsNumber 879
+getContestantMissionsNumber 149
+getContestantMissionsNumber -1
+duel 795 890
+getIthCollectiveMotivationTeam 77
+addContestant 1015 1332 2 1 0 1 10 0
+addTeam 228
+addTeam 1054
+getPartialTeamSkill 660
+addTeam 865
+addContestant 1015 661 1 0 1 2 31 5
+getIthCollectiveMotivationTeam 138
+addTeam 643
+recruit 369 777
+recruit 388 863
+recruit 1314 903
+addContestant 1016 644 2 1 0 1 9 2
+addTeam 586
+getContestantMissionsNumber 813
+getIthCollectiveMotivationTeam 133
+addTeam 168
+addContestant 79 24 2 1 0 1 8 1
+removeTeam 1070
+addContestant 1017 190 1 0 1 2 39 4
+getPartialTeamSkill 903
+recruit 1231 184
+addContestant 1018 997 1 0 0 3 2 5
+getPartialTeamSkill 518
+addContestant 1019 1339 2 1 0 1 10 0
+getPartialTeamSkill 580
+getIthCollectiveMotivationTeam 129
+getIthCollectiveMotivationTeam 32
+getIthCollectiveMotivationTeam 132
+addContestant 1019 1141 2 1 0 1 11 1
+duel 1133 629
+addContestant 1020 586 3 0 0 1 94 7
+removeTeam 796
+addTeam 740
+getIthCollectiveMotivationTeam 136
+addContestant 305 1289 2 1 0 1 114 6
+duel 1054 498
+duel 1133 1028
+getContestantMissionsNumber 537
+getPartialTeamSkill 122
+getPartialTeamSkill 786
+getIthCollectiveMotivationTeam 1
+getContestantMissionsNumber 749
+getContestantMissionsNumber 1252
+getContestantMissionsNumber 144
+getIthCollectiveMotivationTeam 28
+getIthCollectiveMotivationTeam 15
+getPartialTeamSkill 894
+getContestantMissionsNumber 369
+getContestantMissionsNumber 487
+addContestant 1021 941 3 0 0 1 39 4
+addTeam 1092
+duel 233 1133
+addContestant 1022 75 1 0 1 2 4 4
+addContestant 1023 228 2 1 0 1 63 8
+getContestantMissionsNumber 488
+recruit 592 1077
+addTeam 605
+addContestant 1024 584 2 0 1 1 80 4
+duel 740 1332
+duel 190 654
+getContestantMissionsNumber 2290
+recruit 1307 795
+addTeam 412
+getContestantMissionsNumber 333
+recruit 319 190
+recruit 262 605
+removeTeam 307
+addContestant 1025 259 2 0 1 1 148 1
+getIthCollectiveMotivationTeam 177
+removeTeam 586
+getIthCollectiveMotivationTeam 65
+getIthCollectiveMotivationTeam 19
+addContestant 1026 974 2 1 0 1 133 4
+getContestantMissionsNumber 975
+removeTeam 89
+addContestant 1027 1177 1 0 0 3 149 6
+addTeam 398
+getContestantMissionsNumber 278
+getIthCollectiveMotivationTeam 173
+getPartialTeamSkill 263
+getPartialTeamSkill 1026
+getContestantMissionsNumber 875
+recruit 195 1342
+recruit 626 1358
+duel 863 740
+addContestant 1028 907 1 0 0 3 104 2
+getPartialTeamSkill 201
+recruit 1089 1347
+getContestantMissionsNumber 646
+getContestantMissionsNumber 964
+getPartialTeamSkill 917
+addTeam 366
+addContestant 1029 39 1 0 0 3 11 9
+duel 373 629
+addTeam 229
+addTeam 1236
+addContestant 1030 1138 2 0 1 1 65 8
+getPartialTeamSkill 91
+addContestant 1031 190 2 1 0 1 67 2
+addTeam 982
+addTeam 980
+duel 762 1092
+getIthCollectiveMotivationTeam 49
+addTeam 1273
+duel 262 777
+removeTeam 1324
+getContestantMissionsNumber 380
+duel 645 645
+getIthCollectiveMotivationTeam 109
+addTeam 1098
+addContestant 1032 1 2 0 1 1 124 8
+getPartialTeamSkill 1024
+duel 38 1067
+addContestant 1033 695 1 0 0 3 76 5
+addTeam 877
+getContestantMissionsNumber 1031
+duel 576 797
+getPartialTeamSkill 259
+duel 228 1282
+addContestant 1034 1236 1 0 0 3 132 1
+addContestant 1035 1067 1 0 1 2 23 6
+addContestant 1036 576 1 0 1 2 25 3
+addContestant 1037 38 2 1 0 1 54 1
+getPartialTeamSkill 2174
+addContestant 1038 24 1 0 0 3 29 9
+addTeam 877
+getContestantMissionsNumber 794
+addContestant 1039 903 2 0 1 1 9 4
+addTeam 159
+getIthCollectiveMotivationTeam 28
+getContestantMissionsNumber 2252
+getContestantMissionsNumber 79
+addContestant 1040 1345 2 1 0 1 10 0
+addContestant 1040 629 3 0 0 1 31 3
+getIthCollectiveMotivationTeam 182
+getPartialTeamSkill 963
+getIthCollectiveMotivationTeam 189
+getIthCollectiveMotivationTeam 110
+getPartialTeamSkill 470
+addContestant 1041 941 4 1 1 2 8 6
+addTeam 1223
+removeTeam 888
+addContestant 1042 1253 4 1 1 2 44 2
+duel 803 803
+addContestant 1043 462 2 1 0 1 29 8
+addTeam 854
+addContestant 0 152 2 1 0 1 5 0
+getPartialTeamSkill 490
+recruit 30 909
+recruit 496 322
+duel 233 1331
+duel 1063 614
+addContestant 1044 388 2 1 0 1 64 9
+getIthCollectiveMotivationTeam 148
+duel 518 982
+addTeam 98
+getContestantMissionsNumber 776
+addTeam 936
+addTeam 533
+addTeam 315
+getIthCollectiveMotivationTeam 34
+addTeam 911
+addTeam 982
+getIthCollectiveMotivationTeam 45
+getIthCollectiveMotivationTeam 43
+addContestant 1045 1100 1 0 1 2 2 4
+duel 907 498
+addTeam 586
+addContestant 1046 1307 1 0 1 2 89 8
+addContestant 1047 472 1 0 1 2 59 6
+addTeam 1018
+getIthCollectiveMotivationTeam 160
+duel 1228 1066
+addContestant 1048 329 3 0 0 1 25 7
+addContestant 1049 1326 2 1 0 1 10 0
+removeTeam 762
+getIthCollectiveMotivationTeam 21
+getIthCollectiveMotivationTeam 193
+addContestant 1049 1338 2 1 0 1 10 0
+addContestant 1049 659 1 0 0 3 21 0
+duel 276 1327
+getContestantMissionsNumber 937
+getContestantMissionsNumber 803
+removeTeam 1054
+addTeam 113
+duel 651 380
+getContestantMissionsNumber 2027
+addContestant 1050 228 1 0 0 3 2 8
+addContestant 1051 877 1 0 1 2 66 0
+getContestantMissionsNumber 693
+recruit 829 829
+getPartialTeamSkill 936
+addTeam 1320
+addContestant 1052 496 1 0 0 3 27 7
+getIthCollectiveMotivationTeam 105
+addContestant 313 50 2 0 1 1 59 8
+addTeam 982
+getPartialTeamSkill 563
+getPartialTeamSkill 533
+addContestant 735 595 4 1 1 2 70 7
+getIthCollectiveMotivationTeam 188
+removeTeam 1354
+recruit 1003 1003
+addContestant 1053 1293 1 0 0 3 213 10
+addContestant 751 12 2 0 1 1 109 8
+getIthCollectiveMotivationTeam 34
+addTeam 57
+getIthCollectiveMotivationTeam 183
+addTeam 366
+addTeam 197
+duel 412 175
+duel 674 674
+addContestant 1054 1196 2 1 0 1 67 0
+recruit 1228 671
+addTeam 585
+getContestantMissionsNumber -1
+addTeam 917
+getContestantMissionsNumber 932
+recruit 398 1347
+recruit 1274 5
+addContestant 21 1018 2 1 0 1 127 8
+addTeam 88
+getPartialTeamSkill 970
+duel 75 700
+recruit 1174 1174
+getContestantMissionsNumber 650
+getPartialTeamSkill 710
+addTeam 1076
+addContestant 1055 659 2 1 0 1 74 3
+duel 228 1100
+getIthCollectiveMotivationTeam 110
+removeTeam 1104
+duel 405 1361
+duel 863 676
+recruit 197 595
+getPartialTeamSkill 618
+getPartialTeamSkill 553
+addContestant 1056 911 2 0 1 1 1 8
+recruit 1039 941
+addContestant 1057 373 1 0 1 2 16 0
+getContestantMissionsNumber 313
+getPartialTeamSkill 58
+recruit 1089 1354
+getPartialTeamSkill 0
+getIthCollectiveMotivationTeam 71
+getPartialTeamSkill 990
+getPartialTeamSkill 2242
+getIthCollectiveMotivationTeam 121
+duel 1 1347
+addContestant 594 834 1 0 1 2 12 8
+removeTeam 113
+addContestant 1058 228 3 0 0 1 38 3
+addContestant 1059 630 3 0 0 1 245 4
+addContestant 1060 1307 4 1 1 2 13 5
+getPartialTeamSkill 0
+duel 524 366
+recruit 60 60
+recruit 134 1076
+removeTeam 412
+addContestant 1061 512 2 1 0 1 78 2
+getPartialTeamSkill 73
+getContestantMissionsNumber 82
+removeTeam 1254
+addTeam 1241
+removeTeam 898
+getContestantMissionsNumber 2191
+addContestant 1062 816 4 1 1 2 40 2
+addContestant 1063 319 1 0 1 2 53 8
+addContestant 658 533 2 0 1 1 168 4
+addContestant 1012 630 3 0 0 1 7 4
+getPartialTeamSkill 140
+removeTeam 605
+getPartialTeamSkill 332
+addContestant 1064 547 1 0 1 2 69 8
+addContestant 1065 119 1 0 1 2 86 7
+recruit 1196 1359
+getIthCollectiveMotivationTeam 109
+addContestant 1066 1265 1 0 1 2 45 8
+getIthCollectiveMotivationTeam 134
+addContestant 268 579 3 0 0 1 141 6
+getPartialTeamSkill 658
+getIthCollectiveMotivationTeam 88
+duel 1089 693
+removeTeam 341
+addContestant 1067 12 1 0 1 2 45 1
+addTeam 1320
+addTeam 806
+getContestantMissionsNumber 6
+removeTeam 1324
+getContestantMissionsNumber 364
+getIthCollectiveMotivationTeam 163
+duel 242 262
+getPartialTeamSkill 1064
+getPartialTeamSkill 589
+recruit 1265 1330
+getContestantMissionsNumber 588
+addContestant 1068 568 4 1 1 2 32 8
+removeTeam 676
+duel 579 659
+addTeam 182
+addContestant 1069 228 1 0 0 3 2 8
+removeTeam 418
+recruit 242 1295
+recruit 352 1055
+addTeam 236
+addContestant 1070 576 3 0 0 1 8 6
+addTeam 1156
+getIthCollectiveMotivationTeam 190
+getIthCollectiveMotivationTeam 155
+addTeam -177
+duel 228 352
+addContestant 1071 524 1 0 1 2 4 8
+addContestant 1072 1340 2 1 0 1 10 0
+removeTeam 1066
+addContestant 1072 380 1 0 0 3 29 6
+addContestant 1073 283 3 0 0 1 108 5
+getContestantMissionsNumber -1
+getIthCollectiveMotivationTeam 191
+getPartialTeamSkill 804
+duel 38 1157
+addTeam 459
+addTeam 242
+duel 629 577
+getContestantMissionsNumber 179
+addContestant 0 482 2 1 0 1 5 0
+addTeam 302
+getIthCollectiveMotivationTeam 123
+getContestantMissionsNumber 1053
+recruit 204 319
+addTeam 702
+duel 659 1337
+removeTeam 592
+getPartialTeamSkill 2293
+getContestantMissionsNumber 2149
+recruit 586 936
+removeTeam 1352
+getPartialTeamSkill 537
+removeTeam 0
+removeTeam 483
+removeTeam 0
+getContestantMissionsNumber 2279
+getIthCollectiveMotivationTeam 150
+duel 834 259
+getPartialTeamSkill 1027
+addTeam 1066
+removeTeam 446
+getIthCollectiveMotivationTeam 97
+getPartialTeamSkill 786
+getContestantMissionsNumber 278
+getContestantMissionsNumber 657
+recruit 1138 388
+addTeam 168
+duel 909 5
+getPartialTeamSkill 2289
+getContestantMissionsNumber 534
+addContestant 1074 1136 2 1 0 1 25 0
+duel 834 373
+getPartialTeamSkill 976
+getContestantMissionsNumber 2119
+getPartialTeamSkill 835
+getContestantMissionsNumber 777
+duel 1098 57
+getIthCollectiveMotivationTeam 192
+addContestant 1075 765 3 0 0 1 60 4
+recruit 276 119
+addContestant 27 700 1 0 0 3 117 2
+recruit 197 533
+duel 708 1000
+getPartialTeamSkill 736
+duel 195 708
+removeTeam 1133
+getContestantMissionsNumber 372
+duel 879 322
+addContestant 1076 518 2 0 1 1 37 5
+addContestant 1077 1018 3 0 0 1 66 0
+getPartialTeamSkill 816
+getPartialTeamSkill 965
+recruit 971 1352
+getIthCollectiveMotivationTeam 148
+addTeam 8
+removeTeam 469
+getContestantMissionsNumber 96
+addTeam 1253
+getContestantMissionsNumber 13
+duel 725 388
+duel 1295 1138
+getIthCollectiveMotivationTeam 65
+recruit 75 996
+getPartialTeamSkill 586
+addContestant 1078 512 1 0 0 3 56 3
+addTeam 1098
+duel 524 1089
+getPartialTeamSkill 440
+addContestant 1079 911 2 0 1 1 157 7
+addTeam 827
+addContestant 1080 939 4 1 1 2 112 10
+getPartialTeamSkill 1005
+duel 388 884
+addTeam 106
+getIthCollectiveMotivationTeam 137
+duel 1039 877
+recruit 579 974
+duel 1 659
+addContestant 1081 1332 2 1 0 1 10 0
+addTeam 95
+getContestantMissionsNumber 113
+getIthCollectiveMotivationTeam 1
+addContestant 1081 877 2 0 1 1 24 1
+addContestant 1082 765 4 1 1 2 12 3
+getPartialTeamSkill 934
+duel 846 315
+removeTeam 626
+recruit 1039 936
+duel 1265 197
+addTeam 170
+addContestant 1083 1156 3 0 0 1 29 10
+duel 1289 1176
+getPartialTeamSkill 442
+addContestant 1084 229 2 1 0 1 38 6
+addContestant 1085 909 1 0 1 2 166 6
+duel 1053 1053
+addContestant 1086 907 1 0 1 2 29 7
+addContestant 1087 1161 1 0 0 3 44 8
+getPartialTeamSkill 908
+getPartialTeamSkill 430
+getIthCollectiveMotivationTeam 99
+recruit 1294 1265
+addContestant 1088 1214 1 0 0 3 67 7
+addContestant 1089 941 3 0 0 1 51 1
+addContestant 1090 1326 2 1 0 1 10 0
+getContestantMissionsNumber 775
+getPartialTeamSkill 874
+removeTeam 1326
+duel 1243 585
+addTeam 24
+addContestant 1090 1066 3 0 0 1 11 5
+addTeam 146
+duel 524 75
+recruit 134 518
+getPartialTeamSkill 641
+recruit 98 1236
+getContestantMissionsNumber 711
+addContestant 1091 1067 3 0 0 1 17 0
+addTeam 791
+removeTeam 595
+getIthCollectiveMotivationTeam 163
+getIthCollectiveMotivationTeam 202
+getContestantMissionsNumber 294
+addTeam 1184
+getPartialTeamSkill 946
+removeTeam 0
+recruit 816 182
+addContestant 1092 791 2 0 1 1 65 5
+getIthCollectiveMotivationTeam 195
+duel 841 1236
+removeTeam 380
+getPartialTeamSkill 2175
+getContestantMissionsNumber 2192
+duel 749 107
+getIthCollectiveMotivationTeam 90
+getIthCollectiveMotivationTeam 200
+getIthCollectiveMotivationTeam 190
+addContestant 1093 316 2 0 1 1 23 8
+addContestant 1094 204 3 0 0 1 51 9
+duel 17 1326
+getPartialTeamSkill 1083
+removeTeam 366
+removeTeam 1360
+getContestantMissionsNumber 1374
+getPartialTeamSkill 79
+getContestantMissionsNumber 271
+addContestant 1095 827 2 1 0 1 162 6
+addContestant 1096 1089 1 0 0 3 107 3
+getIthCollectiveMotivationTeam 159
+removeTeam 236
+recruit 405 146
+recruit 911 1092
+duel 316 540
+getIthCollectiveMotivationTeam 18
+recruit 1307 500
+getPartialTeamSkill 588
+duel 17 1352
+addContestant 0 141 2 1 0 1 5 0
+getIthCollectiveMotivationTeam 97
+getPartialTeamSkill 648
+addContestant 1097 1328 2 1 0 1 10 0
+addContestant 1097 980 1 0 0 3 105 3
+addTeam 84
+duel 777 1326
+getPartialTeamSkill 2216
+addTeam 1073
+recruit 388 95
+addTeam 128
+addContestant 1098 1196 2 1 0 1 64 6
+getContestantMissionsNumber 790
+getPartialTeamSkill 653
+addTeam 240
+getPartialTeamSkill 504
+removeTeam 1243
+addContestant 1099 98 2 1 0 1 38 1
+addContestant 1100 228 1 0 0 3 94 10
+getContestantMissionsNumber 211
+addContestant 1101 1136 3 0 0 1 82 0
+recruit 769 815
+recruit 8 907
+addContestant 1102 752 4 1 1 2 54 8
+addContestant 1103 936 1 0 0 3 55 0
+addTeam -366
+addContestant 1104 1039 2 0 1 1 247 8
+getContestantMissionsNumber 2134
+addTeam 465
+getIthCollectiveMotivationTeam 185
+addTeam 1165
+getIthCollectiveMotivationTeam 204
+getPartialTeamSkill 810
+getPartialTeamSkill 197
+duel 586 337
+getPartialTeamSkill 600
+getIthCollectiveMotivationTeam 170
+duel 228 700
+duel 126 1177
+recruit 708 1335
+addContestant 1105 354 1 0 0 3 81 5
+removeTeam 749
+getContestantMissionsNumber 910
+getIthCollectiveMotivationTeam 99
+getIthCollectiveMotivationTeam 129
+getPartialTeamSkill 957
+getPartialTeamSkill 38
+removeTeam 0
+addTeam 1170
+addContestant 0 626 2 1 0 1 5 0
+getPartialTeamSkill 493
+getPartialTeamSkill 859
+addTeam 1241
+getPartialTeamSkill 459
+removeTeam 259
+getPartialTeamSkill 2299
+getIthCollectiveMotivationTeam 130
+duel 487 584
+duel 1228 702
+getIthCollectiveMotivationTeam 156
+addContestant 1106 337 1 0 1 2 86 1
+getContestantMissionsNumber 1563
+getIthCollectiveMotivationTeam 48
+addContestant 1107 228 1 0 0 3 105 5
+addContestant 1108 877 2 1 0 1 34 8
+getContestantMissionsNumber 537
+getIthCollectiveMotivationTeam 197
+getContestantMissionsNumber 1106
+removeTeam 1028
+getContestantMissionsNumber 775
+addContestant 1109 1347 2 1 0 1 10 0
+recruit 365 134
+addContestant 28 1282 2 0 1 1 123 6
+getContestantMissionsNumber 18
+addContestant 1109 863 2 0 1 1 134 0
+getPartialTeamSkill 565
+recruit 182 670
+getPartialTeamSkill 875
+duel 1005 354
+addContestant 1110 997 4 1 1 2 20 5
+addContestant 1111 1231 2 1 0 1 4 2
+removeTeam 865
+getPartialTeamSkill 201
+getContestantMissionsNumber 909
+getContestantMissionsNumber 453
+getContestantMissionsNumber 2200
+getContestantMissionsNumber 1317
+recruit 765 190
+getContestantMissionsNumber 81
+recruit 890 907
+addTeam 937
+addContestant 1112 1231 1 0 1 2 28 5
+removeTeam 614
+addTeam 210
+addTeam 1200
+recruit 884 1209
+addTeam 716
+addTeam 919
+recruit 996 1352
+recruit 210 1342
+getPartialTeamSkill 1012
+recruit 890 1343
+getPartialTeamSkill 809
+addContestant 1113 1320 1 0 1 2 148 10
+addContestant 1114 834 1 0 0 3 21 5
+addContestant 1115 369 3 0 0 1 455 10
+addContestant 1116 329 2 0 1 1 7 8
+getPartialTeamSkill 1013
+duel 974 1273
+addTeam -92
+addContestant 1117 791 3 0 0 1 194 1
+duel 498 320
+removeTeam 1353
+recruit 1320 846
+addContestant 1118 1295 1 0 1 2 17 8
+removeTeam 941
+removeTeam 540
+addContestant 1119 985 1 0 0 3 53 8
+getContestantMissionsNumber 555
+addTeam 1303
+recruit 1200 1327
+getPartialTeamSkill 985
+duel 1307 1293
+addContestant 93 558 1 0 1 2 157 5
+getPartialTeamSkill 971
+addContestant 8 586 2 0 1 1 95 5
+addContestant 1120 740 3 0 0 1 31 2
+addContestant 1121 576 4 1 1 2 3 1
+addContestant 1122 1138 1 0 0 3 8 4
+addContestant 1123 884 3 0 0 1 6 10
+addContestant 1124 106 2 1 0 1 128 1
+duel 919 1365
+getPartialTeamSkill 547
+getIthCollectiveMotivationTeam 60
+duel 322 1344
+recruit 1295 170
+duel 1000 1289
+removeTeam 0
+addContestant 1125 315 2 1 0 1 23 8
+addTeam 1018
+duel 584 716
+addContestant 1126 1039 2 1 0 1 81 6
+addContestant 1127 1063 1 0 1 2 35 8
+recruit 419 419
+getIthCollectiveMotivationTeam 40
+duel 708 579
+addTeam 954
+getContestantMissionsNumber 2259
+recruit 911 1133
+addTeam 1225
+addContestant 1128 475 2 1 0 1 19 6
+getIthCollectiveMotivationTeam 11
+getPartialTeamSkill 589
+duel 1293 352
+getIthCollectiveMotivationTeam 199
+getPartialTeamSkill 2137
+removeTeam 702
+addTeam 471
+recruit 661 17
+duel 354 700
+duel 111 1141
+getIthCollectiveMotivationTeam 11
+addContestant 1129 190 1 0 0 3 27 10
+recruit 373 229
+addTeam 959
+removeTeam 0
+addTeam 1079
+addContestant 1130 283 3 0 0 1 18 5
+addContestant 1131 1320 3 0 0 1 10 7
+getIthCollectiveMotivationTeam 33
+getIthCollectiveMotivationTeam 207
+recruit 35 373
+getIthCollectiveMotivationTeam 67
+getContestantMissionsNumber 810
+getPartialTeamSkill 493
+recruit 24 1322
+duel 183 974
+addTeam 400
+addContestant 1132 30 2 1 0 1 121 2
+getIthCollectiveMotivationTeam 8
+getContestantMissionsNumber 2143
+getPartialTeamSkill 870
+getPartialTeamSkill 292
+duel 280 128
+getContestantMissionsNumber 967
+addTeam 786
+addContestant 1133 1225 2 1 0 1 122 3
+addTeam 863
+removeTeam 25
+addContestant 1134 769 2 1 0 1 73 2
+getIthCollectiveMotivationTeam 163
+addContestant 1135 1307 4 1 1 2 200 4
+addTeam 530
+duel 128 344
+addContestant 1136 512 2 0 1 1 10 5
+getPartialTeamSkill 726
+removeTeam 344
+addContestant 1137 577 2 1 0 1 12 0
+recruit 284 919
+addContestant 1138 240 2 1 0 1 95 1
+removeTeam 315
+getContestantMissionsNumber 533
+addContestant 1139 319 4 1 1 2 214 10
+duel 1182 1228
+addContestant 1140 354 1 0 0 3 3 10
+removeTeam 827
+getContestantMissionsNumber 91
+recruit 354 1104
+addTeam 954
+getIthCollectiveMotivationTeam 206
+removeTeam 0
+addContestant 1141 1307 2 0 1 1 17 6
+getPartialTeamSkill 672
+addContestant 0 39 2 1 0 1 5 0
+getIthCollectiveMotivationTeam 84
+getContestantMissionsNumber 307
+removeTeam 1197
+addContestant 1142 661 4 1 1 2 190 8
+addContestant 1143 1196 2 0 1 1 43 7
+getPartialTeamSkill 811
+addContestant 1144 823 3 0 0 1 54 1
+recruit 577 183
+getContestantMissionsNumber 238
+getPartialTeamSkill 919
+recruit 907 915
+addContestant 246 600 4 1 1 2 59 8
+getPartialTeamSkill 889
+addContestant 1145 322 1 0 0 3 5 4
+removeTeam 0
+recruit 815 629
+getPartialTeamSkill 2269
+addContestant 1146 184 1 0 0 3 43 4
+getPartialTeamSkill 2215
+duel 388 586
+getContestantMissionsNumber 494
+getIthCollectiveMotivationTeam 72
+getContestantMissionsNumber 1063
+getPartialTeamSkill 0
+getIthCollectiveMotivationTeam 49
+getContestantMissionsNumber -1
+getPartialTeamSkill 2175
+addContestant 1147 1156 1 0 0 3 25 6
+duel 1273 274
+addContestant 1148 465 4 1 1 2 32 1
+addTeam 517
+removeTeam 498
+getIthCollectiveMotivationTeam 163
+duel 1293 1335
+getPartialTeamSkill 753
+addContestant 1149 57 2 1 0 1 14 5
+getIthCollectiveMotivationTeam 200
+duel 1234 1234
+getIthCollectiveMotivationTeam 208
+addTeam 171
+duel 88 24
+getIthCollectiveMotivationTeam 124
+getPartialTeamSkill 2297
+getContestantMissionsNumber 226
+addContestant 1150 197 1 0 0 3 72 6
+addTeam 812
+addContestant 1151 84 3 0 0 1 319 9
+getIthCollectiveMotivationTeam 184
+duel 1156 1076
+recruit 388 954
+getPartialTeamSkill 1032
+recruit 740 190
+addTeam 1211
+duel 879 352
+removeTeam 1170
+duel 322 1369
+getPartialTeamSkill 860
+recruit 1177 708
+recruit 111 1334
+addContestant 1152 1320 3 0 0 1 32 1
+getPartialTeamSkill 726
+addTeam 1095
+addContestant 1153 175 2 1 0 1 117 0
+removeTeam 0
+getPartialTeamSkill 1003
+addTeam 524
+addTeam 430
+getIthCollectiveMotivationTeam 2
+removeTeam 1079
+addContestant 1154 890 1 0 0 3 73 5
+duel 524 693
+addContestant 1155 57 2 0 1 1 32 5
+addTeam 291
+recruit 825 1141
+getContestantMissionsNumber 165
+removeTeam 0
+addContestant 1156 911 3 0 0 1 172 1
+getContestantMissionsNumber 2134
+removeTeam 5
+getPartialTeamSkill 375
+addContestant 1157 584 4 1 1 2 85 3
+addTeam 377
+addTeam 772
+getContestantMissionsNumber 2180
+duel 12 1211
+getPartialTeamSkill 332
+getPartialTeamSkill 1034
+addContestant 1158 17 3 0 0 1 25 5
+getIthCollectiveMotivationTeam 159
+addContestant 1159 1362 2 1 0 1 10 0
+duel 1196 1196
+removeTeam 795
+removeTeam 204
+addContestant 1159 584 1 0 0 3 292 7
+addContestant 1160 971 3 0 0 1 236 0
+recruit 84 339
+removeTeam 576
+duel 1000 398
+duel 1157 1092
+recruit 1211 877
+recruit 111 337
+addContestant 1161 1165 1 0 0 3 128 1
+getContestantMissionsNumber 294
+duel 518 200
+duel 591 1177
+getContestantMissionsNumber -1
+removeTeam 400
+getPartialTeamSkill 2107
+getIthCollectiveMotivationTeam 115
+addContestant 1162 270 4 1 1 2 10 3
+addContestant 1163 75 1 0 0 3 12 4
+addContestant 1164 1303 1 0 0 3 126 10
+removeTeam 524
+addContestant 1165 316 1 0 1 2 46 10
+getContestantMissionsNumber 849
+duel 107 365
+addContestant 1166 841 3 0 0 1 11 6
+duel 84 1282
+getIthCollectiveMotivationTeam 52
+removeTeam 575
+getContestantMissionsNumber 1021
+recruit 877 877
+recruit 228 757
+getIthCollectiveMotivationTeam 207
+getContestantMissionsNumber 1113
+getPartialTeamSkill 894
+duel 1141 1165
+getIthCollectiveMotivationTeam 125
+duel 708 75
+duel 937 661
+getPartialTeamSkill 835
+addContestant 1167 1008 2 0 1 1 181 6
+getPartialTeamSkill 1072
+addContestant 1168 708 1 0 0 3 75 4
+addContestant 1169 128 2 0 1 1 452 7
+addContestant 1170 111 1 0 0 3 88 0
+duel 777 1327
+removeTeam 1184
+duel 996 1273

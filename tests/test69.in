@@ -1,0 +1,11 @@
+removeTeam 999
+addContestant 1 999 1 0 0 1 10 0
+getContestantMissionsNumber 1
+getPartialTeamSkill 1
+duel 1 2
+getIthCollectiveMotivationTeam 1
+getIthCollectiveMotivationTeam 0
+addTeam 1
+addTeam 1
+removeTeam 1
+removeTeam 1

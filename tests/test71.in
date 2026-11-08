@@ -1,0 +1,12 @@
+addTeam 1
+addTeam 2
+addTeam 3
+addTeam 4
+addContestant 11 1 2 0 0 2 10 0
+addContestant 21 2 3 0 0 1 10 0
+addContestant 31 3 1 0 0 1 20 0
+addContestant 41 4 1 0 0 1 10 0
+duel 1 2
+duel 3 1
+duel 2 4
+duel 4 4
